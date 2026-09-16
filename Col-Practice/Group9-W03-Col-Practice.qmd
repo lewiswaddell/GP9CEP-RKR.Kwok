@@ -196,7 +196,7 @@ All group members have reviewed this agreement and agree to follow it for the re
 
 - [GitHub Repository](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
 
-- [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
+- [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/Col-Practice/Group9-W03-Col-Practice.html)
 
 - [GitHub Commit-History](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok/commits/main/)
 
