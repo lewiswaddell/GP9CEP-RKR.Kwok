@@ -52,13 +52,19 @@ Simply saving a QMD file on your computer does not make changes available to tea
 
 **Principal Author: Spencer Conway**
 
-| Order | Group Member | Section or Content Added | Pulled Before Editing? | Commit Message | How Push Was Verified |
-|------------|------------|------------|------------|------------|------------|
-| 1 | Leeann Lewis-Waddell | Created the shared QMD file and added Prompts 1 and 2 | Yes | `Added Leeann's questions 1 & 2` | Confirmed the commit appeared in the GitHub repository and the updated QMD file was visible |
-| 2 | Carmen Jimenez Rodriguez | Added responses for Prompts 4 and 9 | Yes | `Add Carmen's responses for prompts 4 and 9 and repair RStudio project` | Confirmed the commit appeared in GitHub and the updated report files were visible |
-| 3 | Luis Ahumada | Added responses for Prompts 5 and 6 | Yes | `Luis Ahumada completed Sections 5 and 6 of the CEP Practice GitHub Assignment` | Confirmed the commit appeared in GitHub and the updated files were visible in the repository |
-| 4 | Georgia Monjarrez | Added responses for Prompts 7 and 10 | Yes | `Add Georgia's responses to prompts 7 and 10` | Confirmed the commit appeared in GitHub and the updated report files were visible |
-| 5 | Spencer Conway | Added responses for Prompts 3 and 8 | Yes | `Add Spencer's responses for prompts 3 and 8` | Confirmed the commit appeared in the GitHub commit history and the updated QMD file was visible in the repository |
++----------+--------------------------+-------------------------------------------------------+------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| Order    | Group Member             | Section or Content Added                              | Pulled Before Editing? | Commit Message                                                                  | How Push Was Verified                                                                                             |
++==========+==========================+=======================================================+========================+=================================================================================+===================================================================================================================+
+| 1        | Leeann Lewis-Waddell     | Created the shared QMD file and added Prompts 1 and 2 | Yes                    | `Added Leeann's questions 1 & 2`                                                | Confirmed the commit appeared in the GitHub repository and the updated QMD file was visible                       |
++----------+--------------------------+-------------------------------------------------------+------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| 2        | Carmen Jimenez Rodriguez | Added responses for Prompts 4 and 9                   | Yes                    | `Add Carmen's responses for prompts 4 and 9 and repair RStudio project`         | Confirmed the commit appeared in GitHub and the updated report files were visible                                 |
++----------+--------------------------+-------------------------------------------------------+------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| 3        | Luis Ahumada             | Added responses for Prompts 5 and 6                   | Yes                    | `Luis Ahumada completed Sections 5 and 6 of the CEP Practice GitHub Assignment` | Confirmed the commit appeared in GitHub and the updated files were visible in the repository                      |
++----------+--------------------------+-------------------------------------------------------+------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| 4        | Georgia Monjarrez        | Added responses for Prompts 7 and 10                  | Yes                    | `Add Georgia's responses to prompts 7 and 10`                                   | Confirmed the commit appeared in GitHub and the updated report files were visible                                 |
++----------+--------------------------+-------------------------------------------------------+------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| 5        | Spencer Conway           | Added responses for Prompts 3 and 8                   | Yes                    | `Add Spencer's responses for prompts 3 and 8`                                   | Confirmed the commit appeared in the GitHub commit history and the updated QMD file was visible in the repository |
++----------+--------------------------+-------------------------------------------------------+------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
 
 Our group completed Round 1 using a sequential workflow so that each member worked from the most recent version of the shared report. After one person finished their assigned section, they rendered the document, committed their changes, and pushed them to GitHub. The next member then pulled the updated version before beginning their own work. This helped make sure that everyone was working from the same version of the QMD file instead of separate or outdated copies.
 
@@ -68,18 +74,9 @@ The sequential process also helped reduce the chance of merge conflicts. Since g
 
 > Create a numbered checklist that a group member should follow every time they work on the CEP report, beginning before they edit and ending after they push. Explain why pulling before editing and using focused, descriptive commits make collaboration safer and make the project's history more useful.
 
-For Group 9, a reliable workflow begins with communication. Since we are contributing to the same QMD file, we should follow these steps each time we work on the CEP report:
+For Group 9, a reliable workflow begins with communication. Since we are contributing to the same QMD file, we should follow these steps each time we work on the CEP report: 1. Check the group chat to confirm the assigned section and make sure it is your turn to edit. 2. Open the Col-Practice project in RStudio or Positron and confirm that you are working in the correct repository and on the main branch. 3. Review the Git status to make sure there are no unfinished local changes. 4. Pull the latest version from GitHub before making any edits. 5. Review the newest changes so that you understand what the previous group member added. 6. Add or revise only the section assigned to you. 7. Save the QMD file and render the report to verify that the HTML file is created without errors. 8. Review the rendered report and the Git diff to make sure the content and formatting appear as intended. 9. Stage only the files related to your work and create a commit with a clear description of what you completed. 10. Push the commit to GitHub, confirm that it appears in the repository, and notify the group that the next person can begin.
 
-1.  Check the group chat to confirm the assigned section and make sure it is your turn to edit.
-2.  Open the `Col-Practice` project in RStudio or Positron and confirm that you are working in the correct repository and on the `main` branch.
-3.  Review the Git status to make sure there are no unfinished local changes.
-4.  Pull the latest version from GitHub before making any edits.
-5.  Review the newest changes so that you understand what the previous group member added.
-6.  Add or revise only the section assigned to you.
-7.  Save the QMD file and render the report to verify that the HTML file is created without errors.
-8.  Review the rendered report and the Git diff to make sure the content and formatting appear as intended.
-9.  Stage only the files related to your work and create a commit with a clear description of what you completed.
-10. Push the commit to GitHub, confirm that it appears in the repository, and notify the group that the next person can begin.
+Pulling before editing is important because it ensures that each Group 9 member begins with the most recent version of the report. If someone starts working from an older local copy, that person may unknowingly overwrite another member's work or create a merge conflict. Following a sequential process allows us to work in either RStudio or Positron while still maintaining one shared and current version of the report. Clear and focused commit messages also make the project history easier to understand. For example, Add Carmen's responses for prompts 4 and 9 explains both the author and the purpose of the change, while a message such as update provides very little useful information. Descriptive commits will help our group and instructor follow the order of contributions, identify who completed each section, and locate or reverse a specific change if a problem appears later.
 
 **Principal author: Carmen Lia Jimenez**
 
@@ -103,8 +100,6 @@ When two people edit the same lines on the QMD file, GitHub might not be able to
 
 Overall, we have to have clear communication and have a scheduled plan and workflow that allows us to stay organized to reduce any merge conflicts throughut the CEP.
 
-**Principal author: Luis Ahumada**
-
 ## Prompt 6: Responding to a Push Rejection or Merge Conflict
 
 > Consider this situation: A group member edits the report without pulling first. Meanwhile, another member pushes changes to the same section. Git rejects the first member's push, and a merge conflict appears after pulling.
@@ -117,17 +112,13 @@ The next step would be for the first member to open the conflicted QMD file, in 
 
 Once they decide what they want to keep, the first member should remove the conflict markers and double check to make sure that the section is correctly written. Then they should save and render the QMD report to make sure there is no errors when they run it, and the report looks good to go.
 
-After checking the rendered report, the member should stage the resolved QMD and updated HTML files and commit the changes with a descriptive message, such as “Resolve merge conflict in the shared report.” Then they should push the commit to GitHub, confirm that it appears in the repository’s commit history, and notify the group that the updated version is ready for the next member to pull.
-
 Force-pushing, deleting a teammate’s work, or replacing the repo with an older local copy is inappropriate because it could erase any changes that were already added by other group members. On top of this, it is a group project, everyone’s name is on it and everyone is working hard on it, so it would be very disrespectful and cause unwanted drama within the group.
-
-**Principal author: Luis Ahumada**
 
 ## Prompt 7: Branches, Issues, and Pull Requests
 
 > Based on the collaboration video, explain the purposes of a GitHub Issue, a branch, and a pull request. How could these tools support task assignment, review, and approval during a longer CEP project? Contrast this approach with making a small, coordinated change directly on the main branch. Identify at least one situation in which your group should prefer a branch and pull request.
 
-A GitHub Issue provides a place to describe a task, report a problem, or propose an improvement. Our group can use issues to assign responsibilities and keep related discussions together. `A branch` allows a member to develop changes separately from the main version of the report. A pull request proposes bringing those changes into another branch, such as `main`, and gives teammates a place to review the differences, ask questions, and request revisions before merging. During a longer CEP project, these tools can connect an assigned task to the work completed and the review that follows.
+A GitHub Issue provides a place to describe a task, report a problem, or propose an improvement. Our group can use issues to assign responsibilities and keep related discussions together. A branch allows a member to develop changes separately from the main version of the report. A pull request proposes bringing those changes into another branch, such as `main`, and gives teammates a place to review the differences, ask questions, and request revisions before merging. During a longer CEP project, these tools can connect an assigned task to the work completed and the review that follows.
 
 A small, coordinated change, such as correcting a typo in an assigned section, may be made directly on `main` when the group knows who is editing and the member follows the pull, edit, render, review, stage, commit, and push workflow. More substantial changes benefit from a branch and pull request because teammates can evaluate them before they become part of the main report. For example, our group should use a branch and pull request when revising the analysis methodology or reorganizing several report sections. These changes could affect other members’ work and should be reviewed for accuracy, consistency, and successful rendering before merging.
 
@@ -145,21 +136,11 @@ One commit message that I thought was especially effective was `Add Carmen's res
 
 **Principal Author: Spencer Conway**
 
-The Round 2 commits provide additional evidence of collaboration because they show group members returning to review and improve sections originally written by someone else. Although the commit history does not prove every individual `pull` by itself, the chronological sequence of identifiable commits, changes to the same QMD file, and separate review commits support the conclusion that the group followed a shared Git and GitHub workflow.
-
-| Evidence in the repository history | What it shows |
-|------------------------------------|------------------------------------|
-| Commits connected to five recognizable GitHub accounts | Each group member made an identifiable contribution. |
-| A chronological sequence of commits | Members contributed to the shared report one person at a time. |
-| Incremental changes to the same QMD and HTML files | The report developed within one shared project rather than through separate final documents. |
-| Separate Round 1 and Round 2 commits | Members added original content and later reviewed another person's work. |
-| Descriptive commit messages and visible file differences | The purpose, authorship, and specific content of each change can be reviewed. |
-
 ## Prompt 9: Security, Confidentiality, and Repository Hygiene
 
 > Explain what materials must never be pushed to the CEP repository, even when it is private. Address confidential client data, personally identifiable information, passwords, API keys, access tokens, temporary files, and locally generated files that do not belong under version control. Explain the role of .gitignore, and discuss what a student should do before proceeding if they are uncertain whether a file may be shared.
 
-Before adding any file to our CEP repository, we need to consider whether it is appropriate and safe to share. Confidential client materials, personally identifiable information, passwords, `API keys`, `access tokens`, authentication files, and `information covered by an NDA should never be pushed to GitHub`. Personally identifiable information may include names, email addresses, phone numbers, or individual survey responses that could be connected to a specific person. Group 9 should also avoid committing temporary or unnecessary files, such as .DS_Store, caches, logs, and raw datasets that have not been approved for sharing. Because our repository is currently public, we need to be especially careful about everything we stage and commit. However, changing a repository to private would not make it appropriate to store sensitive information, since access can still be granted accidentally and content may later be published through GitHub Pages.
+Before adding any file to our CEP repository, we need to consider whether it is appropriate and safe to share. Confidential client materials, personally identifiable information, passwords, API keys, access tokens, authentication files, and information covered by an NDA should never be pushed to GitHub. Personally identifiable information may include names, email addresses, phone numbers, or individual survey responses that could be connected to a specific person. Group 9 should also avoid committing temporary or unnecessary files, such as .DS_Store, caches, logs, and raw datasets that have not been approved for sharing. Because our repository is currently public, we need to be especially careful about everything we stage and commit. However, changing a repository to private would not make it appropriate to store sensitive information, since access can still be granted accidentally and content may later be published through GitHub Pages.
 
 The .gitignore file helps keep the repository organized by telling Git which files or file patterns should remain untracked. For example, it can exclude system files, temporary output, local environment files, and files containing credentials. However, .gitignore only helps prevent untracked files from being added; it does not remove a file that has already been committed or erase it from the repository's history. If a Group 9 member is unsure whether a file may be shared, that person should stop before staging or committing it. The group should review the client agreement and course requirements and, when necessary, ask the faculty lead, instructor, or authorized client contact for guidance. Until permission is confirmed, the file should remain outside the repository. When possible, our group should use approved, de-identified data and keep passwords or other secrets in secure environment variables instead of placing them directly in scripts or QMD files.
 
@@ -195,27 +176,38 @@ All group members have reviewed this agreement and agree to follow it for the re
 
 # Appendix: Collaboration Evidence
 
-| Group Member Name | GitHub Username | Round 1 Commit Message | Round 2 Commit Message |
-|-----------------|-----------------|---------------------|-----------------|
-| Leeann Lewis-Waddell | lewiswaddell | `Round 1: Create & Build Shared Report - .qmd setup` | `Round 2: Leeann removed duplicate Prompt 8 heading; added Principal Author to Prompt 1 & 2; added block quote to Prompt 4, 5, 6, 7; added Prompt 8 in. Added personal commits to Appendix table, repo link, pages link & commit-history` |
-| Georgia Monjarrez | gmonjarrez | Add Georgia's responses to prompts 7 and 10 | Complete Prompt 6 conflict-resolution workflow with staging, commit, and push steps |
-| Luis Ahumada | lahumada63 | Luis Ahumada added prompts 5 and 6 | Fixed principal author placement , added Luis Ahumada application pulled using:, also added inline code to important key terms and an important sentence stating we should not add certain information on GitHub after signing NDA |
-|  |  |  |  |
-|  |  |  |  |
++--------------------------+-----------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Group Member Name        | GitHub Username | Round 1 Commit Message                                                          | Round 2 Commit Message                                                                                                                                                                                                                        |
++==========================+=================+=================================================================================+===============================================================================================================================================================================================================================================+
+| Leeann Lewis-Waddell     | lewiswaddell    | `Round 1: Create & Build Shared Report - .qmd setup`                            | `Round 2: Leeann removed duplicate Prompt 8 heading; added Principal Author to Prompt 1 & 2; added block quote to Prompt 4, 5, 6, 7; added Prompt 8 in. Added personal commits to Appendix table, repo link, pages link & commit-history`     |
+|                          |                 |                                                                                 |                                                                                                                                                                                                                                               |
+|                          |                 | `Added Leeann's questions 1 & 2`                                                |                                                                                                                                                                                                                                               |
++--------------------------+-----------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Luis Ahumada             | lahumada63      | `Luis Ahumada completed Sections 5 and 6 of the CEP Practice GitHub Assignment` | \`Fixed principal author placement , added Luis Ahumada application pulled using:, also added inline code to important key terms and an important sentence stating we should not add certain information on GitHub after signing NDA - Luis\` |
++--------------------------+-----------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Carmen Jimenez Rodriguez | carmenjimenez97 | `Add Carmen's responses for prompts 4 and 9 and repair RStudio project`         | `Revise Prompt 8 history analysis and update collaboration evidence`                                                                                                                                                                          |
++--------------------------+-----------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Georgia Monjarrez        | gmonjarrez      | `Add Georgia's responses to prompts 7 and 10`                                   | `Complete Prompt 6 conflict-resolution workflow with staging, commit, and push steps`                                                                                                                                                         |
++--------------------------+-----------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Spencer Conway           | Spencer Conway  | `Add Spencer's responses for prompts 3 and 8`                                   | `Format Prompt 4 workflow as numbered checklist`                                                                                                                                                                                              |
++--------------------------+-----------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : A table listing each member's name, GitHub username, Round 1 commit message, and Round 2 commit message
 
--   [GitHub Repository](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
+- [GitHub Repository](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
 
--   [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
+- [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
 
--   [GitHub Commit-History](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok/commits/main/)
+- [GitHub Commit-History](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok/commits/main/)
 
--   Application used to pull, commit, and push their changes by each member:
+- Application used to pull, commit, and push their changes by each member:
 
-    -   Leeann Lewis-Waddell: Positron
-    -   Georgia Monjarrez: R Studio
-    -   Carmen Lia Jimenez: R Studio
-    -   Luis Ahuada: R Studio
+  - Leeann Lewis-Waddell: Positron
+  - Georgia Monjarrez: R Studio
+  - Carmen Jimenez Rodriguez: R Studio
+  - Luis Ahumada: R Studio
+  - Spencer Conway: R Studio
 
--   Member who performed the final pull, render, link check, and push:
+- Member who performed the final pull, render, link check, and push:
+
+  - Leeann Lewis-Waddell
