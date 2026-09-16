@@ -1,0 +1,117 @@
+---
+title: "W03: CEP Repository and Collaboration Practice"
+author: "Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann, Lewis-Waddell, Georgia Monjarrez"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    code-link: true
+    code-overflow: wrap
+    code-tools: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Essay Prompts
+
+## Prompt 1: Repository Setup and Shared Ownership
+
+Explain how your group created its CEP repository from the MSDM CEP template, selected an appropriate visibility setting, invited collaborators, and ensured that every member cloned the same repository. Clearly distinguish among using a template, creating a repository, and cloning a repository. Why would independently cloning or copying the original template create problems for group collaboration?
+
+## Prompt 2: Local, Remote, and Working Files
+
+Explain the relationship among the files on your computer, the local Git repository, and the remote repository on GitHub. In your explanation, distinguish among saving, staging, committing, pushing, fetching, and pulling. Why does saving a QMD file on your computer not make the change available to your teammates?
+
+## Prompt 3: Document Your Group's Round 1 Workflow
+
+Describe the order in which group members completed Round 1. For every member, report:
+
+the member's name;
+
+the section or content added;
+
+whether the member pulled before editing;
+
+the commit message used; and
+
+how the member verified that the push succeeded.
+
+Present this information in a well-formatted table. Then explain why your group used a sequential workflow for this exercise.
+
+## Prompt 4: A Reliable Everyday CEP Workflow
+
+Create a numbered checklist that a group member should follow every time they work on the CEP report, beginning before they edit and ending after they push. Explain why pulling before editing and using focused, descriptive commits make collaboration safer and make the project's history more useful.
+
+## Prompt 5: Coordinating Work and Preventing Merge Conflicts
+
+Explain what may happen when two people edit the same lines of the same QMD file and then attempt to push their work. Describe at least three practices your group will use during the CEP to reduce merge conflicts. Include how your group will divide sections, communicate who is editing, and decide when work is ready for another member.
+
+## Prompt 6: Responding to a Push Rejection or Merge Conflict
+
+Consider this situation: A group member edits the report without pulling first. Meanwhile, another member pushes changes to the same section. Git rejects the first member's push, and a merge conflict appears after pulling.
+
+Explain, in order, what the first member should do. Describe how the member would use Positron's Merge Editor or the conflict markers in the file to compare the current and incoming changes, decide what content to retain, remove the conflict markers, render and inspect the report, commit the resolution, and push it. Also explain why force-pushing, deleting a teammate's work, or replacing the repository with an older local copy would be inappropriate.
+
+## Prompt 7: Branches, Issues, and Pull Requests
+
+Based on the collaboration video, explain the purposes of a GitHub Issue, a branch, and a pull request. How could these tools support task assignment, review, and approval during a longer CEP project? Contrast this approach with making a small, coordinated change directly on the main branch. Identify at least one situation in which your group should prefer a branch and pull request.
+
+## Prompt 8: Review the Repository History
+
+Review the repository's commit history after both collaboration rounds. What evidence shows that all members worked through Git and GitHub rather than exchanging separate files? Discuss what the history reveals about the sequence, purpose, and authorship of the changes. Identify one commit message that is especially effective and explain why.
+
+## Prompt 9: Security, Confidentiality, and Repository Hygiene
+
+Explain what materials must never be pushed to the CEP repository, even when it is private. Address confidential client data, personally identifiable information, passwords, API keys, access tokens, temporary files, and locally generated files that do not belong under version control. Explain the role of .gitignore, and discuss what a student should do before proceeding if they are uncertain whether a file may be shared.
+
+## Prompt 10: Group Collaboration Agreement
+
+Develop a short Git/GitHub collaboration agreement that your group will follow for the remainder of the CEP. At minimum, address:
+
+when members must pull and push;
+
+how work will be assigned;
+
+whether members may edit the same file or section simultaneously;
+
+expectations for commit messages;
+
+when branches and pull requests will be used;
+
+how the group will respond to conflicts or failed pushes;
+
+who will verify that the report renders correctly; and
+
+how confidential information will be protected.
+
+Place the agreement in a callout block. Every member should review it, and the report should state that all members agree to follow it.
+
+# Appendix: Collaboration Evidence
+
+| Group Member Name | GitHub Username | Round 1 Commit Message | Round 2 Commit Message |
+|----|----|----|----|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+: A table listing each member's name, GitHub username, Round 1 commit message, and Round 2 commit message
+
+- GitHub Repository
+
+- GitHub Pages Report
+
+- GitHub Commit-History
+
+- Application used to pull, commit, and push their changes by each member:
+
+  - Leeann Lewis-Waddell: Positron
+
+- Member who performed the final pull, render, link check, and push:
