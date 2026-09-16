@@ -64,20 +64,9 @@ Present this information in a well-formatted table. Then explain why your group 
 
 Create a numbered checklist that a group member should follow every time they work on the CEP report, beginning before they edit and ending after they push. Explain why pulling before editing and using focused, descriptive commits make collaboration safer and make the project's history more useful.
 
-For Group 9, a reliable workflow begins with communication. Since we are contributing to the same QMD file, we should follow these steps each time we work on the CEP report:
-1.	Check the group chat to confirm the assigned section and make sure it is your turn to edit.
-2.	Open the Col-Practice project in RStudio or Positron and confirm that you are working in the correct repository and on the main branch.
-3.	Review the Git status to make sure there are no unfinished local changes.
-4.	Pull the latest version from GitHub before making any edits.
-5.	Review the newest changes so that you understand what the previous group member added.
-6.	Add or revise only the section assigned to you.
-7.	Save the QMD file and render the report to verify that the HTML file is created without errors.
-8.	Review the rendered report and the Git diff to make sure the content and formatting appear as intended.
-9.	Stage only the files related to your work and create a commit with a clear description of what you completed.
-10.	Push the commit to GitHub, confirm that it appears in the repository, and notify the group that the next person can begin.
+For Group 9, a reliable workflow begins with communication. Since we are contributing to the same QMD file, we should follow these steps each time we work on the CEP report: 1. Check the group chat to confirm the assigned section and make sure it is your turn to edit. 2. Open the Col-Practice project in RStudio or Positron and confirm that you are working in the correct repository and on the main branch. 3. Review the Git status to make sure there are no unfinished local changes. 4. Pull the latest version from GitHub before making any edits. 5. Review the newest changes so that you understand what the previous group member added. 6. Add or revise only the section assigned to you. 7. Save the QMD file and render the report to verify that the HTML file is created without errors. 8. Review the rendered report and the Git diff to make sure the content and formatting appear as intended. 9. Stage only the files related to your work and create a commit with a clear description of what you completed. 10. Push the commit to GitHub, confirm that it appears in the repository, and notify the group that the next person can begin.
 
-Pulling before editing is important because it ensures that each Group 9 member begins with the most recent version of the report. If someone starts working from an older local copy, that person may unknowingly overwrite another member's work or create a merge conflict. Following a sequential process allows us to work in either RStudio or Positron while still maintaining one shared and current version of the report.
-Clear and focused commit messages also make the project history easier to understand. For example, Add Carmen's responses for prompts 4 and 9 explains both the author and the purpose of the change, while a message such as update provides very little useful information. Descriptive commits will help our group and instructor follow the order of contributions, identify who completed each section, and locate or reverse a specific change if a problem appears later.
+Pulling before editing is important because it ensures that each Group 9 member begins with the most recent version of the report. If someone starts working from an older local copy, that person may unknowingly overwrite another member's work or create a merge conflict. Following a sequential process allows us to work in either RStudio or Positron while still maintaining one shared and current version of the report. Clear and focused commit messages also make the project history easier to understand. For example, Add Carmen's responses for prompts 4 and 9 explains both the author and the purpose of the change, while a message such as update provides very little useful information. Descriptive commits will help our group and instructor follow the order of contributions, identify who completed each section, and locate or reverse a specific change if a problem appears later.
 
 Principal author: Carmen Lia Jimenez
 
@@ -85,11 +74,35 @@ Principal author: Carmen Lia Jimenez
 
 Explain what may happen when two people edit the same lines of the same QMD file and then attempt to push their work. Describe at least three practices your group will use during the CEP to reduce merge conflicts. Include how your group will divide sections, communicate who is editing, and decide when work is ready for another member.
 
+When two people edit the same lines on the QMD file, GitHub might not be able to automatically combine and make the changes. If one person were to push their work first, the second person might get a merge conflict when they try to push or pull. Git will mark the conflicting section in the popup box and our group would have to choose which version we want to keep or how to combine each version before pushing it.
+
+3 practices that we will use during CEP:
+
+1.  We will divide the QMD file into sections and assign a section to each person. We can split these sections to reduce more than one person working on one section at the same time. This will also push us to keep constant communication and will also help us stay on track of our tasks
+
+<!-- -->
+
+2.  We currently have discord where we communicate, so we will continue to use this tool to communicate when we are editing a file. Like I said in the last practice, communication is key so talking to each other and letting each other know when we are working on a section will prevent another person from editing the same lines.
+
+<!-- -->
+
+3.  Our group will pull the most recent version of the GitHub repo regularly either in RStudio or Positron before starting new work. We also have to make sure to push and commit our changes. The commit description is very important because it lets us communicate what changes we have made.
+
+Overall, we have to have clear communication and have a scheduled plan and workflow that allows us to stay organized to reduce any merge conflicts throughut the CEP.
+
 ## Prompt 6: Responding to a Push Rejection or Merge Conflict
 
 Consider this situation: A group member edits the report without pulling first. Meanwhile, another member pushes changes to the same section. Git rejects the first member's push, and a merge conflict appears after pulling.
 
 Explain, in order, what the first member should do. Describe how the member would use Positron's Merge Editor or the conflict markers in the file to compare the current and incoming changes, decide what content to retain, remove the conflict markers, render and inspect the report, commit the resolution, and push it. Also explain why force-pushing, deleting a teammate's work, or replacing the repository with an older local copy would be inappropriate.
+
+The first member should pull the most recent changes from the GitHub after their push is rejected. Because two members edited the same section, Git might create a merge conflict.
+
+The next step would be for the first member to open the conflicted QMD file, in this situation it would be Positron. Then they can use the Merge Editor or look at the conflict markers in the file to compare their changes with the incoming changes from the other group member. Then the members will decide which parts they want to keep. It depends on the situation, but sometimes it is better to just keep one version, but there may be situations where they would need to combine both versions.
+
+Once they decide what they want to keep, the first member should remove the conflict markers and double check to make sure that the section is correctly written. Then they should save and render the QMD report to make sure there is no errors when they run it, and the report looks good to go.
+
+Force-pushing, deleting a teammate’s work, or replacing the repo with an older local copy is inappropriate because it could erase any changes that were already added by other group members. On top of this, it is a group project, everyone’s name is on it and everyone is working hard on it, so it would be very disrespectful and cause unwanted drama within the group.
 
 ## Prompt 7: Branches, Issues, and Pull Requests
 
@@ -108,7 +121,6 @@ Before adding any file to our CEP repository, we need to consider whether it is 
 The .gitignore file helps keep the repository organized by telling Git which files or file patterns should remain untracked. For example, it can exclude system files, temporary output, local environment files, and files containing credentials. However, .gitignore only helps prevent untracked files from being added; it does not remove a file that has already been committed or erase it from the repository's history. If a Group 9 member is unsure whether a file may be shared, that person should stop before staging or committing it. The group should review the client agreement and course requirements and, when necessary, ask the faculty lead, instructor, or authorized client contact for guidance. Until permission is confirmed, the file should remain outside the repository. When possible, our group should use approved, de-identified data and keep passwords or other secrets in secure environment variables instead of placing them directly in scripts or QMD files.
 
 Principal author: Carmen Lia Jimenez
-
 
 ## Prompt 10: Group Collaboration Agreement
 
@@ -144,14 +156,14 @@ Place the agreement in a callout block. Every member should review it, and the r
 
 : A table listing each member's name, GitHub username, Round 1 commit message, and Round 2 commit message
 
--   GitHub Repository
+- GitHub Repository
 
--   GitHub Pages Report
+- GitHub Pages Report
 
--   GitHub Commit-History
+- GitHub Commit-History
 
--   Application used to pull, commit, and push their changes by each member:
+- Application used to pull, commit, and push their changes by each member:
 
-    -   Leeann Lewis-Waddell: Positron
+  - Leeann Lewis-Waddell: Positron
 
--   Member who performed the final pull, render, link check, and push:
+- Member who performed the final pull, render, link check, and push:
