@@ -108,6 +108,12 @@ Force-pushing, deleting a teammate’s work, or replacing the repo with an older
 
 Based on the collaboration video, explain the purposes of a GitHub Issue, a branch, and a pull request. How could these tools support task assignment, review, and approval during a longer CEP project? Contrast this approach with making a small, coordinated change directly on the main branch. Identify at least one situation in which your group should prefer a branch and pull request.
 
+A GitHub Issue provides a place to describe a task, report a problem, or propose an improvement. Our group can use issues to assign responsibilities and keep related discussions together. A branch allows a member to develop changes separately from the main version of the report. A pull request proposes bringing those changes into another branch, such as `main`, and gives teammates a place to review the differences, ask questions, and request revisions before merging. During a longer CEP project, these tools can connect an assigned task to the work completed and the review that follows.
+
+A small, coordinated change, such as correcting a typo in an assigned section, may be made directly on `main` when the group knows who is editing and the member follows the pull, edit, render, review, stage, commit, and push workflow. More substantial changes benefit from a branch and pull request because teammates can evaluate them before they become part of the main report. For example, our group should use a branch and pull request when revising the analysis methodology or reorganizing several report sections. These changes could affect other members’ work and should be reviewed for accuracy, consistency, and successful rendering before merging.
+
+**Principal author: Georgia Monjarrez**
+
 ## Prompt 8: Review the Repository History
 
 Review the repository's commit history after both collaboration rounds. What evidence shows that all members worked through Git and GitHub rather than exchanging separate files? Discuss what the history reveals about the sequence, purpose, and authorship of the changes. Identify one commit message that is especially effective and explain why.
@@ -124,25 +130,31 @@ Principal author: Carmen Lia Jimenez
 
 ## Prompt 10: Group Collaboration Agreement
 
-Develop a short Git/GitHub collaboration agreement that your group will follow for the remainder of the CEP. At minimum, address:
+Develop a short Git/GitHub collaboration agreement that your group will follow for the remainder of the CEP.
 
-when members must pull and push;
+::: {.callout-note title="Group Collaboration Agreement"}
+Our group agrees to follow these practices throughout the CEP:
 
-how work will be assigned;
+1.  **Pull and push:** Every member will pull the latest changes before editing. After completing a contribution, they will save, render, review, stage, commit, and push their changes, then verify that the commit appears on GitHub.
 
-whether members may edit the same file or section simultaneously;
+2.  **Assign responsibilities:** We will divide work by task or report section and record each member’s responsibilities and deadlines in our group communication channel.
 
-expectations for commit messages;
+3.  **Coordinate editing:** During this practice assignment, we will edit the shared QMD file one person at a time. Members will announce when they begin editing and confirm when their changes have been pushed so the next person can begin. During the larger CEP, we will coordinate simultaneous work to avoid overlapping edits.
 
-when branches and pull requests will be used;
+4.  **Use descriptive commits:** Each commit will contain a focused change and a message explaining what was completed, such as “Add collaboration agreement” or “Revise explanation of pull requests.”
 
-how the group will respond to conflicts or failed pushes;
+5.  **Use branches and pull requests:** We will use branches and pull requests for substantial revisions or changes that need teammate review. Another member will review these changes before they are merged into main. Small, coordinated corrections may be made directly on main.
 
-who will verify that the report renders correctly; and
+6.  **Handle conflicts together:** If a push is rejected because newer changes exist on GitHub, the member will pull or sync and review the result. For merge conflicts, the affected members will compare both versions, agree on the content to retain, remove conflict markers, render and inspect the report, and commit and push the resolution. We will not force-push or discard a teammate’s work to bypass a conflict.
 
-how confidential information will be protected.
+7.  **Check rendering:** Each member will render and inspect the report after editing. The group will designate a final editor to pull all changes, render the complete report, verify formatting and links, and push the final QMD and HTML files before submission.
 
-Place the agreement in a callout block. Every member should review it, and the report should state that all members agree to follow it.
+8.  **Protect confidential information:** We will exclude confidential client data, personally identifiable information, passwords, API keys, and access tokens from the repository. We will review files before staging and use .gitignore to exclude temporary and unnecessary local files. If we are unsure whether material may be shared, we will consult the instructor before including it.
+
+All group members have reviewed this agreement and agree to follow it for the remainder of the CEP.
+:::
+
+**Principal author: Georgia Monjarrez**
 
 # Appendix: Collaboration Evidence
 
@@ -156,14 +168,15 @@ Place the agreement in a callout block. Every member should review it, and the r
 
 : A table listing each member's name, GitHub username, Round 1 commit message, and Round 2 commit message
 
-- GitHub Repository
+-   GitHub Repository
 
-- GitHub Pages Report
+-   GitHub Pages Report
 
-- GitHub Commit-History
+-   GitHub Commit-History
 
-- Application used to pull, commit, and push their changes by each member:
+-   Application used to pull, commit, and push their changes by each member:
 
-  - Leeann Lewis-Waddell: Positron
+    -   Leeann Lewis-Waddell: Positron
+    -   Georgia Monjarrez: R Studio
 
-- Member who performed the final pull, render, link check, and push:
+-   Member who performed the final pull, render, link check, and push:
