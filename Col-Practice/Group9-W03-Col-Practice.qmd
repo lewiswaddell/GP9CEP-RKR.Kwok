@@ -106,6 +106,8 @@ The next step would be for the first member to open the conflicted QMD file, in 
 
 Once they decide what they want to keep, the first member should remove the conflict markers and double check to make sure that the section is correctly written. Then they should save and render the QMD report to make sure there is no errors when they run it, and the report looks good to go.
 
+After checking the rendered report, the member should stage the resolved QMD and updated HTML files and commit the changes with a descriptive message, such as “Resolve merge conflict in the shared report.” Then they should push the commit to GitHub, confirm that it appears in the repository’s commit history, and notify the group that the updated version is ready for the next member to pull.
+
 Force-pushing, deleting a teammate’s work, or replacing the repo with an older local copy is inappropriate because it could erase any changes that were already added by other group members. On top of this, it is a group project, everyone’s name is on it and everyone is working hard on it, so it would be very disrespectful and cause unwanted drama within the group.
 
 ## Prompt 7: Branches, Issues, and Pull Requests
@@ -173,22 +175,22 @@ All group members have reviewed this agreement and agree to follow it for the re
 | Group Member Name | GitHub Username | Round 1 Commit Message | Round 2 Commit Message |
 |------------------|------------------|------------------|------------------|
 | Leeann Lewis-Waddell | lewiswaddell | `Round 1: Create & Build Shared Report - .qmd setup` | `Round 2: Leeann removed duplicate Prompt 8 heading; added Principal Author to Prompt 1 & 2; added block quote to Prompt 4, 5, 6, 7; added Prompt 8 in. Added personal commits to Appendix table, repo link, pages link & commit-history` |
-|  |  |  |  |
+| Georgia Monjarrez | gmonjarrez | Add Georgia's responses to prompts 7 and 10 | Complete Prompt 6 conflict-resolution workflow with staging, commit, and push steps |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
 : A table listing each member's name, GitHub username, Round 1 commit message, and Round 2 commit message
 
-- [GitHub Repository](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
+-   [GitHub Repository](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
 
-- [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
+-   [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
 
-- [GitHub Commit-History](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok/commits/main/)
+-   [GitHub Commit-History](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok/commits/main/)
 
-- Application used to pull, commit, and push their changes by each member:
+-   Application used to pull, commit, and push their changes by each member:
 
-  - Leeann Lewis-Waddell: Positron
-  - Georgia Monjarrez: R Studio
+    -   Leeann Lewis-Waddell: Positron
+    -   Georgia Monjarrez: R Studio
 
-- Member who performed the final pull, render, link check, and push:
+-   Member who performed the final pull, render, link check, and push:
