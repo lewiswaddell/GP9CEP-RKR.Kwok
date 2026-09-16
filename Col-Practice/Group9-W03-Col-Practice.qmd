@@ -68,9 +68,18 @@ The sequential process also helped reduce the chance of merge conflicts. Since g
 
 > Create a numbered checklist that a group member should follow every time they work on the CEP report, beginning before they edit and ending after they push. Explain why pulling before editing and using focused, descriptive commits make collaboration safer and make the project's history more useful.
 
-For Group 9, a reliable workflow begins with communication. Since we are contributing to the same QMD file, we should follow these steps each time we work on the CEP report: 1. Check the group chat to confirm the assigned section and make sure it is your turn to edit. 2. Open the Col-Practice project in RStudio or Positron and confirm that you are working in the correct repository and on the main branch. 3. Review the Git status to make sure there are no unfinished local changes. 4. Pull the latest version from GitHub before making any edits. 5. Review the newest changes so that you understand what the previous group member added. 6. Add or revise only the section assigned to you. 7. Save the QMD file and render the report to verify that the HTML file is created without errors. 8. Review the rendered report and the Git diff to make sure the content and formatting appear as intended. 9. Stage only the files related to your work and create a commit with a clear description of what you completed. 10. Push the commit to GitHub, confirm that it appears in the repository, and notify the group that the next person can begin.
+For Group 9, a reliable workflow begins with communication. Since we are contributing to the same QMD file, we should follow these steps each time we work on the CEP report:
 
-Pulling before editing is important because it ensures that each Group 9 member begins with the most recent version of the report. If someone starts working from an older local copy, that person may unknowingly overwrite another member's work or create a merge conflict. Following a sequential process allows us to work in either RStudio or Positron while still maintaining one shared and current version of the report. Clear and focused commit messages also make the project history easier to understand. For example, Add Carmen's responses for prompts 4 and 9 explains both the author and the purpose of the change, while a message such as update provides very little useful information. Descriptive commits will help our group and instructor follow the order of contributions, identify who completed each section, and locate or reverse a specific change if a problem appears later.
+1.  Check the group chat to confirm the assigned section and make sure it is your turn to edit.
+2.  Open the `Col-Practice` project in RStudio or Positron and confirm that you are working in the correct repository and on the `main` branch.
+3.  Review the Git status to make sure there are no unfinished local changes.
+4.  Pull the latest version from GitHub before making any edits.
+5.  Review the newest changes so that you understand what the previous group member added.
+6.  Add or revise only the section assigned to you.
+7.  Save the QMD file and render the report to verify that the HTML file is created without errors.
+8.  Review the rendered report and the Git diff to make sure the content and formatting appear as intended.
+9.  Stage only the files related to your work and create a commit with a clear description of what you completed.
+10. Push the commit to GitHub, confirm that it appears in the repository, and notify the group that the next person can begin.
 
 **Principal author: Carmen Lia Jimenez**
 
@@ -187,7 +196,7 @@ All group members have reviewed this agreement and agree to follow it for the re
 # Appendix: Collaboration Evidence
 
 | Group Member Name | GitHub Username | Round 1 Commit Message | Round 2 Commit Message |
-|------------------|------------------|-----------------------|------------------|
+|-----------------|-----------------|---------------------|-----------------|
 | Leeann Lewis-Waddell | lewiswaddell | `Round 1: Create & Build Shared Report - .qmd setup` | `Round 2: Leeann removed duplicate Prompt 8 heading; added Principal Author to Prompt 1 & 2; added block quote to Prompt 4, 5, 6, 7; added Prompt 8 in. Added personal commits to Appendix table, repo link, pages link & commit-history` |
 | Georgia Monjarrez | gmonjarrez | Add Georgia's responses to prompts 7 and 10 | Complete Prompt 6 conflict-resolution workflow with staging, commit, and push steps |
 | Luis Ahumada | lahumada63 | Luis Ahumada added prompts 5 and 6 | Fixed principal author placement , added Luis Ahumada application pulled using:, also added inline code to important key terms and an important sentence stating we should not add certain information on GitHub after signing NDA |
@@ -196,17 +205,17 @@ All group members have reviewed this agreement and agree to follow it for the re
 
 : A table listing each member's name, GitHub username, Round 1 commit message, and Round 2 commit message
 
-- [GitHub Repository](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
+-   [GitHub Repository](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
 
-- [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
+-   [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
 
-- [GitHub Commit-History](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok/commits/main/)
+-   [GitHub Commit-History](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok/commits/main/)
 
-- Application used to pull, commit, and push their changes by each member:
+-   Application used to pull, commit, and push their changes by each member:
 
-  - Leeann Lewis-Waddell: Positron
-  - Georgia Monjarrez: R Studio
-  - Carmen Lia Jimenez: R Studio
-  - Luis Ahuada: R Studio
+    -   Leeann Lewis-Waddell: Positron
+    -   Georgia Monjarrez: R Studio
+    -   Carmen Lia Jimenez: R Studio
+    -   Luis Ahuada: R Studio
 
-- Member who performed the final pull, render, link check, and push:
+-   Member who performed the final pull, render, link check, and push:
