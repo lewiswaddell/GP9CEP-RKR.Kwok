@@ -64,6 +64,23 @@ Present this information in a well-formatted table. Then explain why your group 
 
 Create a numbered checklist that a group member should follow every time they work on the CEP report, beginning before they edit and ending after they push. Explain why pulling before editing and using focused, descriptive commits make collaboration safer and make the project's history more useful.
 
+For Group 9, a reliable workflow begins with communication. Since we are contributing to the same QMD file, we should follow these steps each time we work on the CEP report:
+1.	Check the group chat to confirm the assigned section and make sure it is your turn to edit.
+2.	Open the Col-Practice project in RStudio or Positron and confirm that you are working in the correct repository and on the main branch.
+3.	Review the Git status to make sure there are no unfinished local changes.
+4.	Pull the latest version from GitHub before making any edits.
+5.	Review the newest changes so that you understand what the previous group member added.
+6.	Add or revise only the section assigned to you.
+7.	Save the QMD file and render the report to verify that the HTML file is created without errors.
+8.	Review the rendered report and the Git diff to make sure the content and formatting appear as intended.
+9.	Stage only the files related to your work and create a commit with a clear description of what you completed.
+10.	Push the commit to GitHub, confirm that it appears in the repository, and notify the group that the next person can begin.
+
+Pulling before editing is important because it ensures that each Group 9 member begins with the most recent version of the report. If someone starts working from an older local copy, that person may unknowingly overwrite another member's work or create a merge conflict. Following a sequential process allows us to work in either RStudio or Positron while still maintaining one shared and current version of the report.
+Clear and focused commit messages also make the project history easier to understand. For example, Add Carmen's responses for prompts 4 and 9 explains both the author and the purpose of the change, while a message such as update provides very little useful information. Descriptive commits will help our group and instructor follow the order of contributions, identify who completed each section, and locate or reverse a specific change if a problem appears later.
+
+Principal author: Carmen Lia Jimenez
+
 ## Prompt 5: Coordinating Work and Preventing Merge Conflicts
 
 Explain what may happen when two people edit the same lines of the same QMD file and then attempt to push their work. Describe at least three practices your group will use during the CEP to reduce merge conflicts. Include how your group will divide sections, communicate who is editing, and decide when work is ready for another member.
@@ -85,6 +102,13 @@ Review the repository's commit history after both collaboration rounds. What evi
 ## Prompt 9: Security, Confidentiality, and Repository Hygiene
 
 Explain what materials must never be pushed to the CEP repository, even when it is private. Address confidential client data, personally identifiable information, passwords, API keys, access tokens, temporary files, and locally generated files that do not belong under version control. Explain the role of .gitignore, and discuss what a student should do before proceeding if they are uncertain whether a file may be shared.
+
+Before adding any file to our CEP repository, we need to consider whether it is appropriate and safe to share. Confidential client materials, personally identifiable information, passwords, API keys, access tokens, authentication files, and information covered by an NDA should never be pushed to GitHub. Personally identifiable information may include names, email addresses, phone numbers, or individual survey responses that could be connected to a specific person. Group 9 should also avoid committing temporary or unnecessary files, such as .DS_Store, caches, logs, and raw datasets that have not been approved for sharing. Because our repository is currently public, we need to be especially careful about everything we stage and commit. However, changing a repository to private would not make it appropriate to store sensitive information, since access can still be granted accidentally and content may later be published through GitHub Pages.
+
+The .gitignore file helps keep the repository organized by telling Git which files or file patterns should remain untracked. For example, it can exclude system files, temporary output, local environment files, and files containing credentials. However, .gitignore only helps prevent untracked files from being added; it does not remove a file that has already been committed or erase it from the repository's history. If a Group 9 member is unsure whether a file may be shared, that person should stop before staging or committing it. The group should review the client agreement and course requirements and, when necessary, ask the faculty lead, instructor, or authorized client contact for guidance. Until permission is confirmed, the file should remain outside the repository. When possible, our group should use approved, de-identified data and keep passwords or other secrets in secure environment variables instead of placing them directly in scripts or QMD files.
+
+Principal author: Carmen Lia Jimenez
+
 
 ## Prompt 10: Group Collaboration Agreement
 
@@ -120,14 +144,14 @@ Place the agreement in a callout block. Every member should review it, and the r
 
 : A table listing each member's name, GitHub username, Round 1 commit message, and Round 2 commit message
 
-- GitHub Repository
+-   GitHub Repository
 
-- GitHub Pages Report
+-   GitHub Pages Report
 
-- GitHub Commit-History
+-   GitHub Commit-History
 
-- Application used to pull, commit, and push their changes by each member:
+-   Application used to pull, commit, and push their changes by each member:
 
-  - Leeann Lewis-Waddell: Positron
+    -   Leeann Lewis-Waddell: Positron
 
-- Member who performed the final pull, render, link check, and push:
+-   Member who performed the final pull, render, link check, and push:
