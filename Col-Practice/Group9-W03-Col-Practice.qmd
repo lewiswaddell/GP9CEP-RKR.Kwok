@@ -46,19 +46,19 @@ Simply saving a QMD file on your computer does not make changes available to tea
 
 ## Prompt 3: Document Your Group's Round 1 Workflow
 
-Describe the order in which group members completed Round 1. For every member, report:
+**Principal Author: Spencer Conway**
 
-the member's name;
+| Order | Group Member | Section or Content Added | Pulled Before Editing? | Commit Message | How Push Was Verified |
+|------------|------------|------------|------------|------------|------------|
+| 1 | Leeann Lewis-Waddell | Created the shared QMD file and added Prompts 1 and 2 | Yes | `Added Leeann's questions 1 & 2` | Confirmed the commit appeared in the GitHub repository and the updated QMD file was visible |
+| 2 | Carmen Jimenez Rodriguez | Added responses for Prompts 4 and 9 | Yes | `Add Carmen's responses for prompts 4 and 9 and repair RStudio project` | Confirmed the commit appeared in GitHub and the updated report files were visible |
+| 3 | Luis Ahumada | Added responses for Prompts 5 and 6 | Yes | `Luis Ahumada completed Sections 5 and 6 of the CEP Practice GitHub Assignment` | Confirmed the commit appeared in GitHub and the updated files were visible in the repository |
+| 4 | Georgia Monjarrez | Added responses for Prompts 7 and 10 | Yes | `Add Georgia's responses to prompts 7 and 10` | Confirmed the commit appeared in GitHub and the updated report files were visible |
+| 5 | Spencer Conway | Added responses for Prompts 3 and 8 | Yes | `Add Spencer's responses for prompts 3 and 8` | Confirmed the commit appeared in the GitHub commit history and the updated QMD file was visible in the repository |
 
-the section or content added;
+Our group completed Round 1 using a sequential workflow so that each member worked from the most recent version of the shared report. After one person finished their assigned section, they rendered the document, committed their changes, and pushed them to GitHub. The next member then pulled the updated version before beginning their own work. This helped make sure that everyone was working from the same version of the QMD file instead of separate or outdated copies.
 
-whether the member pulled before editing;
-
-the commit message used; and
-
-how the member verified that the push succeeded.
-
-Present this information in a well-formatted table. Then explain why your group used a sequential workflow for this exercise.
+The sequential process also helped reduce the chance of merge conflicts. Since group members were not all editing the same report at the same time, Git was less likely to encounter competing changes to the same lines. It also created a clearer commit history because each person's contribution could be connected to a specific section and commit message.
 
 ## Prompt 4: A Reliable Everyday CEP Workflow
 
@@ -116,7 +116,15 @@ A small, coordinated change, such as correcting a typo in an assigned section, m
 
 ## Prompt 8: Review the Repository History
 
-Review the repository's commit history after both collaboration rounds. What evidence shows that all members worked through Git and GitHub rather than exchanging separate files? Discuss what the history reveals about the sequence, purpose, and authorship of the changes. Identify one commit message that is especially effective and explain why.
+## Prompt 8: Review the Repository History
+
+After looking through our repository history, it is easy to see that everyone worked through Git and GitHub instead of sending separate files back and forth. The history shows commits from Leeann Lewis-Waddell, Carmen Jimenez Rodriguez, Luis Ahumada, Georgia Monjarrez, and Spencer Conway under our own GitHub accounts. It also shows the order that we worked on the report. Leeann created the shared QMD file and added Prompts 1 and 2, Carmen added Prompts 4 and 9, Luis added Prompts 5 and 6, Georgia added Prompts 7 and 10, and I added Prompts 3 and 8. Since all of these changes are shown in the same repository, we can see that everyone contributed to the same shared project.
+
+The commit history also makes it clear who worked on each part and what they changed. Each commit is connected to a specific person and has a message explaining what was added or updated. This makes it easier to follow how the report came together and who was responsible for each section.
+
+One commit message that I thought was especially effective was `Add Carmen's responses for prompts 4 and 9 and repair RStudio project`. I think this was a good commit message because it clearly explains what Carmen added and also mentions the extra change she made to the project. Someone looking at the commit history can understand what she did without having to open the files first.
+
+**Principal Author: Spencer Conway**
 
 ## Prompt 9: Security, Confidentiality, and Repository Hygiene
 
