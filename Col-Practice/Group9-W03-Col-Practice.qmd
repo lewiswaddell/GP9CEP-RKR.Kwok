@@ -32,6 +32,8 @@ We chose a URL that clearly outlines our group number, the project, our client, 
 
 Independently cloning or copying the original template would mean multiple project files and documents, effectively excluding the member who is not working from the cloned files from contributing.
 
+**Principle Author: Leeann Lewis-Waddell**
+
 ## Prompt 2: Local, Remote, and Working Files
 
 > Explain the relationship among the files on your computer, the local Git repository, and the remote repository on GitHub. In your explanation, distinguish among saving, staging, committing, pushing, fetching, and pulling.
@@ -43,6 +45,8 @@ To update the project locally, members must first fetch and then pull data from 
 > Why does saving a QMD file on your computer not make the change available to your teammates?
 
 Simply saving a QMD file on your computer does not make changes available to team members because the save is local. Changes must be staged, committed, then pushed before group members can pull updates.
+
+**Principal Author: Leeann Lewis-Waddell**
 
 ## Prompt 3: Document Your Group's Round 1 Workflow
 
@@ -62,17 +66,17 @@ The sequential process also helped reduce the chance of merge conflicts. Since g
 
 ## Prompt 4: A Reliable Everyday CEP Workflow
 
-Create a numbered checklist that a group member should follow every time they work on the CEP report, beginning before they edit and ending after they push. Explain why pulling before editing and using focused, descriptive commits make collaboration safer and make the project's history more useful.
+> Create a numbered checklist that a group member should follow every time they work on the CEP report, beginning before they edit and ending after they push. Explain why pulling before editing and using focused, descriptive commits make collaboration safer and make the project's history more useful.
 
 For Group 9, a reliable workflow begins with communication. Since we are contributing to the same QMD file, we should follow these steps each time we work on the CEP report: 1. Check the group chat to confirm the assigned section and make sure it is your turn to edit. 2. Open the Col-Practice project in RStudio or Positron and confirm that you are working in the correct repository and on the main branch. 3. Review the Git status to make sure there are no unfinished local changes. 4. Pull the latest version from GitHub before making any edits. 5. Review the newest changes so that you understand what the previous group member added. 6. Add or revise only the section assigned to you. 7. Save the QMD file and render the report to verify that the HTML file is created without errors. 8. Review the rendered report and the Git diff to make sure the content and formatting appear as intended. 9. Stage only the files related to your work and create a commit with a clear description of what you completed. 10. Push the commit to GitHub, confirm that it appears in the repository, and notify the group that the next person can begin.
 
 Pulling before editing is important because it ensures that each Group 9 member begins with the most recent version of the report. If someone starts working from an older local copy, that person may unknowingly overwrite another member's work or create a merge conflict. Following a sequential process allows us to work in either RStudio or Positron while still maintaining one shared and current version of the report. Clear and focused commit messages also make the project history easier to understand. For example, Add Carmen's responses for prompts 4 and 9 explains both the author and the purpose of the change, while a message such as update provides very little useful information. Descriptive commits will help our group and instructor follow the order of contributions, identify who completed each section, and locate or reverse a specific change if a problem appears later.
 
-Principal author: Carmen Lia Jimenez
+**Principal author: Carmen Lia Jimenez**
 
 ## Prompt 5: Coordinating Work and Preventing Merge Conflicts
 
-Explain what may happen when two people edit the same lines of the same QMD file and then attempt to push their work. Describe at least three practices your group will use during the CEP to reduce merge conflicts. Include how your group will divide sections, communicate who is editing, and decide when work is ready for another member.
+> Explain what may happen when two people edit the same lines of the same QMD file and then attempt to push their work. Describe at least three practices your group will use during the CEP to reduce merge conflicts. Include how your group will divide sections, communicate who is editing, and decide when work is ready for another member.
 
 When two people edit the same lines on the QMD file, GitHub might not be able to automatically combine and make the changes. If one person were to push their work first, the second person might get a merge conflict when they try to push or pull. Git will mark the conflicting section in the popup box and our group would have to choose which version we want to keep or how to combine each version before pushing it.
 
@@ -92,9 +96,9 @@ Overall, we have to have clear communication and have a scheduled plan and workf
 
 ## Prompt 6: Responding to a Push Rejection or Merge Conflict
 
-Consider this situation: A group member edits the report without pulling first. Meanwhile, another member pushes changes to the same section. Git rejects the first member's push, and a merge conflict appears after pulling.
-
-Explain, in order, what the first member should do. Describe how the member would use Positron's Merge Editor or the conflict markers in the file to compare the current and incoming changes, decide what content to retain, remove the conflict markers, render and inspect the report, commit the resolution, and push it. Also explain why force-pushing, deleting a teammate's work, or replacing the repository with an older local copy would be inappropriate.
+> Consider this situation: A group member edits the report without pulling first. Meanwhile, another member pushes changes to the same section. Git rejects the first member's push, and a merge conflict appears after pulling.
+>
+> Explain, in order, what the first member should do. Describe how the member would use Positron's Merge Editor or the conflict markers in the file to compare the current and incoming changes, decide what content to retain, remove the conflict markers, render and inspect the report, commit the resolution, and push it. Also explain why force-pushing, deleting a teammate's work, or replacing the repository with an older local copy would be inappropriate.
 
 The first member should pull the most recent changes from the GitHub after their push is rejected. Because two members edited the same section, Git might create a merge conflict.
 
@@ -106,7 +110,7 @@ Force-pushing, deleting a teammate’s work, or replacing the repo with an older
 
 ## Prompt 7: Branches, Issues, and Pull Requests
 
-Based on the collaboration video, explain the purposes of a GitHub Issue, a branch, and a pull request. How could these tools support task assignment, review, and approval during a longer CEP project? Contrast this approach with making a small, coordinated change directly on the main branch. Identify at least one situation in which your group should prefer a branch and pull request.
+> Based on the collaboration video, explain the purposes of a GitHub Issue, a branch, and a pull request. How could these tools support task assignment, review, and approval during a longer CEP project? Contrast this approach with making a small, coordinated change directly on the main branch. Identify at least one situation in which your group should prefer a branch and pull request.
 
 A GitHub Issue provides a place to describe a task, report a problem, or propose an improvement. Our group can use issues to assign responsibilities and keep related discussions together. A branch allows a member to develop changes separately from the main version of the report. A pull request proposes bringing those changes into another branch, such as `main`, and gives teammates a place to review the differences, ask questions, and request revisions before merging. During a longer CEP project, these tools can connect an assigned task to the work completed and the review that follows.
 
@@ -116,7 +120,7 @@ A small, coordinated change, such as correcting a typo in an assigned section, m
 
 ## Prompt 8: Review the Repository History
 
-## Prompt 8: Review the Repository History
+> Review the repository's commit history after both collaboration rounds. What evidence shows that all members worked through Git and GitHub rather than exchanging separate files? Discuss what the history reveals about the sequence, purpose, and authorship of the changes. Identify one commit message that is especially effective and explain why.
 
 After looking through our repository history, it is easy to see that everyone worked through Git and GitHub instead of sending separate files back and forth. The history shows commits from Leeann Lewis-Waddell, Carmen Jimenez Rodriguez, Luis Ahumada, Georgia Monjarrez, and Spencer Conway under our own GitHub accounts. It also shows the order that we worked on the report. Leeann created the shared QMD file and added Prompts 1 and 2, Carmen added Prompts 4 and 9, Luis added Prompts 5 and 6, Georgia added Prompts 7 and 10, and I added Prompts 3 and 8. Since all of these changes are shown in the same repository, we can see that everyone contributed to the same shared project.
 
@@ -128,17 +132,17 @@ One commit message that I thought was especially effective was `Add Carmen's res
 
 ## Prompt 9: Security, Confidentiality, and Repository Hygiene
 
-Explain what materials must never be pushed to the CEP repository, even when it is private. Address confidential client data, personally identifiable information, passwords, API keys, access tokens, temporary files, and locally generated files that do not belong under version control. Explain the role of .gitignore, and discuss what a student should do before proceeding if they are uncertain whether a file may be shared.
+> Explain what materials must never be pushed to the CEP repository, even when it is private. Address confidential client data, personally identifiable information, passwords, API keys, access tokens, temporary files, and locally generated files that do not belong under version control. Explain the role of .gitignore, and discuss what a student should do before proceeding if they are uncertain whether a file may be shared.
 
 Before adding any file to our CEP repository, we need to consider whether it is appropriate and safe to share. Confidential client materials, personally identifiable information, passwords, API keys, access tokens, authentication files, and information covered by an NDA should never be pushed to GitHub. Personally identifiable information may include names, email addresses, phone numbers, or individual survey responses that could be connected to a specific person. Group 9 should also avoid committing temporary or unnecessary files, such as .DS_Store, caches, logs, and raw datasets that have not been approved for sharing. Because our repository is currently public, we need to be especially careful about everything we stage and commit. However, changing a repository to private would not make it appropriate to store sensitive information, since access can still be granted accidentally and content may later be published through GitHub Pages.
 
 The .gitignore file helps keep the repository organized by telling Git which files or file patterns should remain untracked. For example, it can exclude system files, temporary output, local environment files, and files containing credentials. However, .gitignore only helps prevent untracked files from being added; it does not remove a file that has already been committed or erase it from the repository's history. If a Group 9 member is unsure whether a file may be shared, that person should stop before staging or committing it. The group should review the client agreement and course requirements and, when necessary, ask the faculty lead, instructor, or authorized client contact for guidance. Until permission is confirmed, the file should remain outside the repository. When possible, our group should use approved, de-identified data and keep passwords or other secrets in secure environment variables instead of placing them directly in scripts or QMD files.
 
-Principal author: Carmen Lia Jimenez
+**Principal author: Carmen Lia Jimenez**
 
 ## Prompt 10: Group Collaboration Agreement
 
-Develop a short Git/GitHub collaboration agreement that your group will follow for the remainder of the CEP.
+> Develop a short Git/GitHub collaboration agreement that your group will follow for the remainder of the CEP.
 
 ::: {.callout-note title="Group Collaboration Agreement"}
 Our group agrees to follow these practices throughout the CEP:
@@ -168,7 +172,7 @@ All group members have reviewed this agreement and agree to follow it for the re
 
 | Group Member Name | GitHub Username | Round 1 Commit Message | Round 2 Commit Message |
 |------------------|------------------|------------------|------------------|
-|  |  |  |  |
+| Leeann Lewis-Waddell | lewiswaddell | `Round 1: Create & Build Shared Report - .qmd setup` | `Round 2: Leeann removed duplicate Prompt 8 heading; added Principal Author to Prompt 1 & 2; added block quote to Prompt 4, 5, 6, 7; added Prompt 8 in. Added personal commits to Appendix table, repo link, pages link & commit-history` |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -176,15 +180,15 @@ All group members have reviewed this agreement and agree to follow it for the re
 
 : A table listing each member's name, GitHub username, Round 1 commit message, and Round 2 commit message
 
--   GitHub Repository
+- [GitHub Repository](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
 
--   GitHub Pages Report
+- [GitHub Pages Report](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
 
--   GitHub Commit-History
+- [GitHub Commit-History](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok/commits/main/)
 
--   Application used to pull, commit, and push their changes by each member:
+- Application used to pull, commit, and push their changes by each member:
 
-    -   Leeann Lewis-Waddell: Positron
-    -   Georgia Monjarrez: R Studio
+  - Leeann Lewis-Waddell: Positron
+  - Georgia Monjarrez: R Studio
 
--   Member who performed the final pull, render, link check, and push:
+- Member who performed the final pull, render, link check, and push:
