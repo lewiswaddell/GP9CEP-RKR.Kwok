@@ -132,6 +132,19 @@ One commit message that I thought was especially effective was `Add Carmen's res
 
 **Principal Author: Spencer Conway**
 
+
+The Round 2 commits provide additional evidence of collaboration because they show group members returning to review and improve sections originally written by someone else. Although the commit history does not prove every individual `pull` by itself, the chronological sequence of identifiable commits, changes to the same QMD file, and separate review commits support the conclusion that the group followed a shared Git and GitHub workflow.
+
+| Evidence in the repository history | What it shows |
+|---|---|
+| Commits connected to five recognizable GitHub accounts | Each group member made an identifiable contribution. |
+| A chronological sequence of commits | Members contributed to the shared report one person at a time. |
+| Incremental changes to the same QMD and HTML files | The report developed within one shared project rather than through separate final documents. |
+| Separate Round 1 and Round 2 commits | Members added original content and later reviewed another person's work. |
+| Descriptive commit messages and visible file differences | The purpose, authorship, and specific content of each change can be reviewed. |
+
+
+
 ## Prompt 9: Security, Confidentiality, and Repository Hygiene
 
 > Explain what materials must never be pushed to the CEP repository, even when it is private. Address confidential client data, personally identifiable information, passwords, API keys, access tokens, temporary files, and locally generated files that do not belong under version control. Explain the role of .gitignore, and discuss what a student should do before proceeding if they are uncertain whether a file may be shared.
@@ -192,5 +205,7 @@ All group members have reviewed this agreement and agree to follow it for the re
 
     -   Leeann Lewis-Waddell: Positron
     -   Georgia Monjarrez: R Studio
+    -   Carmen Lia Jimenez: R Studio
 
+ 
 -   Member who performed the final pull, render, link check, and push:
