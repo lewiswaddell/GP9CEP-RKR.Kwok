@@ -1,0 +1,120 @@
+/* ============================================================
+   MSDM CEP Template — structural styles for HTML output
+   Font family and size inherit from the site theme (Cosmo).
+   Only layout, weight, alignment, and spacing are set here.
+   ============================================================ */
+
+/* ---- H1: chapter headings, all caps, centered ---- */
+main h1 {
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 4em;
+  margin-bottom: 1em;
+  padding-top: 1.5em;
+}
+
+/* First H1 needs no top separator */
+main h1:first-of-type {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* ---- H2: bold, left-justified ---- */
+main h2 {
+  font-weight: bold;
+  text-align: left;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+/* ---- H3: bold, italic ---- */
+main h3 {
+  font-weight: bold;
+  font-style: italic;
+  margin-left: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* ---- H4: italic only ---- */
+main h4 {
+  font-weight: normal;
+  font-style: italic;
+  margin-left: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* ---- Tighten bullet spacing globally and inside callouts ---- */
+main ul li,
+main ol li,
+.callout ul li,
+.callout ol li,
+.callout-body ul li,
+.callout-body ol li,
+.callout-body-container ul li,
+.callout-body-container ol li {
+  line-height: 1.5 !important;
+  margin-bottom: 0.15em !important;
+}
+
+main ul,
+main ol,
+.callout ul,
+.callout ol,
+.callout-body ul,
+.callout-body ol {
+  margin-bottom: 0.75em !important;
+}
+
+/* ---- Centered parenthetical guide lines ---- */
+.page-note,
+.page-note p {
+  text-align: center;
+  margin: 0;
+}
+
+/* ---- Yellow-highlighted callout ---- */
+.hl-yellow .callout-body-container {
+  background-color: #ffff99;
+}
+
+/* ---- Student name headings ---- */
+.student-name {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 24pt;
+  margin-bottom: 3pt;
+}
+
+/* ---- Floating sidebar TOC: bold H1-level entries only ---- */
+#quarto-margin-sidebar nav#TOC > ul > li > a {
+  font-weight: bold !important;
+}
+
+/* ---- Sidebar TOC: reset H2 and deeper to normal ---- */
+#quarto-margin-sidebar nav#TOC > ul > li > ul > li > a,
+#quarto-margin-sidebar nav#TOC > ul > li > ul > li > ul > li > a {
+  font-weight: normal !important;
+}
+
+/* ---- Restore Other Links to normal weight ---- */
+#quarto-margin-sidebar .quarto-other-links a {
+  font-weight: normal !important;
+}
+
+/* ---- Print: page breaks before every H1 ---- */
+@media print {
+  main h1 {
+    page-break-before: always;
+    border-top: none;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  main h1:first-of-type {
+    page-break-before: avoid;
+  }
+}
