@@ -22,11 +22,27 @@ execute:
 
 ## Prompt 1: Repository Setup and Shared Ownership
 
-Explain how your group created its CEP repository from the MSDM CEP template, selected an appropriate visibility setting, invited collaborators, and ensured that every member cloned the same repository. Clearly distinguish among using a template, creating a repository, and cloning a repository. Why would independently cloning or copying the original template create problems for group collaboration?
+> Explain how your group created its CEP repository from the MSDM CEP template, selected an appropriate visibility setting, invited collaborators, and ensured that every member cloned the same repository. Clearly distinguish among using a template, creating a repository, and cloning a repository.
+
+Group 9 created our CEP repository by first reviewing all assigned videos, correcting the hyperlink to access the repository containing the CEP template (there is an extra parenthesis that takes the viewer to a 404 error). After locating the CEP template folder, we then clicked `Use this template`, followed by `Create a new repository`. This new folder uses the template instructed to duplicate all project files without editing the original repository.
+
+We chose a URL that clearly outlines our group number, the project, our client, and our faculty lead: `GP9CEP-RKR.Kwok` accompanied by a more clearly defined description. After inviting all members, Dr. Jung and Dr. Kwok were also invited to our publicly accessible repository. All immediate team members confirmed accessibility and cloned our collective folder to their local drives.
+
+> Why would independently cloning or copying the original template create problems for group collaboration?
+
+Independently cloning or copying the original template would mean multiple project files and documents, effectively excluding the member who is not working from the cloned files from contributing.
 
 ## Prompt 2: Local, Remote, and Working Files
 
-Explain the relationship among the files on your computer, the local Git repository, and the remote repository on GitHub. In your explanation, distinguish among saving, staging, committing, pushing, fetching, and pulling. Why does saving a QMD file on your computer not make the change available to your teammates?
+> Explain the relationship among the files on your computer, the local Git repository, and the remote repository on GitHub. In your explanation, distinguish among saving, staging, committing, pushing, fetching, and pulling.
+
+The remote repository is the point of origin for all group members' contributions, from which all updates must first be pulled to update the local Git repository in order to work from the most up-to-date version of the project stored locally on each member's drive.
+
+To update the project locally, members must first fetch and then pull data from the GitHub repository. Once local files are up to date, members will make changes and then save them locally, which must then be staged in the local GitHub, before committing with a message to describe the changes. After changes are committed, they must be pushed and synced to update the remote repository.
+
+> Why does saving a QMD file on your computer not make the change available to your teammates?
+
+Simply saving a QMD file on your computer does not make changes available to team members because the save is local. Changes must be staged, committed, then pushed before group members can pull updates.
 
 ## Prompt 3: Document Your Group's Round 1 Workflow
 
@@ -95,7 +111,7 @@ Place the agreement in a callout block. Every member should review it, and the r
 # Appendix: Collaboration Evidence
 
 | Group Member Name | GitHub Username | Round 1 Commit Message | Round 2 Commit Message |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
