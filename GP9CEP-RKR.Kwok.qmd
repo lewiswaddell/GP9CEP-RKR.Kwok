@@ -38,23 +38,30 @@ csl: styles/american-marketing-association.csl
 # CHAPTER 1: INTRODUCTION {#sec-ch1-introduction}
 
 ## Background and Business Problem
+
 ### Background (Georgia Monjarrez)
 
 The Restaurant at Kellogg Ranch (RKR) is a student-operated restaurant located on the California State Polytechnic University, Pomona campus. Established in 1990, it provides students in The Collins College of Hospitality Management with practical experience managing and operating a restaurant while serving the public. Its dining experience features seasonal menus, ingredients grown on campus, and views of the university grounds (California State Polytechnic University, Pomona n.d.).
 
 RKR welcomes guests for lunch and dinner during posted operating periods and accommodates private events. Its website provides menu information, location details, operating hours, and access to an OpenTable reservation widget (California State Polytechnic University, Pomona n.d.). These features allow prospective guests to explore the restaurant’s offerings and begin planning a visit, making the website a relevant part of the group’s digital marketing project.
 
+### Business Problem (Luis Ahumada)
+
+The Restaurant at Kellogg's Ranch is currently transitioning from primarily operating as a student-managed instructional restaurant, to a dual model that also includes stand-alone restaurant operation during different days of the week. Because these stand-alone service periods can't rely on state funding, RKR needs to find ways to generate consistent customer demand and revenue while also maintaining its educations Cal Poly Pomona mission. The Project proposal identifies several areas where RKR still needs evidence, including priority customer segments, barriers to visiting, effective messages and content, and the digital customer journey from awareness to reservation and repeat visits (Kwok 2026).
+
 ## Project Objectives
 
-
 ## Analytics Objectives
-
 
 ### AO1. Title of AO1 (Name of Student 1)
 
 ### AO2. Title of AO2 (Name of Student 2)
 
-### AO3. Title of AO3 (Name of Student 3)
+### AO3. Facebook Content Effectiveness and Reservation Behavio (Luis Ahumada)
+
+This proposed analytics objective evaluates how variations in Facebook content type and messaging are associated with digital consumer engagement and reservation-related behavior for The Restaurant at Kellogg Ranch, using trackable OpenTable reservation links and available OpenTable data to analyze downstream customer response.
+
+This AO will help RKR determine which types of Facebook content and messaging generate stronger engagement and are associated with reservation activity, supporting a more measurable content strategy.
 
 ### AO4.Website Content, Navigation, and Usability (Georgia Monjarrez)
 
@@ -63,13 +70,12 @@ This proposed analytics objective examines how effectively the Restaurant at Kel
 Proposed data include a structured website review, observed completion of visitor tasks, and participant feedback. Tasks may include locating the menu, finding operating hours, and accessing the reservation process. Task completion, completion time, and satisfaction ratings will help identify difficulties visitors encounter. If analytics access is available, page visits, device categories, and reservation-link clicks will provide additional evidence. Reservation-link clicks will be distinguished from completed bookings, which require booking-system data. Findings will guide recommendations for website content and navigation. The final scope, audience, and data access remain subject to confirmation with Dr. Kwok.
 
 ### AO5. Instagram Content and Engagement Analysis (Spencer Conway)
+
 This analytics objective will focus on RKR’s Instagram performance to identify which types of content generate the strongest audience engagement. The analysis will look at different post types and engagement metrics to help determine which content strategies may be most effective for increasing awareness and interaction with RKR.
 
 ## Significance of the Topic
 
-This project is important because it can help Restaurant at Kellogg Ranch better understand how its marketing efforts can increase awareness and engagement with its target audiences. Research has shown that restaurant social media content can influence customer inspiration and engagement, especially when restaurants use appealing outcome-focused food imagery (Lee and Kwak, 2026). RKR has a unique connection to The Collins College and Cal Poly Pomona, but that does not automatically mean students, faculty, staff, or people in the surrounding community know about the restaurant or what it offers.
-By looking at different marketing channels and customer touchpoints, our group can identify ways RKR can improve how it communicates with potential customers. Social media marketing activities such as interaction, entertainment, trendiness, and customization have been found to influence perceived value, purchase intention, and electronic word-of-mouth (Bushara et al., 2023). Using data to evaluate current marketing efforts can also help the restaurant make decisions based on actual results instead of assumptions.
-The project can also support a more consistent and data-driven marketing strategy moving forward. Understanding how different audiences respond to different types of communication may help the restaurant use its marketing resources more effectively and build stronger connections with both the Cal Poly Pomona community and customers outside of campus.
+This project is important because it can help Restaurant at Kellogg Ranch better understand how its marketing efforts can increase awareness and engagement with its target audiences. Research has shown that restaurant social media content can influence customer inspiration and engagement, especially when restaurants use appealing outcome-focused food imagery (Lee and Kwak, 2026). RKR has a unique connection to The Collins College and Cal Poly Pomona, but that does not automatically mean students, faculty, staff, or people in the surrounding community know about the restaurant or what it offers. By looking at different marketing channels and customer touchpoints, our group can identify ways RKR can improve how it communicates with potential customers. Social media marketing activities such as interaction, entertainment, trendiness, and customization have been found to influence perceived value, purchase intention, and electronic word-of-mouth (Bushara et al., 2023). Using data to evaluate current marketing efforts can also help the restaurant make decisions based on actual results instead of assumptions. The project can also support a more consistent and data-driven marketing strategy moving forward. Understanding how different audiences respond to different types of communication may help the restaurant use its marketing resources more effectively and build stronger connections with both the Cal Poly Pomona community and customers outside of campus.
 
 ------------------------------------------------------------------------
 
