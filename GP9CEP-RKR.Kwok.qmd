@@ -119,6 +119,16 @@ Namkung, Y. and S. C. Jang (2007), “Does Food Quality Really Matter in Restaur
 
 Ryu, K., H.-R. Lee, and W. G. Kim (2012), “The Influence of the Quality of the Physical Environment, Food, and Service on Restaurant Image, Customer Perceived Value, Customer Satisfaction, and Behavioral Intentions,” International Journal of Contemporary Hospitality Management.
 
+------------------------------------------------------------------------
+
+# Appendix
+
+- [GitHub Repo](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
+
+- [Github Pages](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
+
+------------------------------------------------------------------------
+
 # CHAPTER 2: BACKGROUND AND ANALYTICS OBJECTIVES {#sec-ch2-background-and-analytics-objectives}
 
 ::: page-note
