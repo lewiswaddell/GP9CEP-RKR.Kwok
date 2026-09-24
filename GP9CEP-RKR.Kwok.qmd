@@ -88,3 +88,5 @@ California State Polytechnic University, Pomona (n.d.), “The Restaurant at Kel
 DeLone, William H. and Ephraim R. McLean (2003), “The DeLone and McLean Model of Information Systems Success: A Ten-Year Update,” *Journal of Management Information Systems*, 19 (4), 9–30. https://www.jmis-web.org/articles/271.
 
 Lee, Seonjeong Ally and Soo Yeon Kwak (2026), “Enhancing Customer Inspiration and Engagement Experiences on Restaurant Social Media,” International Journal of Hospitality Management, 138, 104713. https://doi.org/10.1016/j.ijhm.2026.104713.
+
+Kwok, Linchi (2026), “Building Sustainable Demand for The Restaurant at Kellogg Ranch: A Data-Driven Brand, Content, and Digital Marketing Initiative,” MSDM Culminating Experience Project Proposal, The Collins College of Hospitality Management, Cal Poly Pomona.
