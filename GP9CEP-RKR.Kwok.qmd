@@ -38,6 +38,11 @@ csl: styles/american-marketing-association.csl
 # CHAPTER 1: INTRODUCTION {#sec-ch1-introduction}
 
 ## Background and Business Problem
+### Background (Georgia Monjarrez)
+
+The Restaurant at Kellogg Ranch (RKR) is a student-operated restaurant located on the California State Polytechnic University, Pomona campus. Established in 1990, it provides students in The Collins College of Hospitality Management with practical experience managing and operating a restaurant while serving the public. Its dining experience features seasonal menus, ingredients grown on campus, and views of the university grounds (California State Polytechnic University, Pomona n.d.).
+
+RKR welcomes guests for lunch and dinner during posted operating periods and accommodates private events. Its website provides menu information, location details, operating hours, and access to an OpenTable reservation widget (California State Polytechnic University, Pomona n.d.). These features allow prospective guests to explore the restaurant’s offerings and begin planning a visit, making the website a relevant part of the group’s digital marketing project.
 
 ## Project Objectives
 
@@ -51,7 +56,11 @@ csl: styles/american-marketing-association.csl
 
 ### AO3. Title of AO3 (Name of Student 3)
 
-### AO4. Title of AO4 (Name of Student 4)
+### AO4.Website Content, Navigation, and Usability (Georgia Monjarrez)
+
+This proposed analytics objective examines how effectively the Restaurant at Kellogg Ranch’s website helps visitors find dining information and reach the reservation process. It will assess content clarity, navigation, and usability to identify improvements that support the project’s broader goal of encouraging reservations. The evaluation will draw on the information systems success framework, which distinguishes information quality, system quality, use, and user satisfaction (DeLone and McLean 2003).
+
+Proposed data include a structured website review, observed completion of visitor tasks, and participant feedback. Tasks may include locating the menu, finding operating hours, and accessing the reservation process. Task completion, completion time, and satisfaction ratings will help identify difficulties visitors encounter. If analytics access is available, page visits, device categories, and reservation-link clicks will provide additional evidence. Reservation-link clicks will be distinguished from completed bookings, which require booking-system data. Findings will guide recommendations for website content and navigation. The final scope, audience, and data access remain subject to confirmation with Dr. Kwok.
 
 ### AO5. Instagram Content and Engagement Analysis (Spencer Conway)
 This analytics objective will focus on RKR’s Instagram performance to identify which types of content generate the strongest audience engagement. The analysis will look at different post types and engagement metrics to help determine which content strategies may be most effective for increasing awareness and interaction with RKR.
@@ -67,5 +76,9 @@ The project can also support a more consistent and data-driven marketing strateg
 # References
 
 Bushara, Meimona Abdelrhim, Ahmed Hassan Abdou, Thowayeb H. Hassan, Abu Elnasr E. Sobaih, Abdullah Saleh Mohammed Albohnayh, Waleed Ghazi Alshammari, Mohammed Aldoreeb, Ahmed Anwar Elsaed, and Mohamed Ahmed Elsaied (2023), “Power of Social Media Marketing: How Perceived Value Mediates the Impact on Restaurant Followers’ Purchase Intention, Willingness to Pay a Premium Price, and E-WoM?” Sustainability, 15 (6), 5331. https://doi.org/10.3390/su15065331.
+
+California State Polytechnic University, Pomona (n.d.), “The Restaurant at Kellogg Ranch,” (accessed September 23, 2026), https://www.cpp.edu/rkr/.
+
+DeLone, William H. and Ephraim R. McLean (2003), “The DeLone and McLean Model of Information Systems Success: A Ten-Year Update,” *Journal of Management Information Systems*, 19 (4), 9–30. https://www.jmis-web.org/articles/271.
 
 Lee, Seonjeong Ally and Soo Yeon Kwak (2026), “Enhancing Customer Inspiration and Engagement Experiences on Restaurant Social Media,” International Journal of Hospitality Management, 138, 104713. https://doi.org/10.1016/j.ijhm.2026.104713.
