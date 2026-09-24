@@ -1,6 +1,6 @@
 ---
-title: "MSDM Culminating Experience Project (aka Capstone Project) Content and Format Template"
-subtitle: "Part of the MSDM Culminating Experience Project Guidelines"
+title: "A Filling Recipe for Open Tables at Kellogg Ranch"
+subtitle: "A Digital Marketing Strategy for Sustainable Reservations and Repeat Guests"
 author: "Group 9 - Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, Georgia Monjarrez"
 date-modified: today
 format: 
