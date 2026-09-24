@@ -53,9 +53,19 @@ csl: styles/american-marketing-association.csl
 
 ### AO4. Title of AO4 (Name of Student 4)
 
-### AO5. Title of AO5 (Name of Student 5)
+### AO5. Instagram Content and Engagement Analysis (Spencer Conway)
+This analytics objective will focus on RKR’s Instagram performance to identify which types of content generate the strongest audience engagement. The analysis will look at different post types and engagement metrics to help determine which content strategies may be most effective for increasing awareness and interaction with RKR.
 
 ## Significance of the Topic
 
+This project is important because it can help Restaurant at Kellogg Ranch better understand how its marketing efforts can increase awareness and engagement with its target audiences. Research has shown that restaurant social media content can influence customer inspiration and engagement, especially when restaurants use appealing outcome-focused food imagery (Lee and Kwak, 2026). RKR has a unique connection to The Collins College and Cal Poly Pomona, but that does not automatically mean students, faculty, staff, or people in the surrounding community know about the restaurant or what it offers.
+By looking at different marketing channels and customer touchpoints, our group can identify ways RKR can improve how it communicates with potential customers. Social media marketing activities such as interaction, entertainment, trendiness, and customization have been found to influence perceived value, purchase intention, and electronic word-of-mouth (Bushara et al., 2023). Using data to evaluate current marketing efforts can also help the restaurant make decisions based on actual results instead of assumptions.
+The project can also support a more consistent and data-driven marketing strategy moving forward. Understanding how different audiences respond to different types of communication may help the restaurant use its marketing resources more effectively and build stronger connections with both the Cal Poly Pomona community and customers outside of campus.
+
 ------------------------------------------------------------------------
 
+# References
+
+Bushara, Meimona Abdelrhim, Ahmed Hassan Abdou, Thowayeb H. Hassan, Abu Elnasr E. Sobaih, Abdullah Saleh Mohammed Albohnayh, Waleed Ghazi Alshammari, Mohammed Aldoreeb, Ahmed Anwar Elsaed, and Mohamed Ahmed Elsaied (2023), “Power of Social Media Marketing: How Perceived Value Mediates the Impact on Restaurant Followers’ Purchase Intention, Willingness to Pay a Premium Price, and E-WoM?” Sustainability, 15 (6), 5331. https://doi.org/10.3390/su15065331.
+
+Lee, Seonjeong Ally and Soo Yeon Kwak (2026), “Enhancing Customer Inspiration and Engagement Experiences on Restaurant Social Media,” International Journal of Hospitality Management, 138, 104713. https://doi.org/10.1016/j.ijhm.2026.104713.
