@@ -1,0 +1,61 @@
+---
+title: "MSDM Culminating Experience Project (aka Capstone Project) Content and Format Template"
+subtitle: "Part of the MSDM Culminating Experience Project Guidelines"
+author: "Group 9 - Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, Georgia Monjarrez"
+date-modified: today
+format: 
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: 1
+    toc-location: right
+    number-sections: true
+    number-depth: 3
+    css: template-styles.css
+    embed-resources: true
+    smooth-scroll: true
+    #fontsize: 18px
+    code-tools: true
+    code-overflow: wrap
+    metadata:
+      description-meta: "This template provides guidelines for creating a comprehensive written report for the MSDM Culminating Experience Project."
+    other-links:
+      - text: MS in Digital Marketing
+        icon: mortarboard-fill
+        href: https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml
+      - text: Back to CEP Documents
+        icon: journal-text
+        href: https://www.cppmsdm.com/capstone_project.html#sec-essential-documents
+      - text: IBM Department
+        icon: bank
+        href: https://www.cpp.edu/cba/international-business-marketing/index.shtml
+    link-external-icon: true
+    link-external-newwindow: true    
+bibliography: references.bib
+csl: styles/american-marketing-association.csl
+---
+
+# CHAPTER 1: INTRODUCTION {#sec-ch1-introduction}
+
+## Background and Business Problem
+
+## Project Objectives
+
+
+## Analytics Objectives
+
+
+### AO1. Title of AO1 (Name of Student 1)
+
+### AO2. Title of AO2 (Name of Student 2)
+
+### AO3. Title of AO3 (Name of Student 3)
+
+### AO4. Title of AO4 (Name of Student 4)
+
+### AO5. Title of AO5 (Name of Student 5)
+
+## Significance of the Topic
+
+------------------------------------------------------------------------
+

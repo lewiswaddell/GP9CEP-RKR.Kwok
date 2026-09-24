@@ -1,0 +1,27 @@
+---
+title: "GP01 - Bibliography Database Using Zotero"
+author: "Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, Georgia Monjarrez"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Bibliography Database Using Zotero
+
+## 1. Zotero Group Library Screenshot
+
+## 2. Example Zotero Item Screenshot
+
+## 3. Group Source Summary Table
+
+## 4. Zotero Group Library Link or Invitation Information
+
+### Appendix
