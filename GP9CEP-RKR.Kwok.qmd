@@ -51,11 +51,28 @@ The Restaurant at Kellogg's Ranch is currently transitioning from primarily oper
 
 ## Project Objectives
 
+The project is designed to achieve the following objectives:
+
+1. Assess RKR’s market position, priority customer segments, digital customer journey, competitive environment, and communication gaps within its dual operating model.
+
+2. Analyze reservation, search, website, and social-media data to establish performance baselines and identify demand patterns across service periods, target audiences, and marketing channels.
+
+3. Evaluate customer awareness, perceptions, dining motivations, barriers to visiting, satisfaction, and intentions to revisit or recommend RKR. The project will also test alternative messages and creative concepts.
+
+4. Develop and implement an integrated digital marketing plan that includes SEO improvements and, if funding is available, a limited SEM pilot.
+
+5. Evaluate the performance of marketing initiatives and establish an actionable system for ongoing optimization, repeat patronage, and scalable demand growth.
+
 ## Analytics Objectives
 
 ### AO1. Title of AO1 (Name of Student 1)
 
-### AO2. Title of AO2 (Name of Student 2)
+### AO2. Analytics Objective: Customer Satisfaction and Repeat Patronage (Carmen Jimenez)
+
+This analytics objective examines how food quality, service quality, physical environment, atmosphere, perceived value, and the overall dining experience influence customer satisfaction, intention to revisit, and willingness to recommend The Restaurant at Kellogg Ranch. The analysis will identify which customer-experience factors are most strongly associated with positive evaluations and future customer behavior.
+
+Data may come from customer surveys, online reviews, and OpenTable feedback, if available. Descriptive statistics, correlation or regression analysis, and thematic analysis of customer comments may be used to evaluate these relationships. The findings will help RKR prioritize improvements in food presentation, service, atmosphere, customer communication, and marketing efforts that can support repeat visits and positive recommendations.
+
 
 ### AO3. Facebook Content Effectiveness and Reservation Behavio (Luis Ahumada)
 
@@ -90,3 +107,10 @@ DeLone, William H. and Ephraim R. McLean (2003), “The DeLone and McLean Model 
 Lee, Seonjeong Ally and Soo Yeon Kwak (2026), “Enhancing Customer Inspiration and Engagement Experiences on Restaurant Social Media,” International Journal of Hospitality Management, 138, 104713. https://doi.org/10.1016/j.ijhm.2026.104713.
 
 Kwok, Linchi (2026), “Building Sustainable Demand for The Restaurant at Kellogg Ranch: A Data-Driven Brand, Content, and Digital Marketing Initiative,” MSDM Culminating Experience Project Proposal, The Collins College of Hospitality Management, Cal Poly Pomona.
+
+
+Han, H. and K. Ryu (2009), “The Roles of the Physical Environment, Price Perception, and Customer Satisfaction in Determining Customer Loyalty in the Restaurant Industry,” Journal of Hospitality & Tourism Research, 33 (4), 487–510. 
+
+Namkung, Y. and S. C. Jang (2007), “Does Food Quality Really Matter in Restaurants? Its Impact on Customer Satisfaction and Behavioral Intentions,” Journal of Hospitality & Tourism Research, 31 (3), 387–409.
+
+Ryu, K., H.-R. Lee, and W. G. Kim (2012), “The Influence of the Quality of the Physical Environment, Food, and Service on Restaurant Image, Customer Perceived Value, Customer Satisfaction, and Behavioral Intentions,” International Journal of Contemporary Hospitality Management.
