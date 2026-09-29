@@ -43,7 +43,7 @@ The project is designed to achieve the following objectives:
 
 2.  Analyze reservation, search, website, newletter, and social-media data to establish performance baselines and identify demand patterns across service periods, target audiences, and marketing channels.
 
-3.  Evaluate customer awareness, perceptions, dining motivations, barriers to visiting, satisfaction, and intentions to revisit or recommend RKR. The project will also test alternative messages and creative concepts.
+3.  Develop an evidence-based Facebook marketing strategy designed to support reservation growth at The Restaurant at Kellogg Ranch.
 
 4.  Develop and implement an integrated digital marketing plan that includes SEO improvements and, if funding is available, a limited SEM pilot.
 
@@ -63,9 +63,7 @@ Data may come from customer surveys, online reviews, and OpenTable feedback, if 
 
 ### AO3. Facebook Content Effectiveness and Reservation Behavior (Luis Ahumada)
 
-This proposed analytics objective evaluates how variations in Facebook content type and messaging are associated with digital consumer engagement and reservation-related behavior for The Restaurant at Kellogg Ranch, using trackable OpenTable reservation links and available OpenTable data to analyze downstream customer response.
-
-This AO will help RKR determine which types of Facebook content and messaging generate stronger engagement and are associated with reservation activity, supporting a more measurable content strategy.
+Compare Facebook Content and messaging strategies using engagement metrics and OpenTable reservation activity to identify which approaches perform best.
 
 ### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
@@ -1163,7 +1161,7 @@ You should identify the **top five best keywords for each seed keyword** and exp
 A suggested table format:
 
 |  |  |  |  |  |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | **Seed Keyword** | **Recommended Keyword** | **Search Intent** | **Reason for Selection** | **Target Page** |
 | sustainable skincare | natural face cream | Commercial | Relevant to target audience and product category | Product page |
 
@@ -2026,7 +2024,7 @@ The timeline may include:
 Suggested format:
 
 |  |  |  |  |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Week** | **Activity** | **Responsible Area** | **Deliverable** |
 | Week 1 | Finalize campaign objectives and content calendar | Strategy | Campaign brief |
 | Week 2 | Create website landing page and social content | Website/Social | Landing page mockup, posts |
@@ -2175,7 +2173,7 @@ Set expected performance targets after implementation.
 Examples:
 
 |  |  |  |  |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **KPI** | **Baseline** | **Target** | **Rationale** |
 | Website sessions | 5,000/month | 6,000/month | SEO and paid ads expected to increase traffic |
 | Email CTR | 3% | 5% | Improved segmentation and stronger CTA |
