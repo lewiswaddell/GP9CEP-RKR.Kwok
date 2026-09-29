@@ -67,9 +67,7 @@ Compare Facebook Content and messaging strategies using engagement metrics and O
 
 ### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
-This proposed analytics objective examines how effectively the Restaurant at Kellogg Ranch’s website helps visitors find dining information and reach the reservation process. It will assess content clarity, navigation, and usability to identify improvements that support the project’s broader goal of encouraging reservations. The evaluation will draw on the information systems success framework, which distinguishes information quality, system quality, use, and user satisfaction [@jmis-j].
-
-Proposed data include a structured website review, observed completion of visitor tasks, and participant feedback. Tasks may include locating the menu, finding operating hours, and accessing the reservation process. Task completion, completion time, and satisfaction ratings will help identify difficulties visitors encounter. If analytics access is available, page visits, device categories, and reservation-link clicks will provide additional evidence. Reservation-link clicks will be distinguished from completed bookings, which require booking-system data. Findings will guide recommendations for website content and navigation. The final scope, audience, and data access remain subject to confirmation with Dr. Kwok.
+Measure how easily users can find the menu, operating hours, and reservation page using task completion rate, completion time, and ease of use ratings. 
 
 ### AO5. Instagram Content and Engagement Analysis (Spencer Conway)
 
