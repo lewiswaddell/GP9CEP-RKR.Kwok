@@ -17,20 +17,6 @@ format:
     #fontsize: 18px
     code-tools: true
     code-overflow: wrap
-    metadata:
-      description-meta: "This template provides guidelines for creating a comprehensive written report for the MSDM Culminating Experience Project."
-    other-links:
-      - text: MS in Digital Marketing
-        icon: mortarboard-fill
-        href: https://www.cpp.edu/programs/cba/gp/masters-digital-marketing.shtml
-      - text: Back to CEP Documents
-        icon: journal-text
-        href: https://www.cppmsdm.com/capstone_project.html#sec-essential-documents
-      - text: IBM Department
-        icon: bank
-        href: https://www.cpp.edu/cba/international-business-marketing/index.shtml
-    link-external-icon: true
-    link-external-newwindow: true    
 bibliography: references.bib
 csl: styles/american-marketing-association.csl
 ---
@@ -53,7 +39,7 @@ The Restaurant at Kellogg's Ranch is currently transitioning from primarily oper
 
 The project is designed to achieve the following objectives:
 
-1.  Assess RKR’s market position, priority customer segments, digital customer journey, competitive environment, and communication gaps within its dual operating model.
+1.  Determine the RKR newsletter format that increases reservation click-rate.
 
 2.  Analyze reservation, search, website, newletter, and social-media data to establish performance baselines and identify demand patterns across service periods, target audiences, and marketing channels.
 
@@ -65,11 +51,9 @@ The project is designed to achieve the following objectives:
 
 ## Analytics Objectives
 
-### AO1. Newsletter Click Rate and Offer Redemption (Leeann Lewis-Waddell)
+### AO1. Newsletter Formatting and Click-Rate (Leeann Lewis-Waddell)
 
-Employing RKR's feature in The Collins Concierge newsletter, this analytics objective pairs the channel with a newsletter-exclusive offer to convert readers into reservations and visits at The Restaurant at Kellogg Ranch. Because restaurant email promotions framed as an amount off, rather than an equivalent percentage off, make readers more likely to click the call-to-action button, search for more information, and share the message [@leung2019], the analysis will alternate both offer formats across issues, comparing click rates on RKR's "Reserve a Table" and "See the Menu" buttons and measuring whether the offer can generate 40 redemptions by Spring 2027.
-
-Data will come from UTM-tracked link clicks, Canva page views, OpenTable reservations, and offer codes logged at the point of sale for walk-in guests. Unlike the home website, the newsletter is run independently of the university and can be reasonably tracked via Google Analytics. Metrics obtained from GA4 will allow for a comparison of click rates and redemptions between offer formats, as well as before and after a redesign of RKR's newsletter section. Since highlighting a price promotion alone may not be enough to drive patronage [@leung2019a], the findings will help RKR identify which newsletter content, layouts, and offers most effectively turn readers into guests, supporting a repeatable channel for demand growth.
+A/B test two RKR section formats in The Collins Concierge from October 2026 to June 2027, comparing “Reserve a Table” click rates and attributed OpenTable reservations between versions.
 
 ### AO2. Analytics Objective: Customer Satisfaction and Repeat Patronage (Carmen Jimenez)
 
@@ -1179,7 +1163,7 @@ You should identify the **top five best keywords for each seed keyword** and exp
 A suggested table format:
 
 |  |  |  |  |  |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | **Seed Keyword** | **Recommended Keyword** | **Search Intent** | **Reason for Selection** | **Target Page** |
 | sustainable skincare | natural face cream | Commercial | Relevant to target audience and product category | Product page |
 
@@ -2042,7 +2026,7 @@ The timeline may include:
 Suggested format:
 
 |  |  |  |  |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **Week** | **Activity** | **Responsible Area** | **Deliverable** |
 | Week 1 | Finalize campaign objectives and content calendar | Strategy | Campaign brief |
 | Week 2 | Create website landing page and social content | Website/Social | Landing page mockup, posts |
@@ -2191,7 +2175,7 @@ Set expected performance targets after implementation.
 Examples:
 
 |  |  |  |  |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **KPI** | **Baseline** | **Target** | **Rationale** |
 | Website sessions | 5,000/month | 6,000/month | SEO and paid ads expected to increase traffic |
 | Email CTR | 3% | 5% | Improved segmentation and stronger CTA |
