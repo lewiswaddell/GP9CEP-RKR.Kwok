@@ -41,13 +41,15 @@ The project is designed to achieve the following objectives:
 
 1.  Determine the RKR newsletter format that increases reservation click-rate.
 
-2.  Analyze reservation, search, website, newletter, and social-media data to establish performance baselines and identify demand patterns across service periods, target audiences, and marketing channels.
+2. Evaluate how customer-experience factors influence customer satisfaction, intention to revisit, and willingness to recommend The Restaurant at Kellogg Ranch.
 
-3.  Develop an evidence-based Facebook marketing strategy designed to support reservation growth at The Restaurant at Kellogg Ranch.
+3. Analyze reservation, search, website, newletter, and social-media data to establish performance baselines and identify demand patterns across service periods, target audiences, and marketing channels.
 
-4.  Develop and implement an integrated digital marketing plan that includes SEO improvements and, if funding is available, a limited SEM pilot.
+4.  Develop an evidence-based Facebook marketing strategy designed to support reservation growth at The Restaurant at Kellogg Ranch.
 
-5.  Evaluate RKR’s Instagram content performance and develop a data-informed posting strategy to improve audience engagement.
+5.  Develop and implement an integrated digital marketing plan that includes SEO improvements and, if funding is available, a limited SEM pilot.
+
+6.  Evaluate RKR’s Instagram content performance and develop a data-informed posting strategy to improve audience engagement.
 
 ## Analytics Objectives
 
@@ -57,9 +59,7 @@ A/B test two RKR section formats in The Collins Concierge from October 2026 to J
 
 ### AO2. Analytics Objective: Customer Satisfaction and Repeat Patronage (Carmen Jimenez)
 
-This analytics objective examines how food quality, service quality, physical environment, atmosphere, perceived value, and the overall dining experience influence customer satisfaction, intention to revisit, and willingness to recommend The Restaurant at Kellogg Ranch. The analysis will identify which customer-experience factors are most strongly associated with positive evaluations and future customer behavior.
-
-Data may come from customer surveys, online reviews, and OpenTable feedback, if available. Descriptive statistics, correlation or regression analysis, and thematic analysis of customer comments may be used to evaluate these relationships. The findings will help RKR prioritize improvements in food presentation, service, atmosphere, customer communication, and marketing efforts that can support repeat visits and positive recommendations.
+Identify how food quality, service quality, physical environment, atmosphere, and perceived value influence customer satisfaction, intention to revisit, and willingness to recommend The Restaurant at Kellogg Ranch.
 
 ### AO3. Facebook Content Effectiveness and Reservation Behavior (Luis Ahumada)
 
@@ -304,11 +304,9 @@ Ryu, K., H.-R. Lee, and W. G. Kim (2012), “The Influence of the Quality of the
 
 3.  **Need for Additional Analysis** (a paragraph per AO)
 
--   Identify if there is a need for additional analysis to address the AO in the context of the business problem. Consider if there is a need for alternative modeling techniques, methods, or data sources (e.g., primary research) to fill gaps or enhance accuracy, and how they would improve the AO.
 
--   If you had concluded in Step 2 that the gathered information **is sufficient**, you may not need to do additional analysis. In that case, explain why the information is sufficient and how you will use it to accomplish the AO and solve the business problem.
 
--   If you had concluded in Step 2 that the gathered information is **not sufficient**, you will likely need to do additional analysis. In that case, explain what additional analysis you will do and how it will help accomplish the AO and solve the business problem.
+-
 
 4.  **Assessment and Affirmation of Analytics Objectives** (no more than 1 page per AO)
 
@@ -337,15 +335,60 @@ Ryu, K., H.-R. Lee, and W. G. Kim (2012), “The Influence of the Quality of the
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
-### AO2. Title of AO2 Right Here (Name of Author Here)
 
-#### Existence of Well-established Models (2-3 pages per AO)
+### AO2. Customer Satisfaction and Repeat Patronage ( Carmen Jimenez)
 
-#### Adequateness of Gathered Information (a paragraph per AO)
+#### Existence of Well-established Models 
 
-#### Need for Additional Analysis (a paragraph per AO)
+Customer satisfaction is an important concept in restaurant research because it represents a customer’s overall evaluation of the dining experience. Satisfaction may be influenced by food quality, service quality, the physical environment, atmosphere, and perceived value. These factors are relevant to The Restaurant at Kellogg Ranch because customers evaluate not only the food but also the complete experience provided by the restaurant.
 
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+Food quality includes taste, freshness, presentation, temperature, portion size, and consistency. Namkung and Jang (2007) found that food quality can influence customer satisfaction and behavioral intentions in restaurant settings. For RKR, food quality and presentation may influence whether customers consider the dining experience successful and whether they would return in the future.
+
+Service quality refers to the way employees interact with customers and provide the dining service. Customers may evaluate employee friendliness, responsiveness, professionalism, attentiveness, and reliability. Ryu, Lee, and Kim (2012) found that food quality, service quality, and the physical environment can influence perceived value, customer satisfaction, and behavioral intentions.
+
+The physical environment and atmosphere include cleanliness, décor, lighting, music, seating arrangements, layout, and overall comfort. A pleasant environment can improve the customer’s emotional response and strengthen the overall dining experience. RKR’s campus location and student-operated identity may also influence how customers perceive the restaurant environment.
+
+Perceived value refers to the customer’s evaluation of whether the benefits of the dining experience are appropriate in relation to the price, time, and effort spent. Han and Ryu (2009) found that physical environment, price perception, and customer satisfaction are related to customer loyalty in the restaurant industry. Therefore, perceived value may influence both satisfaction and future customer behavior.
+
+#### Adequateness of Gathered Information 
+
+TThe information currently gathered provides a useful foundation for addressing AO2 because existing research explains how food quality, service quality, physical environment, atmosphere, and perceived value may influence customer satisfaction and behavioral intentions. However, this information is not sufficient to fully understand the experiences of RKR customers because previous studies were conducted in other restaurant settings and may not represent the expectations of RKR’s specific customer groups, including students, faculty, staff, alumni, local residents, and visitors. Therefore, primary data from a customer survey will be needed to collect information directly from RKR customers and evaluate their satisfaction, intention to revisit, and willingness to recommend the restaurant.
+
+#### Need for Additional Analysis 
+
+Additional analysis is needed to address AO2 because the existing literature does not provide information about the specific experiences of RKR customers. RKR should conduct a customer survey using Likert-scale questions to measure food quality, service quality, physical environment, atmosphere, perceived value, customer satisfaction, intention to revisit, and willingness to recommend. Descriptive statistics, correlation or regression analysis, and thematic analysis of open-ended responses can help identify which customer-experience factors are most strongly related to satisfaction and future customer behavior. These findings can support evidence-based improvements to RKR’s food, service, atmosphere, and overall customer experience.
+
+#### Hypothesis Development
+
+Based on the existing literature, the following hypotheses are proposed:
+
+**H1:** Food quality positively influences customer satisfaction at The Restaurant at Kellogg Ranch.
+
+**H2:** Service quality positively influences customer satisfaction at The Restaurant at Kellogg Ranch.
+
+**H3:** Physical environment and atmosphere positively influence customer satisfaction at The Restaurant at Kellogg Ranch.
+
+**H4:** Perceived value positively influences customer satisfaction at The Restaurant at Kellogg Ranch.
+
+**H5:** Customer satisfaction positively influences intention to revisit The Restaurant at Kellogg Ranch.
+
+**H6:** Customer satisfaction positively influences willingness to recommend The Restaurant at Kellogg Ranch.
+
+#### Research Questions
+
+**RQ1:** Which customer-experience factors most strongly influence customer satisfaction at The Restaurant at Kellogg Ranch?
+
+**RQ2:** How does customer satisfaction influence customers’ intention to revisit and willingness to recommend The Restaurant at Kellogg Ranch?
+
+#### Assessment and Affirmation of Analytics Objectives 
+
+AO2 is appropriate for The Restaurant at Kellogg Ranch because customer satisfaction and repeat patronage are directly related to the restaurant’s need to generate consistent demand and revenue. Evaluating food quality, service quality, physical environment, atmosphere, and perceived value will help RKR understand which parts of the dining experience most strongly influence customer satisfaction and future customer behavior.
+
+This analytics objective is also aligned with the project objective because satisfied customers may be more likely to revisit the restaurant and recommend it to others. The proposed customer survey will provide information that is specific to RKR’s customers and can be used to evaluate the relationships among customer-experience factors, satisfaction, intention to revisit, and willingness to recommend.
+
+The findings from AO2 can support practical decisions about improvements to food presentation, service delivery, restaurant atmosphere, customer communication, and marketing efforts. Therefore, AO2 should remain part of the project because it provides useful evidence for improving the customer experience and supporting repeat visits and positive recommendations.
+
+
 
 ### AO3. Title of AO3 Right Here (Name of Author Here)
 
