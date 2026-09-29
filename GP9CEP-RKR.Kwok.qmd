@@ -51,6 +51,8 @@ The project is designed to achieve the following objectives:
 
 6.  Evaluate RKR’s Instagram content performance and develop a data-informed posting strategy to improve audience engagement.
 
+7.  Recommend website content and navigation improvements that make dining information and the reservation process easier for prospective RKR guests to access.
+
 ## Analytics Objectives
 
 ### AO1. Newsletter Formatting and Click-Rate (Leeann Lewis-Waddell)
@@ -67,7 +69,7 @@ Compare Facebook Content and messaging strategies using engagement metrics and O
 
 ### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
-Measure how easily users can find the menu, operating hours, and reservation page using task completion rate, completion time, and ease of use ratings. 
+Measure unassisted completion rates, median completion time, and five point ease of use ratings for finding RKR’s menu, operating hours, and reservation process, using 80% completion per task as a proposed benchmark.
 
 ### AO5. Instagram Content and Engagement Analysis (Spencer Conway)
 
@@ -398,15 +400,61 @@ The findings from AO2 can support practical decisions about improvements to food
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
-### AO4. Title of AO4 Right Here (Name of Author Here)
+### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
-#### Existence of Well-established Models (2-3 pages per AO)
+**Analytics Objective:** Measure unassisted completion rates, median completion time, and five-point ease-of-use ratings for finding RKR’s menu, operating hours, and reservation process, using 80% completion per task as a proposed benchmark.
 
-#### Adequateness of Gathered Information (a paragraph per AO)
+**Project Objective:** Recommend website content and navigation improvements that make dining information and the reservation process easier for prospective RKR guests to access.
 
-#### Need for Additional Analysis (a paragraph per AO)
+#### Existence of Well-established Models
 
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+Website usability is relevant to RKR because prospective guests need practical information before deciding whether and when to visit. This objective examines three specific activities: finding the menu, identifying operating hours, and reaching the reservation process. The literature provides complementary perspectives on technology acceptance, information quality, and usability measurement. Together, these perspectives explain why the study should assess both what visitors can accomplish and how they evaluate the experience. The following applications to RKR are proposed research choices rather than findings about its current website.
+
+**Perceived ease of use and usefulness.** Davis’s technology acceptance research distinguishes perceived usefulness from perceived ease of use and develops measures of both constructs. The study reports relationships between these perceptions and system use, with usefulness showing a stronger relationship than ease of use [@davis1989]. This distinction matters because a website can feel simple to navigate while failing to provide information that helps a visitor make a decision. Conversely, useful information may require substantial effort to find. The original research concerns information technology acceptance rather than restaurant reservations, so it provides a theoretical starting point rather than direct evidence about RKR guests.
+
+For this project, perceived ease will be assessed immediately after each task by asking how easy or difficult it was to complete. A separate overall item will ask whether the website provided the information needed to plan a visit. These questions address different judgments: effort and usefulness. For example, locating a menu quickly does not establish whether its contents meet a visitor’s information needs. The proposed brief items adapt the concepts to RKR; they will not be described as the complete validated Davis scales. Pilot feedback should establish whether participants understand the wording and response options.
+
+**Information quality and hospitality decisions.** Jeong and Lambert evaluated an information-quality framework using eight hypothetical lodging websites and 240 conference attendees. Their findings identified perceived usefulness and attitudes as significant indicators of customers’ purchase-related behavior within that study [@jeong2001]. This hospitality application supports examining information as part of a visitor’s decision process, rather than treating a website only as a promotional display. However, simulated hotel websites and conference attendees differ from a student-operated restaurant and its prospective guests. The study therefore motivates local investigation without establishing that the same relationships or effect sizes apply to RKR.
+
+For RKR, the proposed assessment will distinguish finding a page from finding the correct information. A menu task will require participants to identify the relevant menu, and an hours task will require them to state the posted hours for a specified service period. Before testing, the research team will verify the correct answers against the current website and record the testing date. This procedure should help distinguish a navigation problem from unclear or inconsistent content. Participant comments can identify information they expected but could not find; the team should verify those observations before recommending a content change.
+
+**Information systems success.** DeLone and McLean’s updated information systems success model provides a broader framework for evaluating systems and discusses its application to electronic commerce [@delone2003]. Its relevance here is that website success requires an explicit definition of the outcomes being evaluated. AO4 will focus on a limited part of the customer journey: successful access to dining information and the reservation interface. It will not claim to test the entire information systems success model.
+
+This boundary is important for interpreting the proposed results. A participant who reaches the reservation interface has completed the navigation task, even if no suitable table is available. A participant who reports that the website is helpful has expressed a perception, not made a booking. Reservation completion, revenue, and repeat patronage require additional evidence beyond this usability exercise. Consequently, the project objective is to recommend improvements that support access; any later claim that those improvements increase reservations would require implementation and follow-up measurement.
+
+**Usability as performance and perception.** Hornbæk’s review of 180 usability studies emphasizes the need to distinguish and compare objective performance measures with subjective evaluations. It also highlights problems with treating usability too narrowly or using measures without sufficient justification [@hornbaek2006]. This supports collecting several complementary measures for AO4: task success, elapsed time, and perceived ease. These measures should be reported separately because a visitor can succeed slowly, fail quickly, or complete a task while finding the process frustrating.
+
+The proposed study will calculate unassisted completion as the number of participants who finish a task correctly without help divided by the number who attempt it. Median completion time in seconds will summarize successful, unassisted attempts; assisted attempts, unsuccessful attempts, and timeouts will be reported separately. Immediately after every attempted task, participants will rate ease from 1 (very difficult) to 5 (very easy). Navigation observations and a short open-ended question will help explain the quantitative results. These operational definitions make the objective measurable while preserving the distinction between observed behavior and self-reported experience.
+
+#### Adequateness of Gathered Information
+
+The selected scholarly sources provide a foundation for choosing constructs and measures, but they cannot establish how well the current RKR website serves its users. They include foundational information-systems research, a usability review, and hospitality website research; their age and differing contexts limit direct transfer to contemporary mobile browsing and RKR’s audience. Existing evidence is therefore adequate for developing the study but insufficient for answering AO4. Primary observations and post-task survey responses are needed from prospective guests, including campus and community participants where feasible. Prior familiarity with RKR and the website should be recorded because experienced users may navigate differently from first-time visitors.
+
+#### Need for Additional Analysis
+
+Participants will attempt the three tasks from the same starting page, using neutral instructions that do not reveal where to click. The team will pilot the procedure, set a consistent time limit before main data collection, vary task order across participants, and record device type and prior website familiarity. Timing will stop at success, a request for help, abandonment, or the time limit. The reservation task will end when the participant reaches the interface for beginning a reservation; no purchase or booking is required. For each task, analysis will report the success numerator and denominator, completion percentage, median successful completion time, and distribution of ease ratings, alongside recurring navigation problems. A proposed benchmark of 80% unassisted completion will be applied separately to each task; this is a project planning target, not a threshold established by the cited studies. Missing responses and technical failures will be documented separately from navigation failures.
+
+#### Hypothesis Development
+
+The distinction between observed performance and perceived usability motivates testing whether the two align in this setting [@hornbaek2006]. The following are proposed associations, not causal claims or results already established for RKR:
+
+**H4a:** Within each website task, participants who complete the task without assistance will report higher perceived ease-of-use ratings than participants who do not complete it without assistance.
+
+**H4b:** Among participants who complete a given task without assistance, longer completion times will be associated with lower perceived ease-of-use ratings.
+
+H4a can be evaluated by comparing the ordinal ease-rating distributions for successful and unsuccessful unassisted attempts within each task. H4b can be examined using a Spearman rank correlation between completion time and ease rating for successful unassisted attempts within each task. The three observations from one participant will not be treated as independent participants in a pooled test. If the sample is too small or a task has no variation in success or ratings, the study will emphasize descriptive patterns rather than unsupported significance claims.
+
+#### Research Questions
+
+**RQ4a:** How successfully can prospective guests locate RKR’s menu, identify operating hours, and reach the reservation process, and does each task meet the proposed 80% unassisted completion benchmark?
+
+**RQ4b:** Which content or navigation difficulties accompany unsuccessful attempts, longer completion times, or lower ease ratings, and what website improvements do those patterns suggest?
+
+#### Assessment and Affirmation of Analytics Objectives
+
+AO4 remains appropriate because it translates website usability into three defined tasks and measurable outcomes. The literature supports investigating user perceptions alongside observed performance, while the absence of RKR-specific evidence justifies collecting primary data. Descriptive summaries will establish a baseline; the proposed association tests and participant comments will help explain that baseline. Results will guide recommendations tied to observed problems, such as revising unclear labels, improving the visibility of operating hours, or making the reservation entry point easier to locate, if the findings support those changes.
+
+The objective supports the group’s broader reservation goal while keeping its own conclusions proportional to the evidence. A convenience sample will describe the tested participants rather than represent all prospective guests. Device differences, prior familiarity, and task-order effects will be considered when interpreting results. A later evaluation using the same task definitions would be needed to demonstrate improvement after website changes. Until then, this section establishes the research rationale and proposed analysis, not evidence that reservations have increased.
 
 ### AO5. Title of AO5 Right Here (Name of Author Here)
 
