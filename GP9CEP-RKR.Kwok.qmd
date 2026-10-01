@@ -41,15 +41,15 @@ The project is designed to achieve the following objectives:
 
 1.  Determine the RKR newsletter format that increases reservation click-rate.
 
-2. Evaluate how customer-experience factors influence customer satisfaction, intention to revisit, and willingness to recommend The Restaurant at Kellogg Ranch.
+2. Identify what RKR guests value most and where improvements are needed to strengthen their overall dining experience.
 
-3. Analyze reservation, search, website, newletter, and social-media data to establish performance baselines and identify demand patterns across service periods, target audiences, and marketing channels.
+3.  Develop an evidence-based Facebook marketing strategy designed to support reservation growth at The Restaurant at Kellogg Ranch.
 
-4.  Develop an evidence-based Facebook marketing strategy designed to support reservation growth at The Restaurant at Kellogg Ranch.
+4.  Recommend website content and navigation improvements that make dining information and the reservation process easier for
+prospective RKR guests to access.
 
-5.  Develop and implement an integrated digital marketing plan that includes SEO improvements and, if funding is available, a limited SEM pilot.
-
-6.  Evaluate RKR’s Instagram content performance and develop a data-informed posting strategy to improve audience engagement.
+6.  Strengthen RKR's Instagram strategy to improve audience
+engagement
 
 ## Analytics Objectives
 
@@ -59,7 +59,7 @@ A/B test two RKR section formats in The Collins Concierge from October 2026 to J
 
 ### AO2. Analytics Objective: Customer Satisfaction and Repeat Patronage (Carmen Jimenez)
 
-Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
+Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas
 
 ### AO3. Facebook Content and Messaging Strategies and Reservation Performance (Luis Ahumada)
 
