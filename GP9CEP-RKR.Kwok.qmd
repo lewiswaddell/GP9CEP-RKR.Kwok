@@ -301,19 +301,19 @@ The original AO set out to A/B test two RKR section formats in The Collins Conci
 
 #### Existence of Well-established Models
 
-Customer satisfaction is an important concept in restaurant research because it represents a customer’s overall evaluation of the dining experience. Satisfaction may be influenced by food quality, service quality, the physical environment, atmosphere, and perceived value. These factors are relevant to The Restaurant at Kellogg Ranch because customers evaluate not only the food but also the complete experience provided by the restaurant.
+Customer satisfaction is an important concept in restaurant research because it represents a customer’s overall evaluation of the dining experience. Satisfaction may be influenced by food quality, service quality, the physical environment, atmosphere, and perceived value.[@arora2006; @ryu2012] These factors are relevant to The Restaurant at Kellogg Ranch because customers evaluate not only the food but also the complete experience provided by the restaurant.
 
-Food quality includes taste, freshness, presentation, temperature, portion size, and consistency. Namkung and Jang (2007) found that food quality can influence customer satisfaction and behavioral intentions in restaurant settings. For RKR, food quality and presentation may influence whether customers consider the dining experience successful and whether they would return in the future.
+Food quality includes taste, freshness, presentation, temperature, portion size, and consistency. Food quality can influence customer satisfaction and behavioral intentions in restaurant settings[@namkung2007]. For RKR, food quality and presentation may influence whether customers consider the dining experience successful and whether they would return in the future.
 
-Service quality refers to the way employees interact with customers and provide the dining service. Customers may evaluate employee friendliness, responsiveness, professionalism, attentiveness, and reliability. Ryu, Lee, and Kim (2012) found that food quality, service quality, and the physical environment can influence perceived value, customer satisfaction, and behavioral intentions.
+Service quality refers to the way employees interact with customers and provide the dining service. Customers may evaluate employee friendliness, responsiveness, professionalism, attentiveness, and reliability. Food quality, service quality, and the physical environment can influence perceived value, customer satisfaction, and behavioral intentions.[@ryu2012]
 
-The physical environment and atmosphere include cleanliness, décor, lighting, music, seating arrangements, layout, and overall comfort. A pleasant environment can improve the customer’s emotional response and strengthen the overall dining experience. RKR’s campus location and student-operated identity may also influence how customers perceive the restaurant environment.
+The physical environment and atmosphere include cleanliness, décor, lighting, music, seating arrangements, layout, and overall comfort. A pleasant environment can improve the customer’s emotional response and strengthen the overall dining experience[@heung2012; @han2009]. RKR’s campus location and student-operated identity may also influence how customers perceive the restaurant environment.
 
-Perceived value refers to the customer’s evaluation of whether the benefits of the dining experience are appropriate in relation to the price, time, and effort spent. Han and Ryu (2009) found that physical environment, price perception, and customer satisfaction are related to customer loyalty in the restaurant industry. Therefore, perceived value may influence both satisfaction and future customer behavior.
+Perceived value refers to the customer’s evaluation of whether the benefits of the dining experience are appropriate in relation to the price, time, and effort spent[@arora2006]. Physical environment, price perception, and customer satisfaction are related to customer loyalty in the restaurant industry[@han2009]. Therefore, perceived value may influence both satisfaction and future customer behavior.
 
 #### Adequateness of Gathered Information
 
-TThe information currently gathered provides a useful foundation for addressing AO2 because existing research explains how food quality, service quality, physical environment, atmosphere, and perceived value may influence customer satisfaction and behavioral intentions. However, this information is not sufficient to fully understand the experiences of RKR customers because previous studies were conducted in other restaurant settings and may not represent the expectations of RKR’s specific customer groups, including students, faculty, staff, alumni, local residents, and visitors. Therefore, primary data from a customer survey will be needed to collect information directly from RKR customers and evaluate their satisfaction, intention to revisit, and willingness to recommend the restaurant.
+The information currently gathered provides a useful foundation for addressing AO2 because existing research explains how food quality, service quality, physical environment, atmosphere, and perceived value may influence customer satisfaction and behavioral intentions[@ryu2012; @namkung2007; @han2009]. However, this information is not sufficient to fully understand the experiences of RKR customers because previous studies were conducted in other restaurant settings and may not represent the expectations of RKR’s specific customer groups, including students, faculty, staff, alumni, local residents, and visitors. Therefore, primary data from a customer survey will be needed to collect information directly from RKR customers and evaluate their satisfaction, intention to revisit, and willingness to recommend the restaurant.
 
 #### Need for Additional Analysis
 
@@ -323,29 +323,29 @@ Additional analysis is needed to address AO2 because the existing literature doe
 
 Based on the existing literature, the following hypotheses are proposed:
 
-**H1:** Food quality positively influences customer satisfaction at The Restaurant at Kellogg Ranch.
+**H1:** Food quality positively influences customer satisfaction at The Restaurant at Kellogg Ranch[@namkung2007; @ryu2010].
 
-**H2:** Service quality positively influences customer satisfaction at The Restaurant at Kellogg Ranch.
+**H2:** Service quality positively influences customer satisfaction at The Restaurant at Kellogg Ranch[@ryu2012a; @ryu2010].
 
-**H3:** Physical environment and atmosphere positively influence customer satisfaction at The Restaurant at Kellogg Ranch.
+**H3:** Physical environment and atmosphere positively influence customer satisfaction at The Restaurant at Kellogg Ranch[@heung2012; @han2009].
 
-**H4:** Perceived value positively influences customer satisfaction at The Restaurant at Kellogg Ranch.
+**H4:** Perceived value positively influences customer satisfaction at The Restaurant at Kellogg Ranch[@arora2006; @ryu2012].
 
-**H5:** Customer satisfaction positively influences intention to revisit The Restaurant at Kellogg Ranch.
+**H5:** Customer satisfaction positively influences intention to revisit The Restaurant at Kellogg Ranch[@arora2006; @heung2012a].
 
-**H6:** Customer satisfaction positively influences willingness to recommend The Restaurant at Kellogg Ranch.
+**H6:** Customer satisfaction positively influences willingness to recommend The Restaurant at Kellogg Ranch[@arora2006; @heung2012].
 
 #### Research Questions
 
-**RQ1:** Which customer-experience factors most strongly influence customer satisfaction at The Restaurant at Kellogg Ranch?
+**RQ1:** Which aspects of the RKR dining experience—food quality, service quality, and atmosphere/physical environment—are rated highest and lowest by guests?
 
-**RQ2:** How does customer satisfaction influence customers’ intention to revisit and willingness to recommend The Restaurant at Kellogg Ranch?
+**RQ2:** How are these customer-experience factors associated with overall customer satisfaction, intention to revisit, and willingness to recommend The Restaurant at Kellogg Ranch?
 
 #### Assessment and Affirmation of Analytics Objectives
 
-AO2 is appropriate for The Restaurant at Kellogg Ranch because customer satisfaction and repeat patronage are directly related to the restaurant’s need to generate consistent demand and revenue. Evaluating food quality, service quality, physical environment, atmosphere, and perceived value will help RKR understand which parts of the dining experience most strongly influence customer satisfaction and future customer behavior.
+AO2 is appropriate for The Restaurant at Kellogg Ranch because customer satisfaction and repeat patronage are directly related to the restaurant’s need to generate consistent demand and revenue. Evaluating food quality, service quality, physical environment, atmosphere, and perceived value will help RKR understand which parts of the dining experience most strongly influence customer satisfaction and future customer behavior.[@bujisic2014; @ryu2012]
 
-This analytics objective is also aligned with the project objective because satisfied customers may be more likely to revisit the restaurant and recommend it to others. The proposed customer survey will provide information that is specific to RKR’s customers and can be used to evaluate the relationships among customer-experience factors, satisfaction, intention to revisit, and willingness to recommend.
+This analytics objective is also aligned with the project objective because satisfied customers may be more likely to revisit the restaurant and recommend it to others[@arora2006; @heung2012; @kim2006]. The proposed customer survey will provide information that is specific to RKR’s customers and can be used to evaluate the relationships among customer-experience factors, satisfaction, intention to revisit, and willingness to recommend.
 
 The findings from AO2 can support practical decisions about improvements to food presentation, service delivery, restaurant atmosphere, customer communication, and marketing efforts. Therefore, AO2 should remain part of the project because it provides useful evidence for improving the customer experience and supporting repeat visits and positive recommendations.
 
