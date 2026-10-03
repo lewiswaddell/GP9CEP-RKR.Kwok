@@ -51,7 +51,7 @@ The project is designed to achieve the following objectives:
 
 ## Analytics Objectives
 
-### AO1. Newsletter Formatting and Click-Rate (Leeann Lewis-Waddell)
+### AO1. Newsletter Formatting and Click-Rate (Leeann Lewis-Waddell) {#sec-ao1-title-ao1}
 
 A/B test two RKR section formats in The Collins Concierge from October 2026 to June 2027, comparing “Reserve a Table” click rates and attributed OpenTable reservations between versions.
 
