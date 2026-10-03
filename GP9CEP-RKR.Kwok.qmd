@@ -55,9 +55,21 @@ The project is designed to achieve the following objectives:
 
 A/B test two RKR section formats in The Collins Concierge from October 2026 to June 2027, comparing “Reserve a Table” click rates and attributed OpenTable reservations between versions.
 
-### AO2. Analytics Objective: Customer Satisfaction and Repeat Patronage (Carmen Jimenez)
+### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
 
-Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas
+- **PO2:** Identify what RKR guests value most and where improvements are needed to strengthen their overall dining experience.
+
+- **AO2:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
+
+    - **Data Source:** Anonymous post-visit survey responses from RKR guests collected during Fall 2026, with Spring 2027 data added if available.
+
+#### How to address AO2
+
+The survey will measure food quality, service quality, atmosphere and physical environment, overall satisfaction, intention to return, and willingness to recommend using five-point rating items. The analysis will report response counts, percentages, and average ratings. Open-ended comments will be organized into recurring themes related to guest strengths and improvement opportunities.
+
+#### How AO2 will help achieve PO2
+
+The results will identify which parts of the RKR experience guests evaluate most positively and which areas may need improvement. These findings will help RKR prioritize customer-experience improvements that can support guest satisfaction, repeat visits, and positive recommendations.
 
 ### AO3. Facebook Content and Messaging Strategies and Reservation Performance (Luis Ahumada)
 
@@ -74,28 +86,6 @@ This analytics objective will determine which Instagram content format produces 
 ## Significance of the Topic
 
 This project is important because it can help Restaurant at Kellogg Ranch better understand how its marketing efforts can increase awareness and engagement with its target audiences. Research has shown that restaurant social media content can influence customer inspiration and engagement, especially when restaurants use appealing outcome-focused food imagery [@lee2026]. RKR has a unique connection to The Collins College and Cal Poly Pomona, but that does not automatically mean students, faculty, staff, or people in the surrounding community know about the restaurant or what it offers. By looking at different marketing channels and customer touchpoints, our group can identify ways RKR can improve how it communicates with potential customers. Social media marketing activities such as interaction, entertainment, trendiness, and customization have been found to influence perceived value, purchase intention, and electronic word-of-mouth [@bushara2023]. Using data to evaluate current marketing efforts can also help the restaurant make decisions based on actual results instead of assumptions. The project can also support a more consistent and data-driven marketing strategy moving forward. Understanding how different audiences respond to different types of communication may help the restaurant use its marketing resources more effectively and build stronger connections with both the Cal Poly Pomona community and customers outside of campus.
-
-------------------------------------------------------------------------
-
-# References
-
-Bushara, Meimona Abdelrhim, Ahmed Hassan Abdou, Thowayeb H. Hassan, Abu Elnasr E. Sobaih, Abdullah Saleh Mohammed Albohnayh, Waleed Ghazi Alshammari, Mohammed Aldoreeb, Ahmed Anwar Elsaed, and Mohamed Ahmed Elsaied (2023), “Power of Social Media Marketing: How Perceived Value Mediates the Impact on Restaurant Followers’ Purchase Intention, Willingness to Pay a Premium Price, and E-WoM?” Sustainability, 15 (6), 5331. https://doi.org/10.3390/su15065331.
-
-California State Polytechnic University, Pomona (n.d.), “The Restaurant at Kellogg Ranch,” (accessed September 23, 2026), https://www.cpp.edu/rkr/.
-
-DeLone, William H. and Ephraim R. McLean (2003), “The DeLone and McLean Model of Information Systems Success: A Ten-Year Update,” *Journal of Management Information Systems*, 19 (4), 9–30. https://www.jmis-web.org/articles/271.
-
-Han, H. and K. Ryu (2009), “The Roles of the Physical Environment, Price Perception, and Customer Satisfaction in Determining Customer Loyalty in the Restaurant Industry,” Journal of Hospitality & Tourism Research, 33 (4), 487–510.
-
-Kwok, Linchi (2026), “Building Sustainable Demand for The Restaurant at Kellogg Ranch: A Data-Driven Brand, Content, and Digital Marketing Initiative,” MSDM Culminating Experience Project Proposal, The Collins College of Hospitality Management, Cal Poly Pomona.
-
-Lee, Seonjeong Ally and Soo Yeon Kwak (2026), “Enhancing Customer Inspiration and Engagement Experiences on Restaurant Social Media,” International Journal of Hospitality Management, 138, 104713. https://doi.org/10.1016/j.ijhm.2026.104713.
-
-Leung, Daniel and Megan Tsou (2019), "The Impact of Incentive Framing Format and Language Congruency on Readers' Post-Reading Responses to Email Advertisements," *International Journal of Contemporary Hospitality Management*, 31 (8), 3037–57.
-
-Namkung, Y. and S. C. Jang (2007), “Does Food Quality Really Matter in Restaurants? Its Impact on Customer Satisfaction and Behavioral Intentions,” Journal of Hospitality & Tourism Research, 31 (3), 387–409.
-
-Ryu, K., H.-R. Lee, and W. G. Kim (2012), “The Influence of the Quality of the Physical Environment, Food, and Service on Restaurant Image, Customer Perceived Value, Customer Satisfaction, and Behavioral Intentions,” International Journal of Contemporary Hospitality Management.
 
 ------------------------------------------------------------------------
 
@@ -283,133 +273,113 @@ Ryu, K., H.-R. Lee, and W. G. Kim (2012), “The Influence of the Quality of the
 
 ## Investigation of Currently Available Research Framework/Model {#sec-investigation-of-currently-available-research-frameworkmodel}
 
-::: callout-note
-*The main purpose of this section is to gain understanding of the existing research on the topic of your project and assess if you can avoid doing redundant research that can address your analytics objectives. If indeed, there is sufficient existing research that can answer your analytics objectives, why can't you just use the knowledge? Thus, this section is crucial for establishing a solid foundation for your research. To this end, you will be answering the four sections below by filling out the four sections. Make sure you understand what is required for each section.*
-
-1.  **Existence of Well-established Models** (2-3 pages per AO)
-
-- Identify well-established consumer behavior theory/models/frameworks or analytical approaches relevant to the AO.
-
-- Describe how the theory/models support the AO conceptual development in the context of solving the problem.
-
-2.  **Adequateness of Gathered Information** (a paragraph per AO)
-
-- Assess whether the gathered information (above) is sufficient in addressing the AO and thus solving the business problem. Consider aspects such as application, accuracy, consistency, potential bias, and whether the information aligns with your research needs.
-
-- If the gathered information is sufficient, explain how you will use the information to accomplish the AO and solve the business problem. If not, explain why the information is not sufficient and what you will do to fill the gap (e.g., additional analysis, primary research, etc.).
-
-3.  **Need for Additional Analysis** (a paragraph per AO)
-
-- 
-
-4.  **Assessment and Affirmation of Analytics Objectives** (no more than 1 page per AO)
-
-- In this section, you will evaluate your original AO specified in Chapter 1 in light of the information you have gathered and analyzed in the previous sections. You will specify how the AO aims to address the identified business problem(s). You will identify the analytical techniques, models or tools you plan to use. You will explain how these techniques will help accomplish the AO and why they are appropriate.
-:::
-
-::: callout-tip
-### Assessment Rubric for SLO 2: Evaluate known principles of consumer psychology and behaviors appropriate to address the marketing problems.
-
-- This section will be used to evaluate your performance on SLO 2, which is to evaluate known principles of consumer psychology and behaviors appropriate to address the marketing problems.
-
-- The following rubric will be used to evaluate the quality of your model. Make sure to review this rubric carefully and use it as a guide when writing your recommendations section.
-
-  ![](images/slo-2.png)
-:::
-
-### AO1. Title of AO1 Right Here (Name of Author Here)
-
-*See the callout-note section above for instructions on this section. For each AO, provide the entire AO exactly as you specified in Chapter 1 so that readers do not have to refer back to the previous chapter.*
-
-#### Existence of Well-established Models (2-3 pages per AO)
-
-#### Adequateness of Gathered Information (a paragraph per AO)
-
-#### Need for Additional Analysis (a paragraph per AO)
-
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
-
-### AO2. Customer Satisfaction and Repeat Patronage ( Carmen Jimenez)
+### AO1. Newsletter Formatting and Click-Rate (Leeann Lewis-Waddell)
 
 #### Existence of Well-established Models
 
-Customer satisfaction is an important concept in restaurant research because it represents a customer’s overall evaluation of the dining experience. Satisfaction may be influenced by food quality, service quality, the physical environment, atmosphere, and perceived value.[@arora2006; @ryu2012] These factors are relevant to The Restaurant at Kellogg Ranch because customers evaluate not only the food but also the complete experience provided by the restaurant.
+Analytics Objective 1 intends to A/B test revisions of the current advertising for the Restaurant at Kellogg Ranch within The Collins Concierge, the department’s weekly newsletter. Specifically, it will test if an image-based or video-based ad will increase "Reserve a Table" clicks in comparison to the current text-only format. After extensive research, three established frameworks inform how that test will be built and executed. AO1 will examine the email response process, visual attention and heuristics, and cognitive load and information overload.
 
-Food quality includes taste, freshness, presentation, temperature, portion size, and consistency. Food quality can influence customer satisfaction and behavioral intentions in restaurant settings[@namkung2007]. For RKR, food quality and presentation may influence whether customers consider the dining experience successful and whether they would return in the future.
+Email marketing response occurs in a sequence, wherein a reader first sees a message, engages with it, and then chooses whether to act on it. Hartemo's newsletter testing model focuses on this response process, linking the factors that affect response to the metrics that measure each step [@hartemo2016]. This study tests eight format variations against a control group. The format of this analysis easily applies directly to the comparison of image and video templates against RKR's current section, which employs a controlled format test with a no-graphic baseline.
 
-Service quality refers to the way employees interact with customers and provide the dining service. Customers may evaluate employee friendliness, responsiveness, professionalism, attentiveness, and reliability. Food quality, service quality, and the physical environment can influence perceived value, customer satisfaction, and behavioral intentions.[@ryu2012]
+A review of Kumar's framework divides newsletter success into relational metrics, such as opens and clicks, and transactional metrics, such as purchases [@kumar2021]. Drawing on 811 newsletters sent to 19,678 loyalty program members, the study determines that design significantly shaped response, and clicks had the strongest relationship to eventual purchase [@kumar2021]. This point supports using click-through rate as AO1's primary metric, with reservations as the secondary, validating measure. With respect to RKR, Kumar’s sequence would apply to three measurable stages: newsletter views in Canva, "Reserve a Table" clicks, and OpenTable reservations.
 
-The physical environment and atmosphere include cleanliness, décor, lighting, music, seating arrangements, layout, and overall comfort. A pleasant environment can improve the customer’s emotional response and strengthen the overall dining experience[@heung2012; @han2009]. RKR’s campus location and student-operated identity may also influence how customers perceive the restaurant environment.
+One point of note: the response process also exposes a gap AO1 has to account for. Since RKR welcomes walk-ins and accepts Bronco Bucks, some readers will move from acknowledging the new template section and move directly to a visit without ever clicking. Therefore, version-specific links or perhaps a "How did you hear about us?" question at booking help capture that path, but would require additional points in the customer journey to address this variable.
 
-Perceived value refers to the customer’s evaluation of whether the benefits of the dining experience are appropriate in relation to the price, time, and effort spent[@arora2006]. Physical environment, price perception, and customer satisfaction are related to customer loyalty in the restaurant industry[@han2009]. Therefore, perceived value may influence both satisfaction and future customer behavior.
+As can be expected, readers do not scan a newsletter evenly or in its entirety. Described in detail by Kumar, visual heuristics guide where the eye lands and subsequently what gets clicked. This study details how newsletter readers follow a U-shaped pattern rather than the Z-pattern typical of web pages. It also outlines how the upper-left region produces higher CTR than links placed elsewhere [@kumar2018]. In the current RKR section, “view the menu” is a clickable link at the top center while the "Reserve a Table" button sits at the bottom, below the hours. Because placement carries its own documented effect, both test versions keep the button in the same position; otherwise a change in clicks could come from placement rather than media. Using current metrics as a baseline, AO1 will test relocation of the clickable “Reserve a Table” button for the remainder of the fall, and media additions through the sixteen weeks of Spring.
+
+With regard to adding media to the RKR section of The Collins Concierge, Imagery is known to compete strongly for attention once an email is open. Skourou’s study using eye-tracking technique and tools found that large images captured more attention than discount codes and prices in promotional emails. Notably, what readers chose to look at mapped to their purchase decisions [@skourou2024]. This supports visual content as AO1's main test variable, since the current section depends on a block of text to communicate its key details, specifically food and its accompanying atmosphere. On the contrary, the study also shows that a strong image or video could consequently draw focus away from the button it is meant to support.
+
+Industry guides from Semrush and OpenTable support the aforementioned notion. High-quality images are most recommended, coupled with contrasting CTAs, and testing one variable at a time over at least two weeks [@go2024]. OpenTable's restaurant guide adds that key information belongs at the top, supported by strong food photos and bold CTA buttons [@jones2023]. For RKR, Chef Matt's seasonal dishes offer natural subject matter for either format.
+
+This objective intends to be mindful of the potential for cognitive overload and the possibility to annoy or turn-off the target audience. Visual content can compete for a reader's limited attention rather than enhance or entice. A large field experiment found that while GIFs and emojis did not affect CTR individually, combining them inadvertently increased unsubscribes, as the elements competed for the same cognitive resources [@bashirzadeh2022]. As such, AO1 aims to add only one visual element at a time. The image and video templates will match in layout, copy, and button placement, making media the only variable.
+
+Research for this objective also flags the potential for inbox overload. Several studies found university recipients reported receiving 30 bulk emails in a single week, often opening them without reading and trashing 22% of newsletters [@kong2021]. At one business school, academics received 324 organizational bulk emails in a single year with no option to unsubscribe [@bicudodecastro2025]. As such, if Collins Concierge readers are facing similar volume in addition to academic workload, this objective must acknowledge that a redesign may not move CTR regardless of format. This is why AO1 measures clicks per view directly rather than relying on open rates.
+
+Email also struggles when it lacks a clear role in the audience's decision process. Survey respondents reacted with resistance and irritation toward email marketing that did not fit their customer journey [@zunac2022]. The results of this study justify treating the redesign as one input toward reservations rather than its sole driver.
 
 #### Adequateness of Gathered Information
 
-The information currently gathered provides a useful foundation for addressing AO2 because existing research explains how food quality, service quality, physical environment, atmosphere, and perceived value may influence customer satisfaction and behavioral intentions[@ryu2012; @namkung2007; @han2009]. However, this information is not sufficient to fully understand the experiences of RKR customers because previous studies were conducted in other restaurant settings and may not represent the expectations of RKR’s specific customer groups, including students, faculty, staff, alumni, local residents, and visitors. Therefore, primary data from a customer survey will be needed to collect information directly from RKR customers and evaluate their satisfaction, intention to revisit, and willingness to recommend the restaurant.
+The information above is significantly adequate in addressing the low click-rate of RKR’s newsletter channel. It addresses the potential roadblocks in attracting the attention need to gain awareness, which is overall design and aesthetics, particularly as it relates to the placement of the desired goal, which it button location, but also fatigue since the section does not change and does not employ eye-catching media. On the other hand, it raises red flags with regard to extenuating circumstances which may supercede the design optimization, which are out of RKR’s control such as inbox overload. The studies align with industry suggestions, all of which are actionable and applicable to the business problem. The only biases are really in the industry guides from Semrush and OpenTable, since they are businesses providing free resources to sway readers into purchasing services [@go2024], [@jones2023]. Additionally, the eye-tracking study had a very small pool of participants, and the Zunac study of the effectiveness of email as a single marketing channel was largely comprised of female participants, making the data somewhat biased [@skourou2024], [@zunac2022]. This research will be applied to revising the RKR section of The Collins Concierge, by addressing button placement and aesthetics. Beginning with a baseline of the previous issue’s metrics, Fall will test only relocation of the button to the upper left, and Spring will A/B test video versus image.
 
 #### Need for Additional Analysis
 
-Additional analysis is needed to address AO2 because the existing literature does not provide information about the specific experiences of RKR customers. RKR should conduct a customer survey using Likert-scale questions to measure food quality, service quality, physical environment, atmosphere, perceived value, customer satisfaction, intention to revisit, and willingness to recommend. Descriptive statistics, correlation or regression analysis, and thematic analysis of open-ended responses can help identify which customer-experience factors are most strongly related to satisfaction and future customer behavior. These findings can support evidence-based improvements to RKR’s food, service, atmosphere, and overall customer experience.
-
-#### Hypothesis Development
-
-Based on the existing literature, the following hypotheses are proposed:
-
-**H1:** Food quality positively influences customer satisfaction at The Restaurant at Kellogg Ranch[@namkung2007; @ryu2010].
-
-**H2:** Service quality positively influences customer satisfaction at The Restaurant at Kellogg Ranch[@ryu2012a; @ryu2010].
-
-**H3:** Physical environment and atmosphere positively influence customer satisfaction at The Restaurant at Kellogg Ranch[@heung2012; @han2009].
-
-**H4:** Perceived value positively influences customer satisfaction at The Restaurant at Kellogg Ranch[@arora2006; @ryu2012].
-
-**H5:** Customer satisfaction positively influences intention to revisit The Restaurant at Kellogg Ranch[@arora2006; @heung2012a].
-
-**H6:** Customer satisfaction positively influences willingness to recommend The Restaurant at Kellogg Ranch[@arora2006; @heung2012].
-
-#### Research Questions
-
-**RQ1:** Which aspects of the RKR dining experience—food quality, service quality, and atmosphere/physical environment—are rated highest and lowest by guests?
-
-**RQ2:** How are these customer-experience factors associated with overall customer satisfaction, intention to revisit, and willingness to recommend The Restaurant at Kellogg Ranch?
+Since the gathered information was largely sufficient but missing data specific to the Concierge's audience, additional analysis is needed to fully address the AO. None of the reviewed studies looked at a restaurant section inside a university newsletter, so primary data will fill that gap. Beginning with a baseline of CTR from previous Concierge issues pulled from Canva, Fall will measure the effect of moving the "Reserve a Table" button to the upper left of the current text-only section, and Spring will A/B test image versus video, alternating weekly with the button in the same position. Page views will be tracked alongside clicks, since the university studies suggest inbox overload could keep readers from ever reaching the RKR section; this will help determine whether low CTR is a design problem or a readership problem [@kong2021], [@bicudodecastro2025]. Each version will also use its own link to OpenTable so reservations can be tied back to the format that drove them. On the other hand, clicks will not capture everyone, particularly guests who walk in or pay with Bronco Bucks, so a "How did you hear about us?" question at booking will help account for those visits. Holidays, finals, and campus events will be noted throughout, since alternating weekly means outside factors could affect results. Click rates between versions will be compared using a two-proportion test to confirm whether differences are meaningful.
 
 #### Assessment and Affirmation of Analytics Objectives
 
-AO2 is appropriate for The Restaurant at Kellogg Ranch because customer satisfaction and repeat patronage are directly related to the restaurant’s need to generate consistent demand and revenue. Evaluating food quality, service quality, physical environment, atmosphere, and perceived value will help RKR understand which parts of the dining experience most strongly influence customer satisfaction and future customer behavior.[@bujisic2014; @ryu2012]
+The original AO set out to A/B test two RKR section formats in The Collins Concierge from October 2026 to June 2027, comparing "Reserve a Table" click rates and attributed OpenTable reservations between versions. It still holds, but the research has narrowed it, particularly as it relates to what is being tested and when. It addresses RKR's need to build sustainable demand by improving a section that is currently easy to scroll past, with no imagery and a button placed at the bottom, below the hours. On the other hand, testing media and button placement at the same time would make it impossible to know which change caused an increase, so the AO will be split into two phases. Beginning with a baseline of CTR from previous issues, Fall will test only the relocation of the button to the upper left, and Spring will A/B test video versus image, alternating weekly with the button in the same position. Canva will be used to track page views and clicks, which is necessary for separating a design problem from a readership problem, and each version will use its own link to OpenTable to tie reservations back to the format. A two-proportion test will compare click rates between versions, since it is a simple and appropriate way to determine whether a difference is real or due to chance. These tools are appropriate because they are already available to RKR and the Concierge team, they require no individual reader data, and they follow the same steps a reader takes from viewing the newsletter to clicking to booking [@hartemo2016].
 
-This analytics objective is also aligned with the project objective because satisfied customers may be more likely to revisit the restaurant and recommend it to others[@arora2006; @heung2012; @kim2006]. The proposed customer survey will provide information that is specific to RKR’s customers and can be used to evaluate the relationships among customer-experience factors, satisfaction, intention to revisit, and willingness to recommend.
+### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
 
-The findings from AO2 can support practical decisions about improvements to food presentation, service delivery, restaurant atmosphere, customer communication, and marketing efforts. Therefore, AO2 should remain part of the project because it provides useful evidence for improving the customer experience and supporting repeat visits and positive recommendations.
+**Analytics Objective:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
+
+#### Existence of Well-established Models
+
+Customer satisfaction is generally understood as a guest’s overall evaluation of a dining experience. Restaurant research suggests that satisfaction is influenced by several parts of the experience, including food quality, service quality, the physical environment, atmosphere, and perceived value. This perspective is appropriate for The Restaurant at Kellogg Ranch because guests evaluate the entire experience rather than the food alone.
+
+Ryu, Lee, and Kim examined a restaurant quality framework in which food quality, service quality, and the physical environment contribute to restaurant image, perceived value, customer satisfaction, and behavioral intentions [@ryu2012]. This framework supports evaluating the RKR experience through several related dimensions instead of focusing on only one aspect of the restaurant visit.
+
+Food quality is an important part of restaurant satisfaction. It may include taste, freshness, presentation, temperature, portion size, and consistency. Namkung and Jang found that food quality is associated with customer satisfaction and behavioral intentions in restaurant settings [@namkung2007]. For RKR, survey items can ask guests to evaluate whether the food was high quality, well presented, enjoyable, and consistent with their expectations. Comparing these ratings with the other experience dimensions can help identify whether food quality is a major strength or an area for improvement.
+
+Service quality refers to the way employees interact with guests and deliver the dining service. Guests may evaluate friendliness, attentiveness, responsiveness, professionalism, communication, and reliability. Ryu, Lee, and Kim’s framework supports measuring service quality separately from food quality because guests may have different evaluations of the meal and the service experience [@ryu2012]. This distinction is especially relevant to RKR because the restaurant is connected to a hospitality management program and serves as both a public restaurant and a learning environment.
+
+Atmosphere and the physical environment represent another important part of the dining experience. These elements may include cleanliness, décor, lighting, seating, layout, comfort, and the overall feeling created by the restaurant. Han and Ryu found that the physical environment, price perception, and customer satisfaction are related to restaurant loyalty [@han2009]. Heung and Gu also examined the role of the physical environment in shaping restaurant customers’ evaluations and behavioral responses [@heung2012]. At RKR, this dimension may include the campus location, restaurant design, cleanliness, comfort, and atmosphere during lunch or dinner service.
+
+Previous restaurant models also connect customer satisfaction with future behavioral intentions, such as returning to the restaurant or recommending it to others [@arora2006]. For this reason, the survey will include intention to return and willingness to recommend as secondary descriptive indicators. These measures will represent stated intentions rather than evidence that guests actually returned or made recommendations.
+
+Although perceived value appears in several restaurant models, it will not be treated as a primary dimension in the revised AO2. The current objective focuses on food quality, service quality, atmosphere and physical environment, and overall satisfaction. Limiting the number of dimensions will keep the survey focused and easier for guests to complete.
+
+These models support the design of an anonymous post-visit survey for RKR guests. The survey will use five-point rating items such as “The food was high quality,” “The service was friendly and attentive,” and “The atmosphere and physical environment enhanced my dining experience.” Guests will also rate their overall satisfaction, likelihood of returning, and likelihood of recommending RKR. Open-ended questions will allow guests to describe the best part of their experience and identify possible improvements.
+
+The existing models provide a useful foundation, but they cannot fully explain the experience of RKR guests. Previous studies examined different restaurants and customer populations. RKR is a student-operated restaurant located on a university campus, and its guests may include students, faculty, staff, alumni, local residents, and visitors. Therefore, the literature will guide the survey design, while primary data will be needed to understand the specific experiences of RKR guests.
+
+#### Adequateness of Gathered Information
+
+The existing research provides sufficient information to identify the main dimensions that should be measured in the RKR survey. The literature supports examining food quality, service quality, atmosphere and physical environment, overall satisfaction, and future behavioral intentions [@ryu2012; @namkung2007; @han2009; @heung2012]. However, the literature alone cannot determine which areas RKR guests value most because the previous studies were conducted in different restaurant settings. Anonymous survey data from RKR guests are therefore necessary to account for the restaurant’s student-operated model, campus location, and specific customer groups. Possible limitations include convenience sampling, nonresponse bias, and overly positive responses from guests who feel connected to the restaurant.
+
+#### Need for Additional Analysis
+
+Additional primary-data analysis is needed because existing research cannot identify the strongest and weakest areas of the RKR experience. Survey responses will be summarized using response counts, percentages, and average ratings for each experience dimension. Open-ended comments will be reviewed and organized into recurring themes. Intention to return and willingness to recommend will be summarized as secondary descriptive indicators. If the number of responses is sufficient, simple exploratory correlations may be used to describe associations with overall satisfaction. A complex regression model is not required for the primary analysis, and the results will not be interpreted as causal evidence.
+
+#### Assessment and Affirmation of Analytics Objective
+
+The revised AO2 is appropriate because it is directly connected to anonymous survey data and can be measured using guest ratings and written comments. It is more focused than the original objective because it does not attempt to explain every possible cause of satisfaction or repeat patronage. Instead, it identifies which parts of the RKR dining experience guests evaluate most positively and which areas may require improvement.
+
+The proposed methods are appropriate for the expected survey data. Descriptive statistics will allow the team to compare ratings for food quality, service quality, atmosphere and physical environment, and overall satisfaction. Open-ended comments will provide additional context and may reveal specific suggestions that are not captured by rating questions. Intention to return and willingness to recommend will provide information about guests’ stated future behavior, but they will not be interpreted as evidence of actual repeat visits.
+
+The guiding research question is: Which aspects of the RKR dining experience—food quality, service quality, and atmosphere/physical environment—receive the highest and lowest ratings from guests?
+
+The findings will help RKR identify priority strengths and improvement opportunities. They can support recommendations related to food presentation, service delivery, restaurant atmosphere, customer communication, and future marketing efforts. The analysis will describe guest feedback and estimate associations, but it will not establish causation.
 
 ### AO3. Facebook Content and Messaging Strategies and Reservation Performance (Luis Ahumada) 
 
 **Analytics Objective:** Analyze associations between facebook content and messaging strategies, engagement metrics, and OpenTable reservation activity.
 
-#### Existence of Well-established Models (2-3 pages per AO)
+#### Existence of Well-established Models
 
 There are several types of models and theories that can support AO3 and help explain why different Facebook content and messaging may lead to different levels of customer engagement. The key ideas that are connected to A03 are **digital consumer engagement**, **Media Richness**, **Speech Act Theory**, **processing fluency**, the **Theory of Reasoned Action**, and **customer behavioral response**. Together these ideas help explain how customers process social media content, how the way a message is presented can affect engagement, and why engagement does not always lead directly to an actual reservation. These theories are important to AO3 because the objective looks past simply identifying which Facebook posts receive the most engagement and also considers whether those patterns are connected to OpenTable reservation activity. 
 
-**Processing fluency** helps explain why visual representation of content may affect engagement. Philp, Jacobson, and Pance found that consumers responded better to food images that were easier to recognize and understand (Philp, Jacobson, and Pancer, 2022). Drossos, Coursaris, and Kagiouli’s study found that Facebook posts using images and emotional or transformational appeals had a higher rate of engagement (Drossos, Coursaris, and Kagiouli, 2024). Their study also showed that posts with higher interaction did not always perform better. Together, these findings support AO3 because they show that Facebook performance can depend on different visuals and content characteristics, not just the topic of the content or messaging. 
+**Processing fluency** helps explain why visual representation of content may affect engagement. Philp, Jacobson, and Pance found that consumers responded better to food images that were easier to recognize and understand [@philp2022b]. Drossos, Coursaris, and Kagiouli’s study found that Facebook posts using images and emotional or transformational appeals had a higher rate of engagement [@drossos2024]. Their study also showed that posts with higher interaction did not always perform better. Together, these findings support AO3 because they show that Facebook performance can depend on different visuals and content characteristics, not just the topic of the content or messaging. 
 
-**Media Richness Theory and Speech Act Theory** help explain why the way a message is communicated can play a factor in a customer’s response. Manningham, Asselin, and Bourguignon performed a study on 639 Facebook posts from different restaurants and analyzed the wording, post format, and use of emojis (Manningham, Asselin, and Bourguignon, 2024). The finding was that direct and expressive wording, along with emoji use, was tied to higher customer engagement. Velosa and Gomez-Suarez also found that when management responses matched the original social media content, customers showed higher engagement and stronger booking intention. (Veloso and Gomez-Suarez, 2023). These findings support AO3 because they show that customer response can really depend on how content is written and presented, not just the type of content being posted. This means that when analyzing RKR Facebook content, it would make sense to compare both the type of content and the way the message within the content is communicated.
+**Media Richness Theory and Speech Act Theory** help explain why the way a message is communicated can play a factor in a customer’s response. Manningham, Asselin, and Bourguignon performed a study on 639 Facebook posts from different restaurants and analyzed the wording, post format, and use of emojis [@manningham2024].The finding was that direct and expressive wording, along with emoji use, was tied to higher customer engagement. Velosa and Gomez-Suarez also found that when management responses matched the original social media content, customers showed higher engagement and stronger booking intention [@veloso2023]. These findings support AO3 because they show that customer response can really depend on how content is written and presented, not just the type of content being posted. This means that when analyzing RKR Facebook content, it would make sense to compare both the type of content and the way the message within the content is communicated.
 
-**Digital consumer engagement** is also important because it shows us that not every type of engagement has the same definition behind it. Halloran and Lutz found that stronger forms of engagement, like customers commenting on a post, were more closely related to restaurant purchase frequency. Weaker measures like likes had less of a relationship with restaurant visit frequency (Halloran and Lutz, 2021).  This supports AO3 because it allows us to see that not every Facebook metric can be treated equally when deciding which strategies perform best. Yost, Zhang, and Qi also found that social media engagement was related to sales, but engagement did not explain all of the challenges in business performance (Yost,Zhang, and Qi, 2021). These findings show that engagement can be useful for AO3, but it should not be used on its own to determine whether a specific Facebook marketing strategy is successful or not, instead tying it to reservation activity can help support the final decision. 
+**Digital consumer engagement** is also important because it shows us that not every type of engagement has the same definition behind it. Halloran and Lutz found that stronger forms of engagement, like customers commenting on a post, were more closely related to restaurant purchase frequency. Weaker measures like likes had less of a relationship with restaurant visit frequency [@halloran2021].This supports AO3 because it allows us to see that not every Facebook metric can be treated equally when deciding which strategies perform best. Yost, Zhang, and Qi also found that social media engagement was related to sales, but engagement did not explain all of the challenges in business performance [@yost2021]. These findings show that engagement can be useful for AO3, but it should not be used on its own to determine whether a specific Facebook marketing strategy is successful or not, instead tying it to reservation activity can help support the final decision. 
 
-**The Theory of Reasoned Act and customer behavioral response** explain why customer intention shouldn’t be treated the same as actual behavior. Hanaysha’s study found that interactivity, relevance, informativeness, and entertainment were positively related to brand engagement, and the higher engagement was tied to higher purchase intention (Hanaysha, 2022). So this supports the idea that social media content can affect consumer response, but the challenge is that  the study measured intention instead of actual customer behavior. Simonetti and Bigne also found a similar result when they performed a study measuring restaurant-related social media cues. Their findings showed that restaurant images were important for capturing initial attention, while reviews and ratings also played a factor on how customers evaluated the restaurant (Simonetti and Bigne, 2022). These findings challenge AO3 because they tell us that a customer can respond in a positive manner to a content being posted, but this doesn’t necessarily mean that they intend to visit the restaurant without actually making a reservation. Again, this is why looking at more than just Facebook engagement is important for AO3, as it will strengthen the final decision on what Facebook Strategy works best. 
+**The Theory of Reasoned Act and customer behavioral response** explain why customer intention shouldn’t be treated the same as actual behavior. Hanaysha’s study found that interactivity, relevance, informativeness, and entertainment were positively related to brand engagement, and the higher engagement was tied to higher purchase intention [@hanaysha2022]. So this supports the idea that social media content can affect consumer response, but the challenge is that  the study measured intention instead of actual customer behavior. Simonetti and Bigne also found a similar result when they performed a study measuring restaurant-related social media cues. Their findings showed that restaurant images were important for capturing initial attention, while reviews and ratings also played a factor on how customers evaluated the restaurant [@simonetti2022]. These findings challenge AO3 because they tell us that a customer can respond in a positive manner to a content being posted, but this doesn’t necessarily mean that they intend to visit the restaurant without actually making a reservation. Again, this is why looking at more than just Facebook engagement is important for AO3, as it will strengthen the final decision on what Facebook Strategy works best. 
 
-A separate challenge that was brought up was that customer engagement might also be influenced by activity on other social media platforms. Unnava and Aravindakshan studied Facebook, Twitter, and Instagram and found that engagement on one platform could be affected by activity on another platform (Unnava and Aravindakshan, 2021). Another finding was that the effects that each platform has on each other isn’t limited to a specific amount of sessions, this effect can continue over time. This is connected to AO3 because it shows us that changes in Facebook engagement or reservation activity may not be connected to Facebook on its own. RKR customers might also be exposed to content on Instagram, Youtube, CPP Newsletters, CPP Website, etc. playing a role on the customers decision of visiting the restaurant or making the reservation. Because of this, Facebook metrics should be interpreted carefully when comparing with OpenTable activity. 
+A separate challenge that was brought up was that customer engagement might also be influenced by activity on other social media platforms. Unnava and Aravindakshan studied Facebook, Twitter, and Instagram and found that engagement on one platform could be affected by activity on another platform [@unnava2021]. Another finding was that the effects that each platform has on each other isn’t limited to a specific amount of sessions, this effect can continue over time. This is connected to AO3 because it shows us that changes in Facebook engagement or reservation activity may not be connected to Facebook on its own. RKR customers might also be exposed to content on Instagram, Youtube, CPP Newsletters, CPP Website, etc. playing a role on the customers decision of visiting the restaurant or making the reservation. Because of this, Facebook metrics should be interpreted carefully when comparing with OpenTable activity. 
 
 Overall, the research supports the main idea behind AO3, but also shows that Facebook performance should not be judged by engagement alone. The studies show that visual presentation, message style, content characteristics, and different types of engagement can play a role in how consumers respond to social media content. At the same time, the challenging studies show that engagement does not always lead to conversion because there are other factors that play a role in influencing a consumer. These factors can be purchase intention, brand attitude, information quality, and activity on other platforms. As a result of these challenges , AO3 should compare Facebook content and messaging strategies using both engagement metrics and OpenTable reservation activity instead of relying on one type of measure on its own. 
 
-#### Adequateness of Gathered Information (a paragraph per AO)
+#### Adequateness of Gathered Information
 
-The information gathered for AO3 is adequate because the sources cover the key ideas that are important to the objective. These key ideas include Facebook content, messaging style, engagement, restaurant behavior, and booking or purchase intent. Some of the studies used are very relevant because they focus directly on Facebook or restaurant settings, like the work of Manningham, Asselin, and Bourguignon and Halloran and Lutz (Manningham, Asselin, and Bourguignon, 2024; Halloran and Lutz, 2021). The research also used different methods, including content analysis, surveys, experiments, eye tracking, and regression analysis, which provides different types of evidence that can support AO3. There were also some studies that did not hold the same level of quality because the studies performed focused on hotels, Instagram, or other social media platforms instead of Facebook to restaurant activity. They also differed on what was being measured, such as purchase intention, visit intention, or booking intention rather than actual customer behavior. Overall, the research is strong enough to support AO3, but it does not fully answer whether Facebook engagement is connected to actual OpenTable activity, which shows why there is additional analysis that is needed. 
+The information gathered for AO3 is adequate because the sources cover the key ideas that are important to the objective. These key ideas include Facebook content, messaging style, engagement, restaurant behavior, and booking or purchase intent. Some of the studies used are very relevant because they focus directly on Facebook or restaurant settings, like the work of Manningham, Asselin, and Bourguignon and Halloran and Lutz [@manningham2024a]; [@halloran2021a]. The research also used different methods, including content analysis, surveys, experiments, eye tracking, and regression analysis, which provides different types of evidence that can support AO3. There were also some studies that did not hold the same level of quality because the studies performed focused on hotels, Instagram, or other social media platforms instead of Facebook to restaurant activity. They also differed on what was being measured, such as purchase intention, visit intention, or booking intention rather than actual customer behavior. Overall, the research is strong enough to support AO3, but it does not fully answer whether Facebook engagement is connected to actual OpenTable activity, which shows why there is additional analysis that is needed. 
 
-#### Need for Additional Analysis (a paragraph per AO)
+#### Need for Additional Analysis
 
 Additional analysis is still needed because the research gathered does not completely show how Facebook affects customer response at RKR. The studies show that social media content and messaging can affect engagement, attention, and purchase or booking intent, but many of them don’t measure actual reservations or visits. For my part of the project, I will focus on RKR’s Facebook data by comparing different content types, messaging styles, and engagement metrics with available OpenTable Activity. Trackable links or QR codes can also help show if Facebook activity is connected to reservation behavior at RKR. Overall, this analysis will show what role Facebook may have within RKR’s larger digital marketing strategy.
 
-#### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
+#### Assessment and Affirmation of Analytics Objectives
 
 Based on the reviewed research, AO3 should remain the same because it directly supports RKR’s larger goal of building sustainable demand. AO3 focuses on Facebook and whether specific content and messaging strategies are connected to stronger engagement and OpenTable reservation activity. 
 
@@ -479,15 +449,15 @@ The objective supports the group’s broader reservation goal while keeping its 
 
 There are a few theories and research approaches that can help support AO5. The main ideas that connect to this objective are customer engagement, the Stimulus-Organism-Response model, inspiration, and visual presentation on social media. These ideas help explain why different Instagram posts or formats may get different reactions from customers.
 
-Lee and Kwak (2026) studied restaurant social media and found that the way food is shown can affect customer inspiration and engagement. Outcome-focused food images performed better than process-focused images in their study. This is useful for AO5 because it shows that the way restaurant content is presented can make a difference in how people respond to it.
+Lee and Kwak (2026) studied restaurant social media and found that the way food is shown can affect customer inspiration and engagement.[@lee2026] Outcome-focused food images performed better than process-focused images in their study. This is useful for AO5 because it shows that the way restaurant content is presented can make a difference in how people respond to it.
 
-Bushara et al. (2023) used the Stimulus-Organism-Response model to study restaurant social media. Their study found that things like entertainment, interaction, customization, and trendiness can affect perceived value and customer behavior. This connects to AO5 because RKR's Instagram posts can be viewed as the stimulus and likes, comments, shares, and saves can be viewed as customer responses. One limitation is that Instagram Insights does not tell us exactly what a customer was thinking or feeling before engaging with a post.
+Bushara et al. (2023) used the Stimulus-Organism-Response model to study restaurant social media. [@bushara2023]Their study found that things like entertainment, interaction, customization, and trendiness can affect perceived value and customer behavior. This connects to AO5 because RKR's Instagram posts can be viewed as the stimulus and likes, comments, shares, and saves can be viewed as customer responses. One limitation is that Instagram Insights does not tell us exactly what a customer was thinking or feeling before engaging with a post.
 
-Philp, Jacobson, and Pancer (2022) also looked directly at restaurant food marketing on Instagram. They found that the visual characteristics of food images were connected to likes and comments. This supports AO5 because it shows that actual Instagram post data can be used to compare different types of content and see which characteristics are connected to stronger engagement.
+Philp, Jacobson, and Pancer (2022) also looked directly at restaurant food marketing on Instagram.[@philp2022] They found that the visual characteristics of food images were connected to likes and comments. This supports AO5 because it shows that actual Instagram post data can be used to compare different types of content and see which characteristics are connected to stronger engagement.
 
-Kulikovskaja et al. (2023) found that different types of social media content can lead to different types of customer engagement. This is important because RKR should not treat every Instagram post the same way. A Reel, carousel, or single-image post may give customers a different experience and may also create different levels of engagement.
+Kulikovskaja et al. (2023) found that different types of social media content can lead to different types of customer engagement. [@kulikovskaja2023] This is important because RKR should not treat every Instagram post the same way. A Reel, carousel, or single-image post may give customers a different experience and may also create different levels of engagement.
 
-Chan, Chen, and Leung (2023) also found that visual presentation can affect how customers respond to restaurant social media. Their research showed that factors such as visual variety and movement can make a difference. This relates to AO5 because Instagram formats have different visual characteristics. For example, a Reel uses movement and video, while a regular post is more static.
+Chan, Chen, and Leung (2023) also found that visual presentation can affect how customers respond to restaurant social media.[@chan2023] Their research showed that factors such as visual variety and movement can make a difference. This relates to AO5 because Instagram formats have different visual characteristics. For example, a Reel uses movement and video, while a regular post is more static.
 
 Overall, the research supports the idea that the way restaurant social media content is presented can affect customer engagement. However, the existing research does not tell us exactly which Instagram format will work best for RKR. This is why analyzing RKR's own Instagram data is still needed.
 
@@ -1293,7 +1263,7 @@ You should identify the **top five best keywords for each seed keyword** and exp
 A suggested table format:
 
 |  |  |  |  |  |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | **Seed Keyword** | **Recommended Keyword** | **Search Intent** | **Reason for Selection** | **Target Page** |
 | sustainable skincare | natural face cream | Commercial | Relevant to target audience and product category | Product page |
 
@@ -2156,7 +2126,7 @@ The timeline may include:
 Suggested format:
 
 |  |  |  |  |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **Week** | **Activity** | **Responsible Area** | **Deliverable** |
 | Week 1 | Finalize campaign objectives and content calendar | Strategy | Campaign brief |
 | Week 2 | Create website landing page and social content | Website/Social | Landing page mockup, posts |
@@ -2305,7 +2275,7 @@ Set expected performance targets after implementation.
 Examples:
 
 |  |  |  |  |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **KPI** | **Baseline** | **Target** | **Rationale** |
 | Website sessions | 5,000/month | 6,000/month | SEO and paid ads expected to increase traffic |
 | Email CTR | 3% | 5% | Improved segmentation and stronger CTA |
