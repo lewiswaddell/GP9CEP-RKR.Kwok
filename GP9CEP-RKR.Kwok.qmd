@@ -61,7 +61,7 @@ A/B test two RKR section formats in The Collins Concierge from October 2026 to J
 
 - **AO2:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
 
-    - **Data Source:** Anonymous post-visit survey responses from RKR guests collected during Fall 2026, with Spring 2027 data added if available.
+  - **Data Source:** Anonymous post-visit survey responses from RKR guests collected during Fall 2026, with Spring 2027 data added if available.
 
 #### How to address AO2
 
@@ -73,7 +73,19 @@ The results will identify which parts of the RKR experience guests evaluate most
 
 ### AO3. Facebook Content and Messaging Strategies and Reservation Performance (Luis Ahumada)
 
-Analyze associations between facebook content and messaging strategies, engagement metrics, and OpenTable reservation activity.
+- **PO3:** Develop an evidence-based Facebook marketing strategy designed to support reservation growth at The Restaurant at Kellogg Ranch.
+
+- **AO4:** Analyze associations between facebook content and messaging strategies, engagement metrics, and OpenTable reservation activity.
+
+- **Data Source:** RKR Facebook posts and Meta Business Suite Analytics including engagement metrics and link clicks; available OpenTable reservation data; and trackable reservation links or QR codes if available.
+
+#### How to address AO3
+
+The plan is to categorize RKR Facebook posts by content and messaging type and compare their performance using available engagenent metrics through Meta. The following step would be to analyze how these results are associated with OpenTable reservation activity. The content categories and analytical methods will depend on the anount and quality of data available.
+
+#### How AO3 will help achieve PO3
+
+AO3 will help achieve PO3 by identifying which Facebook content and messaging strategies are associated with stronger engagement and OpenTable reservation activity. These findings will provide the evidence needed to develop a Facebook marketing strategy that focuses on the most effective content and messaging approaches to support the reservation growth at RKR.
 
 ### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
@@ -1255,7 +1267,7 @@ You should identify the **top five best keywords for each seed keyword** and exp
 A suggested table format:
 
 |  |  |  |  |  |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | **Seed Keyword** | **Recommended Keyword** | **Search Intent** | **Reason for Selection** | **Target Page** |
 | sustainable skincare | natural face cream | Commercial | Relevant to target audience and product category | Product page |
 
@@ -2118,7 +2130,7 @@ The timeline may include:
 Suggested format:
 
 |  |  |  |  |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Week** | **Activity** | **Responsible Area** | **Deliverable** |
 | Week 1 | Finalize campaign objectives and content calendar | Strategy | Campaign brief |
 | Week 2 | Create website landing page and social content | Website/Social | Landing page mockup, posts |
@@ -2267,7 +2279,7 @@ Set expected performance targets after implementation.
 Examples:
 
 |  |  |  |  |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **KPI** | **Baseline** | **Target** | **Rationale** |
 | Website sessions | 5,000/month | 6,000/month | SEO and paid ads expected to increase traffic |
 | Email CTR | 3% | 5% | Improved segmentation and stronger CTA |
