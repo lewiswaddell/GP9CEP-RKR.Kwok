@@ -57,11 +57,11 @@ A/B test two RKR section formats in The Collins Concierge from October 2026 to J
 
 ### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
 
-- **PO2:** Identify what RKR guests value most and where improvements are needed to strengthen their overall dining experience.
+-   **PO2:** Identify what RKR guests value most and where improvements are needed to strengthen their overall dining experience.
 
-- **AO2:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
+-   **AO2:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
 
-  - **Data Source:** Anonymous post-visit survey responses from RKR guests collected during Fall 2026, with Spring 2027 data added if available.
+    -   **Data Source:** Anonymous post-visit survey responses from RKR guests collected during Fall 2026, with Spring 2027 data added if available.
 
 #### How to address AO2
 
@@ -73,11 +73,11 @@ The results will identify which parts of the RKR experience guests evaluate most
 
 ### AO3. Facebook Content and Messaging Strategies and Reservation Performance (Luis Ahumada)
 
-- **PO3:** Develop an evidence-based Facebook marketing strategy designed to support reservation growth at The Restaurant at Kellogg Ranch.
+-   **PO3:** Develop an evidence-based Facebook marketing strategy designed to support reservation growth at The Restaurant at Kellogg Ranch.
 
-- **AO4:** Analyze associations between facebook content and messaging strategies, engagement metrics, and OpenTable reservation activity.
+-   **AO3:** Analyze associations between facebook content and messaging strategies, engagement metrics, and OpenTable reservation activity.
 
-- **Data Source:** RKR Facebook posts and Meta Business Suite Analytics including engagement metrics and link clicks; available OpenTable reservation data; and trackable reservation links or QR codes if available.
+-   **Data Source:** RKR Facebook posts and Meta Business Suite Analytics including engagement metrics and link clicks; available OpenTable reservation data; and trackable reservation links or QR codes if available.
 
 #### How to address AO3
 
@@ -89,9 +89,9 @@ AO3 will help achieve PO3 by identifying which Facebook content and messaging st
 
 ### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
-- **PO4:** Recommend website content and navigation improvements that make dining information and the reservation process easier for prospective RKR guests to access.
-- **AO4:** Measure unassisted task-completion rates, median successful completion time, and five-point ease-of-use ratings for locating RKR’s menu, identifying operating hours, and reaching the reservation interface. Evaluate each task against a proposed 80% unassisted completion benchmark.
-  - **Data Source:** Primary observations from task-based tests of the current RKR website and brief post-task survey responses from prospective guests during the project’s data-collection period.
+-   **PO4:** Recommend website content and navigation improvements that make dining information and the reservation process easier for prospective RKR guests to access.
+-   **AO4:** Measure unassisted task-completion rates, median successful completion time, and five-point ease-of-use ratings for locating RKR’s menu, identifying operating hours, and reaching the reservation interface. Evaluate each task against a proposed 80% unassisted completion benchmark.
+    -   **Data Source:** Primary observations from task-based tests of the current RKR website and brief post-task survey responses from prospective guests during the project’s data-collection period.
 
 #### How to address AO4
 
@@ -103,7 +103,19 @@ The results will identify which dining-information and reservation tasks create 
 
 ### AO5. Instagram Content and Engagement Analysis (Spencer Conway)
 
-This analytics objective will determine which Instagram content format produces the highest engagement rate for Restaurant at Kellogg Ranch. First, past posts will be grouped by format to establish a performance baseline. RKR will then test new content in selected formats and compare its performance with the baseline. Engagement rate will be calculated consistently using likes, comments, shares, and saves divided by reach, where Instagram Insights data are available. The findings will guide recommendations about which formats RKR should prioritize in future Instagram posts.
+-   **PO5:** Strengthen RKR’s Instagram strategy to improve audience engagement.
+
+-   **AO5:** Determine which Instagram content format produces the highest engagement rate for Restaurant at Kellogg Ranch.
+
+    -   **Data Source:** RKR Instagram posts and Instagram Insights data, including likes, comments, shares, saves, and reach. New Instagram posts may also be tested in selected formats if enough data and time are available.
+
+#### How to address AO5
+
+The plan is to group RKR’s past Instagram posts by format, such as single-image posts, carousels, and Reels, and compare their engagement rates. Engagement rate will be calculated using likes, comments, shares, and saves divided by reach, where the data is available. This will create a baseline for how each format has performed. RKR can then test new content in selected formats and compare the results with the historical baseline.
+
+#### How AO5 will help achieve PO6
+
+AO5 will help achieve PO6 by identifying which Instagram formats are associated with stronger audience engagement. These findings will give RKR evidence for which types of Instagram content they should prioritize moving forward and help create a more data-informed Instagram strategy.
 
 ## Significance of the Topic
 
@@ -113,9 +125,9 @@ This project is important because it can help Restaurant at Kellogg Ranch better
 
 # Appendix
 
-- [GitHub Repo](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
+-   [GitHub Repo](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
 
-- [Github Pages](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
+-   [Github Pages](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
 
 ------------------------------------------------------------------------
 
@@ -128,11 +140,11 @@ This project is important because it can help Restaurant at Kellogg Ranch better
 ::: {.callout-tip .hl-yellow}
 ## 1. Guidelines For Client Consulting Project
 
-- *If you are conducting a **Client Consulting Project type**, you have a company-specific analysis. Thus, follow the structure for Chapter 2 presented below.*
+-   *If you are conducting a **Client Consulting Project type**, you have a company-specific analysis. Thus, follow the structure for Chapter 2 presented below.*
 
-- For the **Client Consulting Project type**, Chapter 2 should include a comprehensive analysis of the client company and its industry, as well as an investigation of existing research frameworks/models that support the analytics objectives. The purpose of this chapter is to provide a thorough understanding of the client’s business context and to establish a strong foundation for the analytics objectives by grounding them in relevant theories and models.
+-   For the **Client Consulting Project type**, Chapter 2 should include a comprehensive analysis of the client company and its industry, as well as an investigation of existing research frameworks/models that support the analytics objectives. The purpose of this chapter is to provide a thorough understanding of the client’s business context and to establish a strong foundation for the analytics objectives by grounding them in relevant theories and models.
 
-- On the other hand, if you do not have a specific client company to analyze, you are completing a **Basic/Applied Academic Research Project type** where you are likely to benefit general public or the whole industry. In this case, Chapter 2 should follow the structure of the front end of an **academic research paper**. For details, refer to the [2. Guidelines for Basic/Applied Academic Research Project](#sec-ch2-for-basic-applied-academic-research-project).
+-   On the other hand, if you do not have a specific client company to analyze, you are completing a **Basic/Applied Academic Research Project type** where you are likely to benefit general public or the whole industry. In this case, Chapter 2 should follow the structure of the front end of an **academic research paper**. For details, refer to the [2. Guidelines for Basic/Applied Academic Research Project](#sec-ch2-for-basic-applied-academic-research-project).
 :::
 
 ## Client (Company) Background
@@ -504,9 +516,9 @@ If your project doesn't have a client and is intended to benefit the public or i
 
 If you are completing a Basic/Applied Academic Research Project type, you do not have a client company to analyze for company-specific analysis. Therefore, you cannot fill out the client-specific sections. This is why you should follow the structure of the front end of an **academic research paper**.
 
-- For the **Basic/Applied Academic Research Project type**, Chapter 2 should follow the structure of the front end of an academic research paper, which includes an overall introduction, a literature review, theoretical development, and hypothesis development for each AO. The purpose of this chapter is to provide a comprehensive understanding of the research topic and to establish a strong foundation for the analytics objectives by grounding them in relevant theories and models.
+-   For the **Basic/Applied Academic Research Project type**, Chapter 2 should follow the structure of the front end of an academic research paper, which includes an overall introduction, a literature review, theoretical development, and hypothesis development for each AO. The purpose of this chapter is to provide a comprehensive understanding of the research topic and to establish a strong foundation for the analytics objectives by grounding them in relevant theories and models.
 
-- You will find the content and structure guidelines below is consistent with the academic papers published in many journals, such as the *Journal of Marketing*, *Journal of Consumer Research*, *Journal of the Academy of Marketing Science*, etc. You can refer to these journals for examples of how to structure and write this chapter.
+-   You will find the content and structure guidelines below is consistent with the academic papers published in many journals, such as the *Journal of Marketing*, *Journal of Consumer Research*, *Journal of the Academy of Marketing Science*, etc. You can refer to these journals for examples of how to structure and write this chapter.
 :::
 
 ## Overall Introduction
@@ -514,9 +526,9 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 ::: callout-note
 *Briefly introduce the business or social problem(s) the group is addressing. Summarize the purpose of the study, key theoretical concepts (constructs), analytical focus, and the expected practical and academic contributions.*
 
-- You can write this section in a way that is similar to the introduction section of an academic research paper. Refer to journal articles for examples of how to write this section.
+-   You can write this section in a way that is similar to the introduction section of an academic research paper. Refer to journal articles for examples of how to write this section.
 
-- This section is for the entire AO's, so you should not write this section separately for each AO. Instead, you can write this section once at the beginning of Chapter 2, and then write the literature review, theoretical development, and hypothesis sections separately for each AO.
+-   This section is for the entire AO's, so you should not write this section separately for each AO. Instead, you can write this section once at the beginning of Chapter 2, and then write the literature review, theoretical development, and hypothesis sections separately for each AO.
 :::
 
 ## AO1. Title of AO1 Right Here (Name of Author Here)
@@ -528,21 +540,21 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 
 *Conduct a focused academic literature review related to the construct(s) behind the analytics objective. Include an evaluation of the quality of evidence gathered (e.g., recognize issues in terms of bias, accuracy, new findings, etc. for the information gathered) and the need for additional analysis (to support proposed research)*
 
-- Instead of the title, "Literature review," you can use a more specific title that reflects the content of the section, such as "User generated content" or "Consumer Response to AI-Generated Content."
+-   Instead of the title, "Literature review," you can use a more specific title that reflects the content of the section, such as "User generated content" or "Consumer Response to AI-Generated Content."
 
 **Theoretical Development**
 
 *This section is the continuation of the literature review. Develop a logical and theoretical argument based on the literature review that is directly relevant to the analytics objective.*
 
-- Instead of the title, "Theoretical development," you can use a more specific title that reflects the content of the section, such as "User generated content in the Era of AI" or "Current Status of Consumer Acceptance of AI-generated Content."
+-   Instead of the title, "Theoretical development," you can use a more specific title that reflects the content of the section, such as "User generated content in the Era of AI" or "Current Status of Consumer Acceptance of AI-generated Content."
 
 **Hypothesis**
 
 *Conclude the section above by identifying the clear and testable hypothesis that results from theoretical development. Each hypothesis is typically linked to a construct. In some cases, multiple AO’s may relate to the same construct (from different perspectives), or multiple AO’s may contribute to the evaluation of a single hypothesis.*
 
-- You should not have a separate title for hypothesis. Instead, you can just write the hypothesis at the end of the theoretical development section without a title. For example, you can write, "Based on the above theoretical development, we propose the following hypothesis: \[state the hypothesis here\]." See journal articles for examples of how to write a hypothesis.
+-   You should not have a separate title for hypothesis. Instead, you can just write the hypothesis at the end of the theoretical development section without a title. For example, you can write, "Based on the above theoretical development, we propose the following hypothesis: \[state the hypothesis here\]." See journal articles for examples of how to write a hypothesis.
 
-- You need to write a hypothesis only if your AO is related to testing a relationship between two or more constructs. If there is not a strong theoretical development that leads to a testable hypothesis, you may not need to write a hypothesis. In that case, you can call it research questions. For example, you can write, "Based on the above theoretical development, we propose the following research question: \[state the research question here\]." See journal articles for examples of how to write a research question.
+-   You need to write a hypothesis only if your AO is related to testing a relationship between two or more constructs. If there is not a strong theoretical development that leads to a testable hypothesis, you may not need to write a hypothesis. In that case, you can call it research questions. For example, you can write, "Based on the above theoretical development, we propose the following research question: \[state the research question here\]." See journal articles for examples of how to write a research question.
 :::
 
 ### Literature Review
@@ -604,13 +616,13 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 
 *This chapter should provide a detailed description of the methods used to accomplish the analytics objectives. The methods should be described in sufficient detail to allow for replication by other researchers. The methods should be appropriate for the analytics objectives and should be justified based on the literature review and theoretical development presented in Chapter 2.*
 
-- For projects that need **primary data collection**,\* ***an instrument should be prepared*** \*and submitted as part of Chapter 3.
+-   For projects that need **primary data collection**,\* ***an instrument should be prepared*** \*and submitted as part of Chapter 3.
 
-- For projects that use **secondary data**, the data source should be described in detail, including how the data was obtained and any limitations of the data.
+-   For projects that use **secondary data**, the data source should be described in detail, including how the data was obtained and any limitations of the data.
 
-- For projects that uses both **primary and secondary data**, both data collection methods should be described in detail.
+-   For projects that uses both **primary and secondary data**, both data collection methods should be described in detail.
 
-- For more information about data collection methods, data sources, and instruments, refer to the [Data Collection for the Above AO](capstone_project.qmd#data-collection) section of the main capstone project page.
+-   For more information about data collection methods, data sources, and instruments, refer to the [Data Collection for the Above AO](capstone_project.qmd#data-collection) section of the main capstone project page.
 :::
 
 ## Data and Sampling
@@ -700,21 +712,21 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 *(1-2 pages per AO)*
 
 ::: callout-note
-- *In this section, provide specific data science methods, variables/features to be used, and justifications for the methods and choice of the variables/features.*
+-   *In this section, provide specific data science methods, variables/features to be used, and justifications for the methods and choice of the variables/features.*
 
-- *Provide a sufficient amount of writing (one or two paragraphs) under each AO. The word sufficiency is relativistic, depending on the objective.*
+-   *Provide a sufficient amount of writing (one or two paragraphs) under each AO. The word sufficiency is relativistic, depending on the objective.*
 
-- *Your description should be able to inform readers of what the method is, why you want to use it, and what variables/features you plan to use, such that readers do not have questions.*
+-   *Your description should be able to inform readers of what the method is, why you want to use it, and what variables/features you plan to use, such that readers do not have questions.*
 :::
 
 ::: callout-tip
 ### Assessment Rubric for SLO 3: Build a model appropriate for addressing the project objectives
 
-- This section will in part be used to evaluate your performance on SLO 3, which is to build a model appropriate for addressing the project objectives. The specific model you build will depend on the analytics objectives you have set for your project and the data you have collected. Make sure to choose a model that is appropriate for your analytics objectives and to justify your choice of the model based on the literature review and theoretical development presented in Chapter 2.
+-   This section will in part be used to evaluate your performance on SLO 3, which is to build a model appropriate for addressing the project objectives. The specific model you build will depend on the analytics objectives you have set for your project and the data you have collected. Make sure to choose a model that is appropriate for your analytics objectives and to justify your choice of the model based on the literature review and theoretical development presented in Chapter 2.
 
-- The following rubric will be used to evaluate the quality of your model. Make sure to review this rubric carefully and use it as a guide when writing your recommendations section.
+-   The following rubric will be used to evaluate the quality of your model. Make sure to review this rubric carefully and use it as a guide when writing your recommendations section.
 
-  ![](images/slo-3.png)
+    ![](images/slo-3.png)
 :::
 
 ### AO1. Title of AO1 Here (Name of Author Here)
@@ -770,21 +782,21 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 ::: callout-note
 ### Instructions for Writing the Analysis/Modeling and Results Section
 
-- In this section, you will present data analysis andthe results of your analysis/modeling for each AO. The structure of this section may vary based on your project objectives and the nature of your analysis/modeling, but the following are common components to include for each AO.
+-   In this section, you will present data analysis andthe results of your analysis/modeling for each AO. The structure of this section may vary based on your project objectives and the nature of your analysis/modeling, but the following are common components to include for each AO.
 
-  - *For each AO, you should have a separate subsection that includes an introduction, a description of the descriptive analytics and results, a description of the predictive analytics and results, and a summary of findings.*
+    -   *For each AO, you should have a separate subsection that includes an introduction, a description of the descriptive analytics and results, a description of the predictive analytics and results, and a summary of findings.*
 
-- If your project analytics objectives do not involve quantitative methods, make appropriate alterations in consultation with your professors.
+-   If your project analytics objectives do not involve quantitative methods, make appropriate alterations in consultation with your professors.
 :::
 
 ::: callout-tip
 ### Assessment Rubric for SLO 3: Build a model appropriate for addressing the project objectives
 
-- This section will in part be used to evaluate your performance on SLO 3, which is to build a model appropriate for addressing the project objectives. The specific model you build will depend on the analytics objectives you have set for your project and the data you have collected. Make sure to choose a model that is appropriate for your analytics objectives and to justify your choice of the model based on the literature review and theoretical development presented in Chapter 2.
+-   This section will in part be used to evaluate your performance on SLO 3, which is to build a model appropriate for addressing the project objectives. The specific model you build will depend on the analytics objectives you have set for your project and the data you have collected. Make sure to choose a model that is appropriate for your analytics objectives and to justify your choice of the model based on the literature review and theoretical development presented in Chapter 2.
 
-- The following rubric will be used to evaluate the quality of your model. Make sure to review this rubric carefully and use it as a guide when writing your recommendations section.
+-   The following rubric will be used to evaluate the quality of your model. Make sure to review this rubric carefully and use it as a guide when writing your recommendations section.
 
-  ![](images/slo-3.png)
+    ![](images/slo-3.png)
 :::
 
 ## AO1. Title of AO1 Here (Name of Author Here)
@@ -852,9 +864,9 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 ::: {.callout-note .hl-yellow}
 ## 1. Guidelines for Client Consulting Project
 
-- This chapter should provide your **client** with a comprehensive discussion of the data-informed marketing strategy that you recommend based on the findings from your analysis. The specific structure of this chapter may vary based on your project goals and the nature of your recommendations, but the following are common components to include.
+-   This chapter should provide your **client** with a comprehensive discussion of the data-informed marketing strategy that you recommend based on the findings from your analysis. The specific structure of this chapter may vary based on your project goals and the nature of your recommendations, but the following are common components to include.
 
-- If your project is **basic/applied academic research**, you may tweak the structure of this chapter to fit your project. For example, you may have a section on "Implications for Practice" where you can provide recommendations for practitioners based on your research findings, and a separate section on "Implications for Research" where you can discuss how your findings contribute to the academic literature and suggest directions for future research. Refer to journal articles to see how to structure this chapter for basic/applied academic research projects. For more details, see [2. Guidelines for Basic/Applied Academic Research](#sec-ch5-basic-applied-research) section.
+-   If your project is **basic/applied academic research**, you may tweak the structure of this chapter to fit your project. For example, you may have a section on "Implications for Practice" where you can provide recommendations for practitioners based on your research findings, and a separate section on "Implications for Research" where you can discuss how your findings contribute to the academic literature and suggest directions for future research. Refer to journal articles to see how to structure this chapter for basic/applied academic research projects. For more details, see [2. Guidelines for Basic/Applied Academic Research](#sec-ch5-basic-applied-research) section.
 :::
 
 ::: callout-tip
@@ -873,19 +885,19 @@ The goal of this callout-note is to provide **guidance on how to structure the r
 
 **Summary of findings from data analysis - AO1.**
 
-- *This section includes recommendations for the company/industry and the rationale behind it. The rationale should be the insights that emerged from the analysis results. However, avoid using detailed statistics here; instead, use plain English so that even unsophisticated readers can also understand you.*
+-   *This section includes recommendations for the company/industry and the rationale behind it. The rationale should be the insights that emerged from the analysis results. However, avoid using detailed statistics here; instead, use plain English so that even unsophisticated readers can also understand you.*
 
-- In the next sections, provide specific recommendations based on the data analysis findings. Make sure you justify each recommendation with the insights from your analysis or/and literature.
+-   In the next sections, provide specific recommendations based on the data analysis findings. Make sure you justify each recommendation with the insights from your analysis or/and literature.
 
-- When writing the recommendations section, begin it with a 3rd-level heading. The heading should start with an action verb (e.g., “Allocate 30% of the advertising budget to Google Ads”).
+-   When writing the recommendations section, begin it with a 3rd-level heading. The heading should start with an action verb (e.g., “Allocate 30% of the advertising budget to Google Ads”).
 
 **Do A.**
 
-- The sample headings are provided for reference and are meant to be replaced with your own. You can have more or fewer recommendations than the sample.
+-   The sample headings are provided for reference and are meant to be replaced with your own. You can have more or fewer recommendations than the sample.
 
-- The headings should be specific to your project. The key is to make sure that the headings are actionable and directly tied to the insights from your analysis.
+-   The headings should be specific to your project. The key is to make sure that the headings are actionable and directly tied to the insights from your analysis.
 
-- After this heading, start the paragraph in the same line. The writing should focus on justifying the recommendation. Use the research findings that support the recommendation.
+-   After this heading, start the paragraph in the same line. The writing should focus on justifying the recommendation. Use the research findings that support the recommendation.
 
 **Implement B.**
 
@@ -960,171 +972,171 @@ Also, the number of recommendations per AO may vary based on the amount of insig
 ::: callout-note
 In conversations with students, I observed significant variation in how students interpreted the *specificity of the digital marketing plan*.
 
-- Some students were unsure about who should create the plan and how specific it should be. Some expected their clients to provide the content and ideas.
+-   Some students were unsure about who should create the plan and how specific it should be. Some expected their clients to provide the content and ideas.
 
-- Therefore, the goal of this guideline is to give students clear guidance on the breadth and depth of the content expected in the digital marketing plan.
+-   Therefore, the goal of this guideline is to give students clear guidance on the breadth and depth of the content expected in the digital marketing plan.
 :::
 
 #### The Breadth of the Digital Marketing Plan
 
 ::: {.callout-note .hl-yellow}
-- The plan should include a clear target market, positioning strategy, campaign objectives, digital marketing tactics, content examples, mock campaign materials, KPIs, tracking methods, and a post-implementation evaluation plan.
+-   The plan should include a clear target market, positioning strategy, campaign objectives, digital marketing tactics, content examples, mock campaign materials, KPIs, tracking methods, and a post-implementation evaluation plan.
 
-- *Below is an overview of possible components of a digital marketing plan. Not all digital marketing channels will be relevant to your project. Choose the channels and tactics that are necessary to achieve your project objectives.*
+-   *Below is an overview of possible components of a digital marketing plan. Not all digital marketing channels will be relevant to your project. Choose the channels and tactics that are necessary to achieve your project objectives.*
 
-  1.  Target market
+    1.  Target market
 
-  2.  Positioning and perceptual map
+    2.  Positioning and perceptual map
 
-  3.  Brand persona
+    3.  Brand persona
 
-  4.  Campaign objectives
+    4.  Campaign objectives
 
-      - SMART objectives
-      - KPI alignment
+        -   SMART objectives
+        -   KPI alignment
 
-  5.  SEO strategy
+    5.  SEO strategy
 
-      - Keyword research
-      - Keyword mapping
-      - SEO content recommendations
+        -   Keyword research
+        -   Keyword mapping
+        -   SEO content recommendations
 
-  6.  Website and landing page plan
+    6.  Website and landing page plan
 
-      - Website objectives
-      - KPIs
-      - Website structure
-      - Page recommendations
-      - Mock website or landing page
+        -   Website objectives
+        -   KPIs
+        -   Website structure
+        -   Page recommendations
+        -   Mock website or landing page
 
-  7.  Social media strategy
+    7.  Social media strategy
 
-      - Platform selection
-      - KPIs
-      - UTM tracking
-      - Profile recommendations
-      - Engagement strategy
-      - Content creation
-      - Content curation
-      - Mock posts
+        -   Platform selection
+        -   KPIs
+        -   UTM tracking
+        -   Profile recommendations
+        -   Engagement strategy
+        -   Content creation
+        -   Content curation
+        -   Mock posts
 
-  8.  Email marketing strategy
+    8.  Email marketing strategy
 
-      - Email objectives
-      - KPIs
-      - UTM tracking
-      - Email content plan
-      - Mock email
-      - A/B testing
+        -   Email objectives
+        -   KPIs
+        -   UTM tracking
+        -   Email content plan
+        -   Mock email
+        -   A/B testing
 
-  9.  Paid advertising strategy
+    9.  Paid advertising strategy
 
-      - Search advertising
-      - Display advertising
-      - Social media advertising
-      - Budget allocation
+        -   Search advertising
+        -   Display advertising
+        -   Social media advertising
+        -   Budget allocation
 
-  10. Other digital marketing channels and tactics
+    10. Other digital marketing channels and tactics
 
-      - Conversion rate optimization
-      - Mobile application
-      - Affiliate marketing
-      - Influencer campaigns
+        -   Conversion rate optimization
+        -   Mobile application
+        -   Affiliate marketing
+        -   Influencer campaigns
 
-  11. Implementation timeline
+    11. Implementation timeline
 :::
 
 #### How Should You Determine the Breadth of the Content?
 
 ::: {.callout-note .hl-yellow}
-- You cannot include every digital marketing component listed above because of factors such as time, budget, the client’s interests, and the project objectives.
+-   You cannot include every digital marketing component listed above because of factors such as time, budget, the client’s interests, and the project objectives.
 
-  - **Project objectives** are the most important consideration. Project objectives were developed early in the proposal stage of the project, shared with students, and agreed upon by all stakeholders, including the client, faculty, and students. The proposal, data collection, analysis, and recommendations should all be geared toward achieving the project objectives. Therefore, it makes the most sense to choose the most effective digital marketing channels, tactics, and methods rather than selecting them haphazardly.
+    -   **Project objectives** are the most important consideration. Project objectives were developed early in the proposal stage of the project, shared with students, and agreed upon by all stakeholders, including the client, faculty, and students. The proposal, data collection, analysis, and recommendations should all be geared toward achieving the project objectives. Therefore, it makes the most sense to choose the most effective digital marketing channels, tactics, and methods rather than selecting them haphazardly.
 
-    - The easiest and most effective way to determine the digital marketing plan is to **translate your recommendations into a concrete campaign plan**, assuming that your recommendations are based on insights from the data and/or literature. In other words, you should use insights from your analysis to create an actionable plan. Digital marketing components that cannot be justified should be avoided.
+        -   The easiest and most effective way to determine the digital marketing plan is to **translate your recommendations into a concrete campaign plan**, assuming that your recommendations are based on insights from the data and/or literature. In other words, you should use insights from your analysis to create an actionable plan. Digital marketing components that cannot be justified should be avoided.
 
-  - **Client requests** can also influence your decisions. Clients may feel that a change in the plan is necessary because of a new direction or shifting priorities in their business environment. Many things may have changed since the original project objectives were identified almost one year ago. In this situation, the group should weigh various factors, such as feasibility, the group’s interest in the new direction, value to the client, and educational value to the group. There is no single correct answer. All stakeholders, including students, clients, and the faculty lead, should have a thoughtful conversation to reach a consensus.
+    -   **Client requests** can also influence your decisions. Clients may feel that a change in the plan is necessary because of a new direction or shifting priorities in their business environment. Many things may have changed since the original project objectives were identified almost one year ago. In this situation, the group should weigh various factors, such as feasibility, the group’s interest in the new direction, value to the client, and educational value to the group. There is no single correct answer. All stakeholders, including students, clients, and the faculty lead, should have a thoughtful conversation to reach a consensus.
 :::
 
 #### Depth of Your Digital Marketing Plan
 
 ::: {.callout-important .hl-yellow}
-- Once you have decided on the scope of work, you will need to go deeper in your plan. How detailed should it be?
+-   Once you have decided on the scope of work, you will need to go deeper in your plan. How detailed should it be?
 
-- It should be detailed enough to help your audience picture what the execution would look like.
+-   It should be detailed enough to help your audience picture what the execution would look like.
 
-  - For example, if you propose a **social media campaign** with a series of social media posts, you should suggest the type of post, such as a carousel, story, reel, or graphic. You should also create the text and visuals that go along with it. *See the sample below*.
+    -   For example, if you propose a **social media campaign** with a series of social media posts, you should suggest the type of post, such as a carousel, story, reel, or graphic. You should also create the text and visuals that go along with it. *See the sample below*.
 
-  - If you propose a **website redesign with SEO**, simply describing it verbally would not be effective. You could create a mock website using a free website-building tool and show the homepage and other key pages. *See the sample below*.
+    -   If you propose a **website redesign with SEO**, simply describing it verbally would not be effective. You could create a mock website using a free website-building tool and show the homepage and other key pages. *See the sample below*.
 
-- Your goal is to show not only what the brand should do, but also why it should do it, how it should be executed, and how success should be measured.
+-   Your goal is to show not only what the brand should do, but also why it should do it, how it should be executed, and how success should be measured.
 :::
 
 ### Sample Digital Marketing Plan {#sec-sample-digital-marketing-plan .unnumbered}
 
 ::: callout-tip
-- To give you an idea, here is a sample of work by a group of students who participated in the [DMC Program](https://www.cpp.edu/cba/customer-insights-lab/student-success/dmc/dmc.shtml) under the guidance of two professors. The client was very pleased with the proposal and adopted the proposed concrete plans:
+-   To give you an idea, here is a sample of work by a group of students who participated in the [DMC Program](https://www.cpp.edu/cba/customer-insights-lab/student-success/dmc/dmc.shtml) under the guidance of two professors. The client was very pleased with the proposal and adopted the proposed concrete plans:
 
-  ```{=html}
-  <div style="text-align: center; margin: 1rem 0;">
-      <a href="https://livecsupomona-my.sharepoint.com/:b:/g/personal/jmjung_cpp_edu/IQAfb1fUY2QcRZo8tIlfl-EVAd1koabOBY-SNgPHJZoN4jU?e=l3D6k7"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="
-          display: inline-block;
-          padding: 0.7rem 1.5rem;
-          background-color: #FFB81C;
-          color: white;
-          font-weight: 600;
-          font-size: 1rem;
-          border-radius: 6px;
-          text-decoration: none;
-          border: 2px solid #FFB81C;
-          transition: background-color 0.2s ease, color 0.2s ease;
-      "
-      onmouseover="this.style.backgroundColor='#B08D57'; this.style.borderColor='#B08D57';"
-      onmouseout="this.style.backgroundColor='#FFB81C'; this.style.borderColor='#FFB81C';"
-      >
-      ▶ View a Digital Marketing Plan Proposal Presentation Slides (DMC Program Students)
-      </a>
-  </div>
-  ```
+    ```{=html}
+    <div style="text-align: center; margin: 1rem 0;">
+        <a href="https://livecsupomona-my.sharepoint.com/:b:/g/personal/jmjung_cpp_edu/IQAfb1fUY2QcRZo8tIlfl-EVAd1koabOBY-SNgPHJZoN4jU?e=l3D6k7"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="
+            display: inline-block;
+            padding: 0.7rem 1.5rem;
+            background-color: #FFB81C;
+            color: white;
+            font-weight: 600;
+            font-size: 1rem;
+            border-radius: 6px;
+            text-decoration: none;
+            border: 2px solid #FFB81C;
+            transition: background-color 0.2s ease, color 0.2s ease;
+        "
+        onmouseover="this.style.backgroundColor='#B08D57'; this.style.borderColor='#B08D57';"
+        onmouseout="this.style.backgroundColor='#FFB81C'; this.style.borderColor='#FFB81C';"
+        >
+        ▶ View a Digital Marketing Plan Proposal Presentation Slides (DMC Program Students)
+        </a>
+    </div>
+    ```
 
-- The **Digital Marketing Plan** proposal in the sample is quite comprehensive and reflects one semester of work. The students spent one semester understanding the client, analyzing competitors, and developing recommendations. Their research on past social media content revealed that certain types of posts outperformed others in engagement. Therefore, they focused on high-engagement content formats, such as reels and carousels.
+-   The **Digital Marketing Plan** proposal in the sample is quite comprehensive and reflects one semester of work. The students spent one semester understanding the client, analyzing competitors, and developing recommendations. Their research on past social media content revealed that certain types of posts outperformed others in engagement. Therefore, they focused on high-engagement content formats, such as reels and carousels.
 
-  - Based on this proposal, they spent another semester **implementing the plan**, which is explained in detail in the next section: @sec-implementation-digital-marketing-plan.
+    -   Based on this proposal, they spent another semester **implementing the plan**, which is explained in detail in the next section: @sec-implementation-digital-marketing-plan.
 
-  - **Note**: For your information, the [DMC Program](https://www.cpp.edu/cba/customer-insights-lab/student-success/dmc/dmc.shtml) is one of the initiatives at the *Center for Customer Insights and Digital Marketing*. It is intended to give selected undergraduate and graduate students a rich experiential learning opportunity. Many MSDM students in selected courses, such as IBM 6010, IBM 6100, and IBM 6300, have also participated in the past as part of the program under the same overall pedagogy established in the DMC Program.
+    -   **Note**: For your information, the [DMC Program](https://www.cpp.edu/cba/customer-insights-lab/student-success/dmc/dmc.shtml) is one of the initiatives at the *Center for Customer Insights and Digital Marketing*. It is intended to give selected undergraduate and graduate students a rich experiential learning opportunity. Many MSDM students in selected courses, such as IBM 6010, IBM 6100, and IBM 6300, have also participated in the past as part of the program under the same overall pedagogy established in the DMC Program.
 :::
 
 ### How Success is Measured? {#sec-how-success-is-measured .unnumbered}
 
 ::: {.callout-note .hl-yellow}
-- It is **critically important** that you must produce a Concrete Digital Marketing Plan --- @sec-digital-marketing-implementation-plan --- and get it approved by your faculty and client before you start the implementation, whiich is described in the next section --- @sec-implementation-digital-marketing-plan --- for a few reasons.
+-   It is **critically important** that you must produce a Concrete Digital Marketing Plan --- @sec-digital-marketing-implementation-plan --- and get it approved by your faculty and client before you start the implementation, whiich is described in the next section --- @sec-implementation-digital-marketing-plan --- for a few reasons.
 
-  - **Student Learning Outcome 4b** will be evaluated based on the **quality of your digital marketing plan**, not the implemenation outcome since successful implemenation often depend on various factors, some of which are beyond your control. If you do not produce a concrete plan, it will be difficult for you to achieve a high score on *SLO 4b* (see below).
+    -   **Student Learning Outcome 4b** will be evaluated based on the **quality of your digital marketing plan**, not the implemenation outcome since successful implemenation often depend on various factors, some of which are beyond your control. If you do not produce a concrete plan, it will be difficult for you to achieve a high score on *SLO 4b* (see below).
 
-    - A concrete plan will help you stay focused and organized during the implementation phase. It will serve as a **roadmap** for your implementation efforts and help you track your progress.
+        -   A concrete plan will help you stay focused and organized during the implementation phase. It will serve as a **roadmap** for your implementation efforts and help you track your progress.
 
-    - A concrete plan will also help you **communicate effectively** with your client and other stakeholders. It will ensure that everyone is on the same page regarding the goals, strategies, tactics, and expected outcomes of the campaign.
+        -   A concrete plan will also help you **communicate effectively** with your client and other stakeholders. It will ensure that everyone is on the same page regarding the goals, strategies, tactics, and expected outcomes of the campaign.
 
-- Also remember that the digital marketing plan should be based on **insights from your data analysis and/or literature review**.
+-   Also remember that the digital marketing plan should be based on **insights from your data analysis and/or literature review**.
 
-  - You should not include digital marketing components that cannot be justified by insights from your analysis or literature. A plan that includes unjustified components may not be effective and may not achieve the desired outcomes. Therefore, it is important to ensure that your plan is grounded in evidence and insights from your research.
+    -   You should not include digital marketing components that cannot be justified by insights from your analysis or literature. A plan that includes unjustified components may not be effective and may not achieve the desired outcomes. Therefore, it is important to ensure that your plan is grounded in evidence and insights from your research.
 
-- The MSDM Program will use the following Assessment Rubric
+-   The MSDM Program will use the following Assessment Rubric
 
-  **Assessment Rubric for SLO 4b: Develop an effective digital marketing plan.** The following rubric will be used to evaluate the quality of your digital marketing plan. Make sure to review this rubric carefully and use it as a guide when writing your plan.
+    **Assessment Rubric for SLO 4b: Develop an effective digital marketing plan.** The following rubric will be used to evaluate the quality of your digital marketing plan. Make sure to review this rubric carefully and use it as a guide when writing your plan.
 
-  ![](images/slo-4b.png)
+    ![](images/slo-4b.png)
 :::
 
 ::: callout-tip
 ### Comprehensive Guide for the Digital Marketing Plan
 
-- Below is a **comprehensive guide that expands on the structure provided above**. Students should choose the digital marketing channels and tactics that are most appropriate for achieving the project objectives.
+-   Below is a **comprehensive guide that expands on the structure provided above**. Students should choose the digital marketing channels and tactics that are most appropriate for achieving the project objectives.
 
-- Note that you are not required to include all the components listed below. The key is to ensure that your plan is comprehensive enough to achieve the project objectives and is based on insights from your data analysis and/or literature review. You should also ensure that your plan is actionable, specific, and measurable.
+-   Note that you are not required to include all the components listed below. The key is to ensure that your plan is comprehensive enough to achieve the project objectives and is based on insights from your data analysis and/or literature review. You should also ensure that your plan is actionable, specific, and measurable.
 :::
 
 ### Target Market
@@ -1133,28 +1145,28 @@ Define the specific audience your campaign will target.
 
 Include relevant characteristics such as:
 
-- Demographics\
-  For example: age, gender, income, education, location
-- Psychographics\
-  For example: lifestyle, values, motivations, interests
-- Behavioral characteristics\
-  For example: online search behavior, purchase behavior, media usage
-- Needs or pain points
-- Preferred digital platforms
-- Stage in the customer journey
+-   Demographics\
+    For example: age, gender, income, education, location
+-   Psychographics\
+    For example: lifestyle, values, motivations, interests
+-   Behavioral characteristics\
+    For example: online search behavior, purchase behavior, media usage
+-   Needs or pain points
+-   Preferred digital platforms
+-   Stage in the customer journey
 
 You may also create one or more **customer personas** to make the target audience more concrete.
 
 Each persona may include:
 
-- Name
-- Age
-- Occupation or student status
-- Lifestyle
-- Goals
-- Frustrations
-- Media habits
-- Reason for buying or engaging with the brand
+-   Name
+-   Age
+-   Occupation or student status
+-   Lifestyle
+-   Goals
+-   Frustrations
+-   Media habits
+-   Reason for buying or engaging with the brand
 
 ### Positioning and Perceptual Map
 
@@ -1162,18 +1174,18 @@ Explain how the brand should be positioned in the market based on your analysis.
 
 You should include:
 
-- Main competitors
-- Key dimensions of comparison\
-  For example: price, quality, sustainability, convenience, authenticity, innovation, luxury, accessibility
-- A perceptual map showing where the brand currently stands and/or where it should be positioned
-- Explanation of the desired brand position
+-   Main competitors
+-   Key dimensions of comparison\
+    For example: price, quality, sustainability, convenience, authenticity, innovation, luxury, accessibility
+-   A perceptual map showing where the brand currently stands and/or where it should be positioned
+-   Explanation of the desired brand position
 
 Your discussion should answer:
 
-- What makes the brand different?
-- Why should the target market care?
-- How should customers perceive the brand after the campaign?
-- How does this positioning respond to the data analysis?
+-   What makes the brand different?
+-   Why should the target market care?
+-   How should customers perceive the brand after the campaign?
+-   How does this positioning respond to the data analysis?
 
 ### Brand Persona
 
@@ -1181,15 +1193,15 @@ Describe the brand personality that should guide the tone, visuals, and messagin
 
 Include:
 
-- Brand voice\
-  For example: professional, friendly, playful, inspirational, premium, educational
-- Visual style\
-  For example: minimalist, colorful, natural, bold, youthful
-- Emotional appeal
-- Key message themes
-- Example phrases or slogans
-- Words the brand should use
-- Words the brand should avoid
+-   Brand voice\
+    For example: professional, friendly, playful, inspirational, premium, educational
+-   Visual style\
+    For example: minimalist, colorful, natural, bold, youthful
+-   Emotional appeal
+-   Key message themes
+-   Example phrases or slogans
+-   Words the brand should use
+-   Words the brand should avoid
 
 This section helps ensure that all website, social media, email, and advertising content feels consistent.
 
@@ -1199,19 +1211,19 @@ Clearly state the main objectives of your digital marketing campaign.
 
 Use **SMART objectives** whenever possible. Objectives should be:
 
-- Specific
-- Measurable
-- Achievable
-- Relevant
-- Time-bound
+-   Specific
+-   Measurable
+-   Achievable
+-   Relevant
+-   Time-bound
 
 Examples:
 
-- Increase website traffic by 20% within three months.
-- Increase email sign-ups by 15% during the campaign period.
-- Improve Instagram engagement rate from 2% to 4%.
-- Increase product page visits from paid search ads by 25%.
-- Generate 100 qualified leads through landing page form submissions.
+-   Increase website traffic by 20% within three months.
+-   Increase email sign-ups by 15% during the campaign period.
+-   Improve Instagram engagement rate from 2% to 4%.
+-   Increase product page visits from paid search ads by 25%.
+-   Generate 100 qualified leads through landing page form submissions.
 
 You may list your objectives as:
 
@@ -1241,11 +1253,11 @@ Explain how SEO will support your campaign objectives.
 
 For example, SEO may help the brand:
 
-- Improve visibility on search engines
-- Attract high-intent visitors
-- Increase organic traffic
-- Improve ranking for relevant keywords
-- Support product, service, or content discovery
+-   Improve visibility on search engines
+-   Attract high-intent visitors
+-   Increase organic traffic
+-   Improve ranking for relevant keywords
+-   Support product, service, or content discovery
 
 #### Keyword Research and Ranking
 
@@ -1253,14 +1265,14 @@ Conduct keyword research based on your target market and campaign goals.
 
 Include:
 
-- Seed keywords
-- Search intent\
-  For example: informational, navigational, commercial, transactional
-- Search volume, if available
-- Keyword difficulty, if available
-- Relevance to the brand
-- Current ranking, if available
-- Competitor ranking, if available
+-   Seed keywords
+-   Search intent\
+    For example: informational, navigational, commercial, transactional
+-   Search volume, if available
+-   Keyword difficulty, if available
+-   Relevance to the brand
+-   Current ranking, if available
+-   Competitor ranking, if available
 
 You should identify the **top five best keywords for each seed keyword** and explain why they were selected.
 
@@ -1277,11 +1289,11 @@ Map selected keywords to specific pages of the website.
 
 Include:
 
-- Homepage keywords
-- Product or service page keywords
-- Blog or educational content keywords
-- Landing page keywords
-- FAQ page keywords
+-   Homepage keywords
+-   Product or service page keywords
+-   Blog or educational content keywords
+-   Landing page keywords
+-   FAQ page keywords
 
 Explain how the keywords match the purpose of each page.
 
@@ -1291,21 +1303,21 @@ Suggest content that can improve organic search performance.
 
 Examples:
 
-- Blog posts
-- FAQ pages
-- Product guides
-- How-to articles
-- Comparison pages
-- Educational videos
-- Local SEO content, if relevant
+-   Blog posts
+-   FAQ pages
+-   Product guides
+-   How-to articles
+-   Comparison pages
+-   Educational videos
+-   Local SEO content, if relevant
 
 Each content idea should include:
 
-- Target keyword
-- Target audience
-- Search intent
-- Brief content description
-- Expected KPI
+-   Target keyword
+-   Target audience
+-   Search intent
+-   Brief content description
+-   Expected KPI
 
 ### Website and Landing Page Plan
 
@@ -1315,13 +1327,13 @@ Explain the role of the website in your digital marketing plan.
 
 For example, the website may be designed to:
 
-- Generate leads
-- Increase purchases
-- Educate customers
-- Build trust
-- Encourage newsletter sign-ups
-- Drive appointment bookings
-- Support brand awareness
+-   Generate leads
+-   Increase purchases
+-   Educate customers
+-   Build trust
+-   Encourage newsletter sign-ups
+-   Drive appointment bookings
+-   Support brand awareness
 
 #### Relevant Website KPIs
 
@@ -1329,18 +1341,18 @@ Select KPIs that match your website objectives.
 
 Possible KPIs include:
 
-- Form submissions
-- Conversion rate
-- Bounce rate
-- Average session duration
-- Number of purchases
-- Number of sessions
-- Number of visitors
-- Pages per session
-- Add-to-cart rate
-- Newsletter sign-ups
-- Click-through rate on key buttons
-- Landing page conversion rate
+-   Form submissions
+-   Conversion rate
+-   Bounce rate
+-   Average session duration
+-   Number of purchases
+-   Number of sessions
+-   Number of visitors
+-   Pages per session
+-   Add-to-cart rate
+-   Newsletter sign-ups
+-   Click-through rate on key buttons
+-   Landing page conversion rate
 
 Do not simply list KPIs. Explain why each KPI is relevant.
 
@@ -1350,15 +1362,15 @@ Provide a clear website structure or hierarchy.
 
 For example:
 
-- Homepage
-- About Us
-- Products or Services
-- Product Detail Pages
-- Blog or Resources
-- Reviews or Testimonials
-- FAQ
-- Contact Us
-- Landing Page for Campaign
+-   Homepage
+-   About Us
+-   Products or Services
+-   Product Detail Pages
+-   Blog or Resources
+-   Reviews or Testimonials
+-   FAQ
+-   Contact Us
+-   Landing Page for Campaign
 
 You may include a simple sitemap or visual hierarchy.
 
@@ -1366,22 +1378,22 @@ You may include a simple sitemap or visual hierarchy.
 
 For each important page, describe:
 
-- Page goal
-- Target audience
-- Main message
-- Key sections
-- Call-to-action
-- Target keywords
-- Relevant KPIs
+-   Page goal
+-   Target audience
+-   Main message
+-   Key sections
+-   Call-to-action
+-   Target keywords
+-   Relevant KPIs
 
 Example:
 
 **Homepage**
 
-- Goal: Introduce the brand and direct visitors to key products.
-- Main message: Affordable, sustainable products for everyday use.
-- CTA: Shop Now / Learn More / Sign Up.
-- KPI: Click-through rate to product pages.
+-   Goal: Introduce the brand and direct visitors to key products.
+-   Main message: Affordable, sustainable products for everyday use.
+-   CTA: Shop Now / Learn More / Sign Up.
+-   KPI: Click-through rate to product pages.
 
 #### Mock Website or Landing Page
 
@@ -1389,15 +1401,15 @@ Create a mock website, landing page, or wireframe.
 
 Your mockup should show:
 
-- Page layout
-- Main headline
-- Key visuals
-- Navigation menu
-- Call-to-action buttons
-- Product or service information
-- Trust-building elements\
-  For example: reviews, testimonials, certifications, awards
-- Lead capture or purchase path
+-   Page layout
+-   Main headline
+-   Key visuals
+-   Navigation menu
+-   Call-to-action buttons
+-   Product or service information
+-   Trust-building elements\
+    For example: reviews, testimonials, certifications, awards
+-   Lead capture or purchase path
 
 You may use tools such as Canva, Figma, Wix, Shopify mockups, PowerPoint, or another design tool.
 
@@ -1409,14 +1421,14 @@ Explain how social media supports your campaign goals.
 
 Possible objectives include:
 
-- Build brand awareness
-- Increase engagement
-- Drive website traffic
-- Generate leads
-- Build community
-- Promote products or services
-- Encourage user-generated content
-- Improve brand trust
+-   Build brand awareness
+-   Increase engagement
+-   Drive website traffic
+-   Generate leads
+-   Build community
+-   Promote products or services
+-   Encourage user-generated content
+-   Improve brand trust
 
 #### Relevant Social Media KPIs
 
@@ -1424,20 +1436,20 @@ Choose KPIs that match your social media goals.
 
 Possible KPIs include:
 
-- Reach
-- Impressions
-- Engagement rate
-- Likes
-- Comments
-- Shares
-- Saves
-- Follower growth
-- Video views
-- Reel completion rate
-- Story interactions
-- Link clicks
-- Website sessions from social media
-- Conversions from social media traffic
+-   Reach
+-   Impressions
+-   Engagement rate
+-   Likes
+-   Comments
+-   Shares
+-   Saves
+-   Follower growth
+-   Video views
+-   Reel completion rate
+-   Story interactions
+-   Link clicks
+-   Website sessions from social media
+-   Conversions from social media traffic
 
 Explain why each KPI matters.
 
@@ -1447,12 +1459,12 @@ Explain how UTM parameters and GA4 can be used to track social media performance
 
 You should identify:
 
-- Campaign source\
-  For example: Instagram, TikTok, LinkedIn
-- Campaign medium\
-  For example: social, paid-social, influencer
-- Campaign name
-- Content variation, if relevant
+-   Campaign source\
+    For example: Instagram, TikTok, LinkedIn
+-   Campaign medium\
+    For example: social, paid-social, influencer
+-   Campaign name
+-   Content variation, if relevant
 
 Example:
 
@@ -1466,21 +1478,21 @@ Identify the most relevant social media platforms for the campaign.
 
 For each platform, explain:
 
-- Why the platform fits the target market
-- What type of content should be posted there
-- How often content should be posted
-- What role the platform plays in the customer journey
+-   Why the platform fits the target market
+-   What type of content should be posted there
+-   How often content should be posted
+-   What role the platform plays in the customer journey
 
 Possible platforms include:
 
-- Instagram
-- TikTok
-- Facebook
-- YouTube
-- LinkedIn
-- Pinterest
-- X/Twitter
-- Snapchat
+-   Instagram
+-   TikTok
+-   Facebook
+-   YouTube
+-   LinkedIn
+-   Pinterest
+-   X/Twitter
+-   Snapchat
 
 Avoid using every platform unless there is a clear strategic reason.
 
@@ -1490,25 +1502,25 @@ Recommend improvements to the brand’s social media profile.
 
 Include:
 
-- Logo or profile image
-- Bio/profile description
-- Link in bio
-- Contact information
-- Highlight covers
-- Pinned posts
-- Visual consistency
-- Brand tone
+-   Logo or profile image
+-   Bio/profile description
+-   Link in bio
+-   Contact information
+-   Highlight covers
+-   Pinned posts
+-   Visual consistency
+-   Brand tone
 
 Suggested Instagram highlights:
 
-- Our Story
-- Announcements
-- Product Highlights
-- Reviews
-- Behind the Scenes
-- FAQs
-- Promotions
-- Customer Stories
+-   Our Story
+-   Announcements
+-   Product Highlights
+-   Reviews
+-   Behind the Scenes
+-   FAQs
+-   Promotions
+-   Customer Stories
 
 #### Social Media Engagement Strategies
 
@@ -1516,18 +1528,18 @@ Explain how the campaign will encourage audience interaction.
 
 Discuss strategies such as:
 
-- Reels
-- Stories
-- Static images
-- Carousel posts
-- Polls
-- Q&A stickers
-- Hashtags
-- User-generated content
-- Giveaways or contests, if appropriate
-- Influencer or creator collaboration
-- Comment prompts
-- Community management
+-   Reels
+-   Stories
+-   Static images
+-   Carousel posts
+-   Polls
+-   Q&A stickers
+-   Hashtags
+-   User-generated content
+-   Giveaways or contests, if appropriate
+-   Influencer or creator collaboration
+-   Comment prompts
+-   Community management
 
 For each strategy, explain the intended effect.
 
@@ -1541,24 +1553,24 @@ Propose original content ideas created by the brand.
 
 For each idea, include:
 
-- Content title or theme
-- Platform
-- Format\
-  For example: Reel, story, carousel, blog, video, short post
-- Target audience
-- Key message
-- Call-to-action
-- Relevant KPI
+-   Content title or theme
+-   Platform
+-   Format\
+    For example: Reel, story, carousel, blog, video, short post
+-   Target audience
+-   Key message
+-   Call-to-action
+-   Relevant KPI
 
 Example format:
 
 **Content Idea #1: “How to Use the Product in 30 Seconds”**
 
-- Platform: Instagram Reels and TikTok
-- Format: Short-form video
-- Goal: Product education and awareness
-- CTA: Visit product page
-- KPI: Video views, saves, link clicks
+-   Platform: Instagram Reels and TikTok
+-   Format: Short-form video
+-   Goal: Product education and awareness
+-   CTA: Visit product page
+-   KPI: Video views, saves, link clicks
 
 Students should provide several content ideas, not just general descriptions.
 
@@ -1568,20 +1580,20 @@ Suggest curated content that the brand can share from other credible sources or 
 
 Examples:
 
-- Customer reviews
-- User-generated photos or videos
-- Industry news
-- Expert tips
-- Partner content
-- Influencer mentions
-- Community stories
+-   Customer reviews
+-   User-generated photos or videos
+-   Industry news
+-   Expert tips
+-   Partner content
+-   Influencer mentions
+-   Community stories
 
 For each curated content idea, explain:
 
-- Source
-- Why it is relevant
-- How it supports the brand persona
-- How permission or credit will be handled, if applicable
+-   Source
+-   Why it is relevant
+-   How it supports the brand persona
+-   How permission or credit will be handled, if applicable
 
 #### Mock Social Media Posts
 
@@ -1589,13 +1601,13 @@ Create mock posts for the most relevant platforms.
 
 Each mock post should include:
 
-- Visual or design mockup
-- Caption
-- Hashtags
-- Call-to-action
-- Platform
-- Objective
-- KPI
+-   Visual or design mockup
+-   Caption
+-   Hashtags
+-   Call-to-action
+-   Platform
+-   Objective
+-   KPI
 
 Students should make sure the mock posts match the brand persona and campaign objectives.
 
@@ -1607,13 +1619,13 @@ Explain the role of email marketing in the campaign.
 
 Possible objectives include:
 
-- Nurture leads
-- Promote products
-- Increase repeat purchases
-- Encourage sign-ups
-- Share educational content
-- Recover abandoned carts
-- Build customer loyalty
+-   Nurture leads
+-   Promote products
+-   Increase repeat purchases
+-   Encourage sign-ups
+-   Share educational content
+-   Recover abandoned carts
+-   Build customer loyalty
 
 #### Relevant Email KPIs
 
@@ -1621,15 +1633,15 @@ Choose KPIs that match the email objectives.
 
 Possible KPIs include:
 
-- Open rate
-- Click-through rate
-- Conversion rate
-- Unsubscribe rate
-- Bounce rate
-- Email sign-ups
-- Revenue per email
-- Abandoned cart recovery rate
-- List growth rate
+-   Open rate
+-   Click-through rate
+-   Conversion rate
+-   Unsubscribe rate
+-   Bounce rate
+-   Email sign-ups
+-   Revenue per email
+-   Abandoned cart recovery rate
+-   List growth rate
 
 Explain why each KPI is important.
 
@@ -1649,35 +1661,35 @@ Develop specific email content ideas.
 
 For each email, include:
 
-- Email purpose
-- Target segment
-- Subject line
-- Preview text
-- Main message
-- Call-to-action
-- Timing
-- KPI
+-   Email purpose
+-   Target segment
+-   Subject line
+-   Preview text
+-   Main message
+-   Call-to-action
+-   Timing
+-   KPI
 
 Example emails:
 
 **Email #1: Welcome Email**
 
-- Purpose: Introduce the brand and encourage first visit.
-- Subject line: Welcome to \[Brand Name\]
-- CTA: Explore Our Products
-- KPI: Open rate and click-through rate
+-   Purpose: Introduce the brand and encourage first visit.
+-   Subject line: Welcome to \[Brand Name\]
+-   CTA: Explore Our Products
+-   KPI: Open rate and click-through rate
 
 **Email #2: Product Education Email**
 
-- Purpose: Explain product benefits.
-- CTA: Learn More
-- KPI: Click-through rate
+-   Purpose: Explain product benefits.
+-   CTA: Learn More
+-   KPI: Click-through rate
 
 **Email #3: Promotional Email**
 
-- Purpose: Encourage purchase.
-- CTA: Shop Now
-- KPI: Conversion rate
+-   Purpose: Encourage purchase.
+-   CTA: Shop Now
+-   KPI: Conversion rate
 
 #### Mock Email
 
@@ -1685,15 +1697,15 @@ Create a mock email design.
 
 The mock email should include:
 
-- Subject line
-- Preview text
-- Header
-- Main image or visual
-- Body copy
-- Call-to-action button
-- Footer
-- Brand-consistent design
-- UTM-tagged links, if applicable
+-   Subject line
+-   Preview text
+-   Header
+-   Main image or visual
+-   Body copy
+-   Call-to-action button
+-   Footer
+-   Brand-consistent design
+-   UTM-tagged links, if applicable
 
 #### A/B Testing Plan
 
@@ -1701,21 +1713,21 @@ Propose at least one A/B test.
 
 Possible A/B tests include:
 
-- Subject line A vs. subject line B
-- CTA button wording
-- Email layout
-- Promotional offer
-- Personalization
-- Send time
-- Image vs. no image
+-   Subject line A vs. subject line B
+-   CTA button wording
+-   Email layout
+-   Promotional offer
+-   Personalization
+-   Send time
+-   Image vs. no image
 
 For each test, include:
 
-- Hypothesis
-- Version A
-- Version B
-- KPI used to determine the winner
-- How results would inform future campaigns
+-   Hypothesis
+-   Version A
+-   Version B
+-   KPI used to determine the winner
+-   How results would inform future campaigns
 
 ### Paid Advertising Strategy
 
@@ -1725,96 +1737,96 @@ Explain why paid advertising is needed.
 
 Paid ads may be used to:
 
-- Increase awareness quickly
-- Drive traffic to a landing page
-- Retarget website visitors
-- Promote a specific product
-- Generate leads
-- Support campaign launch
-- Improve conversion volume
+-   Increase awareness quickly
+-   Drive traffic to a landing page
+-   Retarget website visitors
+-   Promote a specific product
+-   Generate leads
+-   Support campaign launch
+-   Improve conversion volume
 
 #### Search Advertising
 
 If search ads are relevant, include:
 
-- Campaign objective
-- Target keywords
-- Match types, if applicable
-- Ad groups
-- Example ad copy
-- Landing page
-- Budget recommendation
-- Bidding strategy
-- Relevant KPIs
+-   Campaign objective
+-   Target keywords
+-   Match types, if applicable
+-   Ad groups
+-   Example ad copy
+-   Landing page
+-   Budget recommendation
+-   Bidding strategy
+-   Relevant KPIs
 
 Possible KPIs:
 
-- Click-through rate
-- Cost per click
-- Conversion rate
-- Cost per conversion
-- Quality score
-- Return on ad spend
+-   Click-through rate
+-   Cost per click
+-   Conversion rate
+-   Cost per conversion
+-   Quality score
+-   Return on ad spend
 
 Example structure:
 
 **Search Advertising Campaign**
 
-- Campaign goal: Drive high-intent traffic to product page.
-- Target keyword: “organic face cream”
-- Headline: Natural Skincare for Everyday Glow
-- CTA: Shop Now
-- Landing page: Product page
-- KPI: Conversion rate and cost per conversion
+-   Campaign goal: Drive high-intent traffic to product page.
+-   Target keyword: “organic face cream”
+-   Headline: Natural Skincare for Everyday Glow
+-   CTA: Shop Now
+-   Landing page: Product page
+-   KPI: Conversion rate and cost per conversion
 
 #### Display Advertising
 
 If display ads are relevant, include:
 
-- Campaign objective
-- Target audience
-- Placement strategy
-- Visual message
-- Example banner ad
-- Landing page
-- Retargeting strategy, if applicable
-- Relevant KPIs
+-   Campaign objective
+-   Target audience
+-   Placement strategy
+-   Visual message
+-   Example banner ad
+-   Landing page
+-   Retargeting strategy, if applicable
+-   Relevant KPIs
 
 Possible KPIs:
 
-- Impressions
-- Reach
-- Click-through rate
-- View-through conversions
-- Cost per thousand impressions
-- Cost per click
+-   Impressions
+-   Reach
+-   Click-through rate
+-   View-through conversions
+-   Cost per thousand impressions
+-   Cost per click
 
 #### Social Media Advertising
 
 If social media ads are relevant, include:
 
-- Platform
-- Campaign objective
-- Target audience
-- Ad format\
-  For example: image ad, video ad, carousel ad, story ad, reel ad
-- Example creative
-- Ad copy
-- Call-to-action
-- Budget recommendation
-- Landing page
-- Relevant KPIs
+-   Platform
+-   Campaign objective
+-   Target audience
+-   Ad format\
+    For example: image ad, video ad, carousel ad, story ad, reel ad
+-   Example creative
+-   Ad copy
+-   Call-to-action
+-   Budget recommendation
+-   Landing page
+-   Relevant KPIs
 
 Possible KPIs:
 
-- Reach
-- Impressions
-- Engagement
-- Click-through rate
-- Cost per click
-- Cost per lead
-- Cost per acquisition
-- Return on ad spend
+-   Reach
+-   Impressions
+-   Engagement
+-   Click-through rate
+-   Cost per click
+-   Cost per lead
+-   Cost per acquisition
+-   Return on ad spend
 
 #### Paid Advertising Budget Allocation
 
@@ -1845,61 +1857,61 @@ Discuss how the brand can improve conversion performance through website, landin
 
 Possible CRO recommendations include:
 
-- Improving call-to-action buttons
+-   Improving call-to-action buttons
 
-- Simplifying forms
+-   Simplifying forms
 
-- Reducing checkout steps
+-   Reducing checkout steps
 
-- Improving landing page headlines
+-   Improving landing page headlines
 
-- Adding customer reviews or testimonials
+-   Adding customer reviews or testimonials
 
-- Adding trust signals, such as secure payment icons, certifications, guarantees, or return policies
+-   Adding trust signals, such as secure payment icons, certifications, guarantees, or return policies
 
-- Improving product descriptions
+-   Improving product descriptions
 
-- Making pricing or offers clearer
+-   Making pricing or offers clearer
 
-- Improving page speed
+-   Improving page speed
 
-- Improving mobile usability
+-   Improving mobile usability
 
-- Reducing distractions on key landing pages
+-   Reducing distractions on key landing pages
 
-- Adding live chat or chatbot support
+-   Adding live chat or chatbot support
 
-- Testing different page layouts
+-   Testing different page layouts
 
-- Creating stronger product images or videos
+-   Creating stronger product images or videos
 
 **Suggested CRO Questions**
 
 Students should answer questions such as:
 
-- What is the main conversion goal?
-- Where in the customer journey might users hesitate or drop off?
-- What website or landing page element should be improved?
-- What change would make the user more likely to act?
-- How does this recommendation connect to your previous data analysis?
-- How would you test whether the improvement worked?
+-   What is the main conversion goal?
+-   Where in the customer journey might users hesitate or drop off?
+-   What website or landing page element should be improved?
+-   What change would make the user more likely to act?
+-   How does this recommendation connect to your previous data analysis?
+-   How would you test whether the improvement worked?
 
 **Relevant CRO KPIs**
 
 Possible KPIs include:
 
-- Conversion rate
-- Landing page conversion rate
-- Add-to-cart rate
-- Checkout completion rate
-- Form completion rate
-- Click-through rate on CTA buttons
-- Bounce rate
-- Exit rate
-- Average session duration
-- Cart abandonment rate
-- Cost per conversion
-- Revenue per visitor
+-   Conversion rate
+-   Landing page conversion rate
+-   Add-to-cart rate
+-   Checkout completion rate
+-   Form completion rate
+-   Click-through rate on CTA buttons
+-   Bounce rate
+-   Exit rate
+-   Average session duration
+-   Cart abandonment rate
+-   Cost per conversion
+-   Revenue per visitor
 
 **Example CRO Recommendation**
 
@@ -1917,52 +1929,52 @@ Explain whether a mobile app is appropriate for the brand and campaign.
 
 Possible mobile app features include:
 
-- Loyalty program
-- Personalized product recommendations
-- Push notifications
-- Mobile ordering or booking
-- Appointment scheduling
-- Rewards points
-- Exclusive app-only promotions
-- Product scanning or augmented reality features
-- Customer support chat
-- User account/profile
-- Saved favorites or wish list
-- Subscription management
-- In-app educational content
-- Location-based offers
-- Community features
+-   Loyalty program
+-   Personalized product recommendations
+-   Push notifications
+-   Mobile ordering or booking
+-   Appointment scheduling
+-   Rewards points
+-   Exclusive app-only promotions
+-   Product scanning or augmented reality features
+-   Customer support chat
+-   User account/profile
+-   Saved favorites or wish list
+-   Subscription management
+-   In-app educational content
+-   Location-based offers
+-   Community features
 
 **Suggested Mobile App Questions**
 
 Students should answer:
 
-- Why would customers download and continue using the app?
-- What problem does the app solve better than a website or social media page?
-- Which customer segment would benefit most?
-- What features are essential?
-- How does the app support repeat engagement, loyalty, or conversion?
-- What resources would be required to develop and maintain the app?
-- Would a mobile-optimized website be more realistic than an app?
+-   Why would customers download and continue using the app?
+-   What problem does the app solve better than a website or social media page?
+-   Which customer segment would benefit most?
+-   What features are essential?
+-   How does the app support repeat engagement, loyalty, or conversion?
+-   What resources would be required to develop and maintain the app?
+-   Would a mobile-optimized website be more realistic than an app?
 
 **Relevant Mobile App KPIs**
 
 Possible KPIs include:
 
-- App downloads
-- App installs
-- Active users
-- Daily active users
-- Monthly active users
-- User retention rate
-- Churn rate
-- Push notification open rate
-- In-app purchases
-- App conversion rate
-- Average order value
-- Session frequency
-- App store rating
-- Cost per install
+-   App downloads
+-   App installs
+-   Active users
+-   Daily active users
+-   Monthly active users
+-   User retention rate
+-   Churn rate
+-   Push notification open rate
+-   In-app purchases
+-   App conversion rate
+-   Average order value
+-   Session frequency
+-   App store rating
+-   Cost per install
 
 **Example Mobile App Recommendation**
 
@@ -1980,54 +1992,54 @@ Describe how an affiliate program could support the campaign.
 
 Students should specify:
 
-- Type of affiliate partners
-- Target audience reached by affiliates
-- Commission structure
-- Promotional rules or brand guidelines
-- Tracking method
-- Landing page or offer used
-- Expected benefit to the campaign
+-   Type of affiliate partners
+-   Target audience reached by affiliates
+-   Commission structure
+-   Promotional rules or brand guidelines
+-   Tracking method
+-   Landing page or offer used
+-   Expected benefit to the campaign
 
 Possible affiliate partners include:
 
-- Bloggers
-- Review websites
-- Niche content creators
-- YouTubers
-- Newsletter publishers
-- Coupon or deal websites
-- Industry experts
-- Comparison websites
-- Community groups
-- Podcast hosts
+-   Bloggers
+-   Review websites
+-   Niche content creators
+-   YouTubers
+-   Newsletter publishers
+-   Coupon or deal websites
+-   Industry experts
+-   Comparison websites
+-   Community groups
+-   Podcast hosts
 
 **Suggested Affiliate Marketing Questions**
 
 Students should answer:
 
-- What type of affiliate partners fit the brand?
-- Why would these partners influence the target audience?
-- What offer or incentive would affiliates promote?
-- What commission or reward structure would be appropriate?
-- How would affiliate sales or leads be tracked?
-- How would the brand ensure affiliates represent the brand accurately?
-- What risks should be managed?
+-   What type of affiliate partners fit the brand?
+-   Why would these partners influence the target audience?
+-   What offer or incentive would affiliates promote?
+-   What commission or reward structure would be appropriate?
+-   How would affiliate sales or leads be tracked?
+-   How would the brand ensure affiliates represent the brand accurately?
+-   What risks should be managed?
 
 **Relevant Affiliate Marketing KPIs**
 
 Possible KPIs include:
 
-- Affiliate-generated traffic
-- Affiliate conversion rate
-- Number of affiliate partners
-- Sales generated by affiliates
-- Leads generated by affiliates
-- Cost per acquisition
-- Revenue from affiliate channel
-- Return on ad spend or return on affiliate investment
-- Average order value
-- New customer acquisition
-- Refund or cancellation rate by affiliate source
+-   Affiliate-generated traffic
+-   Affiliate conversion rate
+-   Number of affiliate partners
+-   Sales generated by affiliates
+-   Leads generated by affiliates
+-   Cost per acquisition
+-   Revenue from affiliate channel
+-   Return on ad spend or return on affiliate investment
+-   Average order value
+-   New customer acquisition
+-   Refund or cancellation rate by affiliate source
 
 **Example Affiliate Marketing Recommendation**
 
@@ -2045,67 +2057,67 @@ Describe the proposed influencer campaign strategy.
 
 Students should specify:
 
-- Type of influencer\
-  For example: nano, micro, mid-tier, macro, or celebrity
-- Platform\
-  For example: Instagram, TikTok, YouTube, LinkedIn, Twitch
-- Target audience
-- Campaign goal
-- Influencer selection criteria
-- Content format
-- Key message
-- Offer or call-to-action
-- Tracking method
-- Compensation approach
-- Brand guidelines
+-   Type of influencer\
+    For example: nano, micro, mid-tier, macro, or celebrity
+-   Platform\
+    For example: Instagram, TikTok, YouTube, LinkedIn, Twitch
+-   Target audience
+-   Campaign goal
+-   Influencer selection criteria
+-   Content format
+-   Key message
+-   Offer or call-to-action
+-   Tracking method
+-   Compensation approach
+-   Brand guidelines
 
 Possible influencer campaign formats include:
 
-- Product review
-- Tutorial
-- Unboxing
-- Day-in-the-life content
-- Before-and-after demonstration
-- Sponsored post
-- Sponsored reel or TikTok
-- YouTube integration
-- Giveaway
-- Live stream
-- Discount code promotion
-- Affiliate-style influencer partnership
-- Brand ambassador program
+-   Product review
+-   Tutorial
+-   Unboxing
+-   Day-in-the-life content
+-   Before-and-after demonstration
+-   Sponsored post
+-   Sponsored reel or TikTok
+-   YouTube integration
+-   Giveaway
+-   Live stream
+-   Discount code promotion
+-   Affiliate-style influencer partnership
+-   Brand ambassador program
 
 **Suggested Influencer Campaign Questions**
 
 Students should answer:
 
-- Why is influencer marketing appropriate for this campaign?
-- What type of influencer is most suitable for the target market?
-- What audience should the influencer reach?
-- What platform should be used?
-- What content should the influencer create?
-- How will the campaign maintain authenticity?
-- How will the brand track results?
-- What risks should be managed, such as poor brand fit or low engagement quality?
+-   Why is influencer marketing appropriate for this campaign?
+-   What type of influencer is most suitable for the target market?
+-   What audience should the influencer reach?
+-   What platform should be used?
+-   What content should the influencer create?
+-   How will the campaign maintain authenticity?
+-   How will the brand track results?
+-   What risks should be managed, such as poor brand fit or low engagement quality?
 
 **Relevant Influencer Campaign KPIs**
 
 Possible KPIs include:
 
-- Reach
-- Impressions
-- Engagement rate
-- Video views
-- Completion rate
-- Saves and shares
-- Follower growth
-- Link clicks
-- Website traffic from influencer links
-- Discount code redemptions
-- Leads or sales generated
-- Cost per engagement
-- Cost per acquisition
-- Earned media value, if applicable
+-   Reach
+-   Impressions
+-   Engagement rate
+-   Video views
+-   Completion rate
+-   Saves and shares
+-   Follower growth
+-   Link clicks
+-   Website traffic from influencer links
+-   Discount code redemptions
+-   Leads or sales generated
+-   Cost per engagement
+-   Cost per acquisition
+-   Earned media value, if applicable
 
 **Example Influencer Campaign Recommendation**
 
@@ -2117,15 +2129,15 @@ Provide a realistic timeline for campaign execution.
 
 The timeline may include:
 
-- Preparation phase
-- Content creation
-- Website updates
-- SEO implementation
-- Social media launch
-- Email campaign launch
-- Paid advertising launch
-- Monitoring and optimization
-- Final evaluation
+-   Preparation phase
+-   Content creation
+-   Website updates
+-   SEO implementation
+-   Social media launch
+-   Email campaign launch
+-   Paid advertising launch
+-   Monitoring and optimization
+-   Final evaluation
 
 Suggested format:
 
@@ -2145,37 +2157,37 @@ Suggested format:
 ::: {.callout-note .hl-yellow}
 1.  It is **critically important** that you must produce a Concrete Digital Marketing Plan (@sec-digital-marketing-implementation-plan) and get it approved by your faculty and client before you start the implementation.
 
-    - The implementation stage is meant to document how you execute the plan you proposed. Therefore, it is [**important to stick to your original plan as much as possible and only make changes when necessary and with proper approvals**]{style="color: red;"}.
+    -   The implementation stage is meant to document how you execute the plan you proposed. Therefore, it is [**important to stick to your original plan as much as possible and only make changes when necessary and with proper approvals**]{style="color: red;"}.
 
 2.  The implementation of the digital marketing plans can take place even before the first week of the summer or immediately **after the Concrete Digital Marketing Plan (@sec-digital-marketing-implementation-plan) is approved** by all stakeholders (faculty and client), but you should document the plan and the implementation separately.
 
 3.  The implementation process will be similar to the sample work described below, but it may vary based on your specific plan and client's needs.
 
-    - You will **work closely with your client** to execute the content creation, posting, and campaign management.
+    -   You will **work closely with your client** to execute the content creation, posting, and campaign management.
 
-    - You will also **monitor the campaign performance and make adjustments** as needed.
+    -   You will also **monitor the campaign performance and make adjustments** as needed.
 
 4.  If your client ask you to change your plan during the implementation stage, you should discuss the change with your faculty and make sure to get approval before proceeding.
 
-    - You should also **document any changes** made to the original plan and explain the rationale behind them **under this section**.
+    -   You should also **document any changes** made to the original plan and explain the rationale behind them **under this section**.
 
 5.  There can be a number of factors that may require you to make changes to your plan during the implementation stage, such as *changes in client needs*, *market conditions*, or *unforeseen challenges*. However, you should be cautious about making significant changes to your plan without proper approval and documentation.
 
-    - If the **failure** to implement the original plan is due to **factors outside of your control**, such as client decisions or external circumstances, student groups should not be held accountable for the failure to implement the original plan.
+    -   If the **failure** to implement the original plan is due to **factors outside of your control**, such as client decisions or external circumstances, student groups should not be held accountable for the failure to implement the original plan.
 
-      - However, students should still document the situation and explain how they adapted to the changes while trying to stay as close to the original plan as possible.
+        -   However, students should still document the situation and explain how they adapted to the changes while trying to stay as close to the original plan as possible.
 
-    - If the **failure** to implement the original plan is due to **factors within your control**, such as poor planning, lack of communication, or failure to execute, student groups should be held accountable for the failure to implement the original plan.
+    -   If the **failure** to implement the original plan is due to **factors within your control**, such as poor planning, lack of communication, or failure to execute, student groups should be held accountable for the failure to implement the original plan.
 
-      - In this case, students should document the situation and explain what went wrong and how they could have improved their implementation process.
+        -   In this case, students should document the situation and explain what went wrong and how they could have improved their implementation process.
 
-    - Because client plays a huge role in the implementation, the MSDM program will use the **feedback from the client** to evaluate the implementation process.
+    -   Because client plays a huge role in the implementation, the MSDM program will use the **feedback from the client** to evaluate the implementation process.
 
-      - If the **client is satisfied** with the implementation, it will be considered a successful implementation.
+        -   If the **client is satisfied** with the implementation, it will be considered a successful implementation.
 
-      - If the **client is not satisfied** with the implementation, it will be considered a **failed implementation**.
+        -   If the **client is not satisfied** with the implementation, it will be considered a **failed implementation**.
 
-      - Therefore, it is important to **maintain good communication with your client** throughout the implementation process and to ensure that you are meeting their needs and expectations as much as possible.
+        -   Therefore, it is important to **maintain good communication with your client** throughout the implementation process and to ensure that you are meeting their needs and expectations as much as possible.
 
 6.  This is also a good opportunity to demonstrate your adaptability and problem-solving skills, but you should make sure to communicate any changes clearly and professionally with all stakeholders.
 
@@ -2183,20 +2195,20 @@ Suggested format:
 
 8.  You should also document your implementation activities and any changes made to the original plan for future analysis and reporting. **Consider having the following sections in your report** to explain the implementation process:
 
-    - Actual Implementation Timeline and Activities
+    -   Actual Implementation Timeline and Activities
 
-    - Actual Contents Implemented (if they are different from the original): For example, the following should be documented if they are different from original content proposed on @sec-digital-marketing-implementation-plan.
+    -   Actual Contents Implemented (if they are different from the original): For example, the following should be documented if they are different from original content proposed on @sec-digital-marketing-implementation-plan.
 
-      - Reels posted on social media platforms,
-      - Google ads that appears for a set of target keywords,
-      - Landing page,
-      - Emails that were set out
+        -   Reels posted on social media platforms,
+        -   Google ads that appears for a set of target keywords,
+        -   Landing page,
+        -   Emails that were set out
 
-    - Posting and Campaign Management
+    -   Posting and Campaign Management
 
-    - Communication with Client and Stakeholders
+    -   Communication with Client and Stakeholders
 
-    - Challenges and Solutions During Implementation
+    -   Challenges and Solutions During Implementation
 
 9.  Remember that the implementation stage is a critical part of the project, as it allows you to test your digital marketing strategies in a real-world context and gather data on their effectiveness. It also provides valuable experience in campaign management, content creation, and client collaboration.
 :::
@@ -2208,48 +2220,48 @@ Suggested format:
 ::: callout-tip
 #### Sample Implementation & Reflection Presentation
 
-- To give you an idea on **the implementation process**, I will use the same sample digital marketing plan I mentioned in the previous section (@sec-digital-marketing-implementation-plan) by a group of students who participated in the [Digital Marketing Consultancy Program](https://www.cpp.edu/cba/customer-insights-lab/student-success/dmc/dmc.shtml).
+-   To give you an idea on **the implementation process**, I will use the same sample digital marketing plan I mentioned in the previous section (@sec-digital-marketing-implementation-plan) by a group of students who participated in the [Digital Marketing Consultancy Program](https://www.cpp.edu/cba/customer-insights-lab/student-success/dmc/dmc.shtml).
 
-- After the digital marketing plan was approved by faculty and the client, the students proceeded with **implementing the plan in one semester**. At the end of the implementation period, students prepared the presentation slide deck:
+-   After the digital marketing plan was approved by faculty and the client, the students proceeded with **implementing the plan in one semester**. At the end of the implementation period, students prepared the presentation slide deck:
 
-  ```{=html}
-  <div style="text-align: center; margin: 1rem 0;">
-      <a href="https://livecsupomona-my.sharepoint.com/:b:/g/personal/jmjung_cpp_edu/IQCVIN3N8qz2Sb_UuF2aMMDQAQHgGSoDmsvn5RY1G0bvsyY?e=ZKgO4M"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="
-          display: inline-block;
-          padding: 0.7rem 1.5rem;
-          background-color: #FFB81C;
-          color: white;
-          font-weight: 600;
-          font-size: 1rem;
-          border-radius: 6px;
-          text-decoration: none;
-          border: 2px solid #FFB81C;
-          transition: background-color 0.2s ease, color 0.2s ease;
-      "
-      onmouseover="this.style.backgroundColor='#B08D57'; this.style.borderColor='#B08D57';"
-      onmouseout="this.style.backgroundColor='#FFB81C'; this.style.borderColor='#FFB81C';"
-      >
-      ▶ View a Post-Implementation and Reflection Presentation Slides (DMC Program Students)
-      </a>
-  </div>
-  ```
+    ```{=html}
+    <div style="text-align: center; margin: 1rem 0;">
+        <a href="https://livecsupomona-my.sharepoint.com/:b:/g/personal/jmjung_cpp_edu/IQCVIN3N8qz2Sb_UuF2aMMDQAQHgGSoDmsvn5RY1G0bvsyY?e=ZKgO4M"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="
+            display: inline-block;
+            padding: 0.7rem 1.5rem;
+            background-color: #FFB81C;
+            color: white;
+            font-weight: 600;
+            font-size: 1rem;
+            border-radius: 6px;
+            text-decoration: none;
+            border: 2px solid #FFB81C;
+            transition: background-color 0.2s ease, color 0.2s ease;
+        "
+        onmouseover="this.style.backgroundColor='#B08D57'; this.style.borderColor='#B08D57';"
+        onmouseout="this.style.backgroundColor='#FFB81C'; this.style.borderColor='#FFB81C';"
+        >
+        ▶ View a Post-Implementation and Reflection Presentation Slides (DMC Program Students)
+        </a>
+    </div>
+    ```
 
-  - **Note:** Review the PDF file for reference. The slides deck includes more than implementation documentation. It also includes assessment metrics, assessment of the campaign effectiveness, recommendations and limitations for future work, which will be the topic of the second half of the summer for MSDM CEP.
+    -   **Note:** Review the PDF file for reference. The slides deck includes more than implementation documentation. It also includes assessment metrics, assessment of the campaign effectiveness, recommendations and limitations for future work, which will be the topic of the second half of the summer for MSDM CEP.
 
-- Please allow me to briefly explain what the **implementation process** looked like. During the implementation stage, students further developed their content in consultation with the client and executed the plan by working closely with the client. The actual posting on social media was done by the client’s social media manager because of security considerations. However, all content was created by the students. Let me share a bit more about how students carried out the execution of social media content creation.
+-   Please allow me to briefly explain what the **implementation process** looked like. During the implementation stage, students further developed their content in consultation with the client and executed the plan by working closely with the client. The actual posting on social media was done by the client’s social media manager because of security considerations. However, all content was created by the students. Let me share a bit more about how students carried out the execution of social media content creation.
 
-  - For **reels**, they first developed storyboards and received internal approval from all team members and faculty. They then received approval from the client before shooting the videos. Several rounds of revision were necessary to incorporate everyone’s feedback. If they needed to arrange video participants, such as former employees or employees of business partners, they also had to coordinate the logistics. The students filmed and edited the videos themselves. In some cases, they also appeared as actors in the videos.
+    -   For **reels**, they first developed storyboards and received internal approval from all team members and faculty. They then received approval from the client before shooting the videos. Several rounds of revision were necessary to incorporate everyone’s feedback. If they needed to arrange video participants, such as former employees or employees of business partners, they also had to coordinate the logistics. The students filmed and edited the videos themselves. In some cases, they also appeared as actors in the videos.
 
-  - Here are new **social media contents posted during the implementation period**:
+    -   Here are new **social media contents posted during the implementation period**:
 
-    - [Pepperzania -- Carousel](https://www.instagram.com/p/C6R30oXyLBI/?img_index=1)\
-    - [Mother's Day Custom Gift Basket -- Reel](https://www.instagram.com/p/C6cmr9tpWs7/)\
-    - [How CPP Icecream is Made -- Reel](https://www.instagram.com/p/C6hSaDnSOsT/)
-    - [Best Food and Wine Paring -- Carousel](https://www.instagram.com/p/C6t9eRapCqS/?img_index=1)
-    - [Red Sangria Recipe -- Reel](https://www.instagram.com/p/C87weDeSVHr/)
+        -   [Pepperzania -- Carousel](https://www.instagram.com/p/C6R30oXyLBI/?img_index=1)\
+        -   [Mother's Day Custom Gift Basket -- Reel](https://www.instagram.com/p/C6cmr9tpWs7/)\
+        -   [How CPP Icecream is Made -- Reel](https://www.instagram.com/p/C6hSaDnSOsT/)
+        -   [Best Food and Wine Paring -- Carousel](https://www.instagram.com/p/C6t9eRapCqS/?img_index=1)
+        -   [Red Sangria Recipe -- Reel](https://www.instagram.com/p/C87weDeSVHr/)
 :::
 
 ## Post Implementation Analysis on the Effectiveness of the Implementation {#sec-post-implementation-analysis}
@@ -2291,13 +2303,13 @@ Explain how you would evaluate campaign effectiveness after implementation.
 
 Discuss:
 
-- Which KPIs improved
-- Which KPIs did not improve
-- Which channels performed best
-- Whether objectives were achieved
-- What data sources were used
-- What recommendations should be revised
-- What future tests should be conducted
+-   Which KPIs improved
+-   Which KPIs did not improve
+-   Which channels performed best
+-   Whether objectives were achieved
+-   What data sources were used
+-   What recommendations should be revised
+-   What future tests should be conducted
 
 Students should connect the results back to the original campaign objectives.
 
@@ -2307,12 +2319,12 @@ Summarize the overall digital marketing implementation plan.
 
 Your conclusion should answer:
 
-- What is the main strategy?
-- Why is this strategy appropriate based on the data?
-- Which channels are most important?
-- What outcomes are expected?
-- What should the brand do next?
-- Avoid simply repeating earlier sections. Instead, synthesize the overall plan.
+-   What is the main strategy?
+-   Why is this strategy appropriate based on the data?
+-   Which channels are most important?
+-   What outcomes are expected?
+-   What should the brand do next?
+-   Avoid simply repeating earlier sections. Instead, synthesize the overall plan.
 
 ## Limitations for Theory and Practice {#sec-limitations}
 
@@ -2320,15 +2332,15 @@ Discuss the limitations of your analysis and implementation plan.
 
 Possible limitations include:
 
-- Limited data availability
-- Short campaign period
-- Small sample size
-- Lack of access to actual GA4 or ad platform data
-- Budget constraints
-- Assumptions about target audience behavior
-- External market changes
-- Limited ability to test the plan in real time
-- You may organize limitations into:
+-   Limited data availability
+-   Short campaign period
+-   Small sample size
+-   Lack of access to actual GA4 or ad platform data
+-   Budget constraints
+-   Assumptions about target audience behavior
+-   External market changes
+-   Limited ability to test the plan in real time
+-   You may organize limitations into:
 
 ### Limitations for Theory
 
@@ -2346,13 +2358,13 @@ Suggest how future research could improve the analysis.
 
 Examples:
 
-- Collect more customer data
-- Conduct customer interviews
-- Run surveys with a larger sample
-- Compare multiple customer segments
-- Analyze long-term campaign performance
-- Test additional digital platforms
-- Use experiments or A/B testing
+-   Collect more customer data
+-   Conduct customer interviews
+-   Run surveys with a larger sample
+-   Compare multiple customer segments
+-   Analyze long-term campaign performance
+-   Test additional digital platforms
+-   Use experiments or A/B testing
 
 ### Directions for Future Marketing Efforts
 
@@ -2360,14 +2372,14 @@ Suggest practical next steps for the brand.
 
 Examples:
 
-- Continue optimizing SEO content
-- Expand paid advertising after testing
-- Develop a stronger content calendar
-- Build a customer loyalty program
-- Improve email segmentation
-- Test new landing page designs
-- Use retargeting campaigns
-- Collaborate with influencers or partners
+-   Continue optimizing SEO content
+-   Expand paid advertising after testing
+-   Develop a stronger content calendar
+-   Build a customer loyalty program
+-   Improve email segmentation
+-   Test new landing page designs
+-   Use retargeting campaigns
+-   Collaborate with influencers or partners
 
 ------------------------------------------------------------------------
 
@@ -2490,15 +2502,15 @@ If your project doesn't have a client and is intended to benefit the public or i
 :::
 
 ::: {.callout-note .hl-yellow}
-- *Follow the [format instructions for citations](#sec-instruction-reference) provided at the beginning of this page.*
+-   *Follow the [format instructions for citations](#sec-instruction-reference) provided at the beginning of this page.*
 
-- The articles in this section were automatically added below when article DOI was added to `citations` function in Quarto. See Analytics Objective section in Chapter 1 for in-text citation (@sec-ao1-title-ao1).
+-   The articles in this section were automatically added below when article DOI was added to `citations` function in Quarto. See Analytics Objective section in Chapter 1 for in-text citation (@sec-ao1-title-ao1).
 
-  - When the articles were cited in the section of Chapter 1, a file called, `references.bib` was created automatically and added to the root directory of this project folder. At the same time, a line of code---`bibliography: references.bib`---was added to the bottom of this document's Yaml header.
+    -   When the articles were cited in the section of Chapter 1, a file called, `references.bib` was created automatically and added to the root directory of this project folder. At the same time, a line of code---`bibliography: references.bib`---was added to the bottom of this document's Yaml header.
 
-  - The bibliography file (`*.bib`) contains article information only. To style a reference automatically according to the grammar of a particular citation style, you need to download and add the `csl` file that match the desired style (e.g., American Marketing Association, Chicago Style, APA style, etc.). To learn how to find the correct `csl` file and configure Quarto, refer to the instructions on [For Reference Section](#sec-instruction-reference).
+    -   The bibliography file (`*.bib`) contains article information only. To style a reference automatically according to the grammar of a particular citation style, you need to download and add the `csl` file that match the desired style (e.g., American Marketing Association, Chicago Style, APA style, etc.). To learn how to find the correct `csl` file and configure Quarto, refer to the instructions on [For Reference Section](#sec-instruction-reference).
 
-    - For the citations below, I used **AMA style** by adding `csl: styles/american-marketing-association.csl` to the Yaml header and adding `american-marketing-association.csl` to the project's subdirectory called, `styles`. You can confirm it by viewing the source code, which will be revealed when you click `Code Tools` icon top right corner of this page.
+        -   For the citations below, I used **AMA style** by adding `csl: styles/american-marketing-association.csl` to the Yaml header and adding `american-marketing-association.csl` to the project's subdirectory called, `styles`. You can confirm it by viewing the source code, which will be revealed when you click `Code Tools` icon top right corner of this page.
 :::
 
 ::: {#refs}
