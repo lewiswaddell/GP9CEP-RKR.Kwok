@@ -135,49 +135,125 @@ This project is important because it can help Restaurant at Kellogg Ranch better
 
 ------------------------------------------------------------------------
 
-# CHAPTER 2: BACKGROUND AND ANALYTICS OBJECTIVES {#sec-ch2-background-and-analytics-objectives}
-
-::: page-note
-*(no specific page length guideline)*
-:::
-
-::: {.callout-tip .hl-yellow}
-## 1. Guidelines For Client Consulting Project
-
-- *If you are conducting a **Client Consulting Project type**, you have a company-specific analysis. Thus, follow the structure for Chapter 2 presented below.*
-
-- For the **Client Consulting Project type**, Chapter 2 should include a comprehensive analysis of the client company and its industry, as well as an investigation of existing research frameworks/models that support the analytics objectives. The purpose of this chapter is to provide a thorough understanding of the client’s business context and to establish a strong foundation for the analytics objectives by grounding them in relevant theories and models.
-
-- On the other hand, if you do not have a specific client company to analyze, you are completing a **Basic/Applied Academic Research Project type** where you are likely to benefit general public or the whole industry. In this case, Chapter 2 should follow the structure of the front end of an **academic research paper**. For details, refer to the [2. Guidelines for Basic/Applied Academic Research Project](#sec-ch2-for-basic-applied-academic-research-project).
-:::
+# CHAPTER 2: BACKGROUND AND ANALYTICS OBJECTIVES 
 
 ## Client (Company) Background
 
+The Restaurant at Kellogg Ranch (RKR) is located at California State Polytechnic University, Pomona, and is part of The Collins College of Hospitality Management. Established in 1990, RKR has traditionally operated as a student-managed restaurant and learning laboratory where hospitality students gain hands-on experience in restaurant operations, food preparation, customer service, and management [@collins_rkr].
+
+RKR is transitioning toward a dual operating model that combines its educational purpose with stand-alone restaurant operations. According to the initial project proposal prepared by Dr. Linchi Kwok, this emerging model may allow the restaurant to operate with paid staff on three weekdays while continuing to serve as a classroom laboratory on designated instructional days[@kwok2026].
+
+This transition represents an important business challenge because stand-alone restaurant services must generate sufficient customer demand and revenue to support financially sustainable operations. Therefore, attracting guests, increasing reservation activity, and encouraging repeat visits are important priorities while maintaining RKR's educational identity [@kwok2026].
+
 ### Company Mission/Vision
+
+RKR's educational mission is closely connected to Cal Poly Pomona's emphasis on experiential learning. The restaurant provides students with opportunities to apply classroom knowledge in a professional dining environment, develop practical hospitality skills, and gain experience serving real customers. Through this learning model, students develop skills in teamwork, leadership, service, and restaurant management [@collins_rkr].
+
+Although a separate official mission and vision statement for RKR has not been identified in the available materials, its current strategic direction is outlined in the initial project proposal. RKR seeks to preserve its educational purpose while developing sustainable restaurant operations that can attract customers and generate revenue independently of instructional support [@kwok2026].
+
+From this perspective, RKR's long-term direction involves balancing hospitality education with successful restaurant operations. This means continuing to provide meaningful learning opportunities for students while maintaining a dining experience that meets customer expectations and encourages guests to return.
 
 ### Core Competencies
 
+One of RKR's main competencies is its ability to combine hospitality education with actual restaurant operations. As part of The Collins College of Hospitality Management, students gain practical experience in different areas of the restaurant, including food preparation, guest service, leadership, and management. This educational connection gives RKR an identity that differs from traditional restaurants[@collins_rkr].
+
+Another important strength is the restaurant's culinary offering and physical environment. RKR features seasonal menus with farm-to-table-inspired dishes, including ingredients sourced from Cal Poly Pomona's agricultural resources. Its location also provides scenic campus views, creating an attractive atmosphere for guests [@rkr_sourcing].
+
+According to the initial project proposal, RKR also benefits from campus and alumni connections, established social media accounts, and access to reservation information. These resources provide opportunities to reach potential customers, better understand guest behavior, and improve marketing effectiveness.
+
+Additionally, the arrival of a new general manager and executive chef provides an opportunity to strengthen the restaurant's operations, culinary offerings, and market positioning. However, these strengths alone do not guarantee sufficient customer demand. RKR still needs to better understand its target audiences, customer motivations, and the marketing channels that are most effective in attracting reservations [@kwok2026].
+
 ### Value Propositions
 
+RKR offers a distinctive value proposition by combining a restaurant dining experience with the educational identity of Cal Poly Pomona. Guests can enjoy seasonal meals, fresh ingredients, and an attractive campus setting while supporting the professional development of future hospitality leaders [@rkr_menu].
+
+Its culinary offerings, restaurant atmosphere, and connection to the university are important elements that may help differentiate RKR from traditional restaurants. These characteristics may appeal to campus audiences, alumni, local residents, and customers looking for a unique dining experience.
+
+However, the initial project proposal identifies an important area that requires further investigation: whether customers are more attracted by RKR's culinary experience, its educational mission, or a combination of both. Understanding which aspects customers value most can help the restaurant communicate its strengths more effectively and develop marketing messages that appeal to different audiences[@kwok2026].
+
+Customer perceptions are especially important because the restaurant's educational identity alone may not be enough to encourage repeat visits. Food quality, service quality, and the physical environment can also influence customer satisfaction and future behavioral intentions. Understanding these elements can help RKR improve the dining experience and strengthen its overall value proposition [@ryu2012].
+
 ### Business Objectives
+
+RKR's main business objective is to develop sustainable customer demand and generate sufficient revenue to support its stand-alone restaurant operations while preserving its educational mission. As the restaurant transitions toward a dual operating model, attracting guests, increasing reservations, and encouraging repeat visits are important priorities [@kwok2026].
+
+The initial project proposal identifies several objectives that support this direction, including understanding RKR's market position, identifying priority customer segments, analyzing reservation patterns, evaluating the digital customer journey, and improving marketing effectiveness [@kwok2026].
+
+Another important priority is understanding and improving the customer experience. Evaluating guest perceptions of food quality, service quality, atmosphere, and overall satisfaction can help RKR identify strengths and opportunities for improvement. Feedback regarding intention to return and willingness to recommend can also provide useful information about customers' future behavioral intentions [@ryu2012].
+
+Digital marketing is another key focus. RKR needs to better understand how its website, email communications, and social media content contribute to customer engagement and reservation-related activity. Analyzing this information can help identify more effective communication strategies and opportunities to improve the customer journey from initial awareness to reservation.
+
+These business priorities provide the foundation for the team's Capstone Experience Project, which examines newsletter design and reservation activity, customer satisfaction and dining experience, Facebook content performance, website usability, and Instagram engagement.
+
+Together, these areas of investigation support RKR's broader goal of developing a measurable and repeatable demand-generation system. By using customer feedback, reservation information, and digital marketing performance data, RKR can make more informed decisions about its marketing activities and guest experience while continuing to support hospitality education.
 
 ## Description of the Client’s Current Marketing Program
 
 ### Marketing Team and Expertise
 
+The RKR’s current marketing team is made of several people and platforms rather than being run through one main restaurant marketing team. Current marketing communication includes RKR’s instagram account, The Collins Concierge Newsletter, social channels that are ran by the Collins College of Hospitality marketing team, the RKR website, and third-party platforms such as Google, Yelp, and OpenTable.
+
+Our CEP proposal also identifies that the executive chef is important to RKR’s changing market position, guest experience, and content strategy [@kwok2026]. RKR’s Head Chef has access to his own personal professional Instagram and LinkedIn accounts, which can provide our group another path to highlight the restaurant. Student involvement, and behind the scenes content. The one issue is that the Head Chef does not provide access to his accounts, so they are not identified as official RKR marketing channels. RKR currently has different methods of reaching customers, but as stated before, communication is handled across different people and platforms. So having better coordination between these channels could help RKR maintain a consistent messaging strategy as the restaurant continues to grow.  
+
 ### Current Target Market
+
+The RKR’s current position and location present a strong opportunity to reach different groups of customers. The connection to the Collins College of Hospitality Management and its Location on Cal Poly Pomona’s campus can present different content strategies that can be used across the different channels that are available. Some groups that could be targeted include students, CPP staff, Pomona corporate companies that could visit the restaurant during official business meetings, and the Pomona community. 
+
+The restaurant can also attract customers who want something that is different from the typical dining experience. Campus-grown ingredients, student managed service, and connections to Cal Poly Pomona’s educational mission gives customers more reasons to visit beyond the food itself. RKR’s seasonal menu and location should also be used to bring in customers who are interested in supporting the university while also going through a fine dining experience. So, although the RKR has the potential to attract a variety of customers, its primary audience has not yet been clearly established by our group. A closer look at reservation activity and digital engagement may provide us with insight into who is interacting with the restaurant and help guide future marketing decisions.
 
 ### Current Positioning and Perceptual Map
 
-*Current Perceptual Map*
+The RKR provides a dining experience that combines fine dining services with the educational mission of Cal Poly Pomona’s Collins College of Hospitality Management. Because RKR is a student operated restaurant, RKR allows students to gain hands-on experience in all aspects of fine dining restaurant operation including making positive guest experiences and services a priority. Its seasonal menu, use of campus grown ingredients, and connection to CPP’s agricultural programs also play a role in what makes the restaurant different from the other fine dining experiences in the surrounding Pomona area. 
+
+RKR’s connection to CPP is a vital part to its identity, but its fine dining experience is just as important when considering the restaurant's current position in the local market. The RKR offers its guests the opportunity to enjoy a high-quality , carefully prepared meal; while also supporting the professional experience of future hospitality professionals. Together, these elements give the RKR a very unique identity that combines the quality that comes with fine dining and an experience that is tightly connected to the university’s mission. 
+
+In order to examine how the RKR compares with local restaurants, our team developed a perceptual map that includes local surrounding restaurants that fall under teh “fine-dining” category. These restaurants include Pomona Valley Mining Company, Coco Palm, The Derby, and VITA Italian Bar & Grill. The map compares the restaurants based on two dimensions. One being the type of dining experience and the second being the dining atmosphere. The dining experience ranges from traditional to unique, while the dining atmosphere ranges from casual to special occasion or upscale. 
+
+![](images/Cal Poly Pomona Perceptual Map.png)
+
+The reason for the RKR’s current placement on the map is because its student-operated setting and connection to CPP helps separate it from its competitors that offer more traditional upscale dining experiences. But, the map also reflects the team's assessment of each restaurant based on its characteristics rather than customer feedback. Performing more research could help our group determine how guests actually perceive RKR and whether its current positioning on our map aligns with those perceptions of the public. 
 
 ### Current Product/Services
 
+The Restaurant at Kellogg Ranch (RKR) provides public lunch and dinner service within a student-operated hospitality training restaurant at Cal Poly Pomona. Its offering combines seasonal dining, student-delivered service, and views of the campus. The website also promotes the restaurant as a setting for business dinners, family celebrations, and large parties or events. [@therest].
+
+The published menus include starters, salads, sandwiches, entrées, desserts, and beverages, with dietary options identified. [@rkr_menu]. Campus partnerships supply ingredients and beverages, including produce from university farms, campus-produced honey, Horsehill wines, and Innovation Brew Works beer. These partnerships help distinguish RKR’s offering through its connection to Cal Poly Pomona and locally sourced food. [@rkr_sourcing].
+
+These characteristics directly support AO2, which compares guest ratings of food quality, service quality, and atmosphere or physical environment. Together, these dimensions represent the core experience RKR provides. The restaurant’s promotional descriptions establish what it offers and emphasizes, while the planned post-visit survey will assess how guests actually evaluate that experience. Seasonal dishes and campus sourcing also provide potential content subjects for the newsletter, Facebook, and Instagram work in AO1, AO3, and AO5.
+
 ### Current Pricing
+
+RKR’s published fall menus use individual item pricing. Lunch entrées range from \$15 to \$23, while lunch sandwiches range from \$18 to \$20. Individual dinner entrées range from \$16 to \$24, and a sirloin entrée intended for two guests is listed at \$48. Desserts are priced at \$12 each. These amounts describe listed items rather than complete meal totals. [@rkr_menu].
+
+| Menu category             | Published price |
+|---------------------------|----------------:|
+| Lunch entrées             |       \$15–\$23 |
+| Lunch sandwiches          |       \$18–\$20 |
+| Individual dinner entrées |       \$16–\$24 |
+| Sirloin entrée for two    |            \$48 |
+| Desserts                  |            \$12 |
+| Wine by the glass         |        \$6–\$10 |
+| Beer                      |         \$6–\$8 |
+
+Source: RKR’s published fall menus [@rkr_menu].
+
+Pricing provides practical information prospective guests can use when planning a visit. This relates to AO4 because finding the menu should give visitors access to relevant dining information, including prices. However, successful navigation does not establish that customers consider those prices affordable or worthwhile. Price perceptions are also outside AO2’s primary comparison of food, service, and atmosphere. The team should therefore describe current prices without claiming that the project will determine an optimal pricing strategy. Pricing rationale, discounts, and private-event rates require client confirmation.
 
 ### Current Marketing Channels
 
+RKR delivers its dining service directly through its campus restaurant in Building 79 at 3801 West Temple Avenue in Pomona. Its contact page provides location directions, telephone and email contact information, and complimentary parking in Lot L with a reservation. Posted hours are Monday through Friday, 11 a.m.–2 p.m., for lunch and Tuesday through Friday, 5–8 p.m., for dinner, beginning August 24. [@rkr_contact].
+
+The website provides an OpenTable reservation widget, while walk-ins are also welcome. [@therest]. The team’s existing report identifies additional customer outreach through The Collins Concierge newsletter, Facebook, and Instagram. These communication channels can introduce guests to RKR and direct them toward dining information or the reservation process.
+
+This channel structure explains the relationship among the project’s AOs. AO1 examines newsletter clicks and attributed reservations; AO3 examines Facebook engagement and its association with OpenTable activity; AO5 compares Instagram engagement across formats. AO4 examines whether visitors can find the menu, identify hours, and reach the reservation interface. These are distinct stages of the customer journey. Reaching the reservation interface does not confirm a booking, and reservation records alone do not capture walk-in visits.
+
 ### Current Integrated Marketing Communications
+
+RKR’s website emphasizes seasonal food, campus sourcing, hospitality education, welcoming service, and scenic views. It includes guest testimonials and directs visitors to [RKR’s Instagram account](https://www.instagram.com/rkr_cpp/) for team updates, seasonal menu changes, and special events. [@therest]. The sourcing page reinforces the campus connection, while the “Our Story” page presents the restaurant’s educational origins and lists awards and recognitions. [@rkr_sourcing; @rkr_story].
+
+The team’s report also documents an RKR promotional section in The Collins Concierge containing menu information, hours, and a reservation link. It identifies Facebook and Instagram as additional channels under investigation. Together, these activities provide several opportunities to communicate the restaurant’s offering and encourage a visit. However, their presence does not establish that messaging, schedules, or reservation links are coordinated across channels.
+
+AO1, AO3, and AO5 address different aspects of communication performance: newsletter design, Facebook content and messaging, and Instagram formats. AO4 complements this work by assessing access to the information and reservation interface that prospective guests need next. The shared implication is that communication should be evaluated through both audience response and subsequent actions where measurable. Higher engagement alone should not be presented as evidence of increased reservations. Client information about campaign planning, content approval, and tracking is needed to assess the integration of RKR’s communications.
 
 ## Description of the Company’s Current Digital Marketing Practices
 
@@ -219,19 +295,57 @@ This project is important because it can help Restaurant at Kellogg Ranch better
 
 ### Analytics Infrastructure
 
-## Competitive Analysis
+## 2.4 Competitive Analysis
+
+RKR competes with restaurants in Pomona and the surrounding area. Customers may compare food, prices, atmosphere, location, and available dining times when choosing a restaurant. Our proposed comparisons are Pomona Valley Mining Company, Coco Palm, The Derby, and VITA Italian Bar & Grill. We still need to confirm which restaurants RKR considers its closest competitors.
 
 ### Industry Size
 
+The figures below describe the broader U.S. restaurant and foodservice industry. They provide background for the project but do not measure the size of RKR’s local market.
+
 #### Number of Companies
+
+We have not yet confirmed the number of restaurant companies in RKR’s local market. Before finding this number, our team needs to define the area and types of restaurants included in the comparison. A count of restaurant locations would also be different from a count of companies, since one company may operate several locations.
 
 #### Number of Employees
 
+The National Restaurant Association’s initial 2026 forecast projected total U.S. restaurant and foodservice employment of 15.8 million people.^5^ This shows the size of the national industry, but we have not yet obtained an employment estimate for RKR’s local market.
+
 #### Annual Revenue and Key Financial Information
+
+The National Restaurant Association’s initial forecast projected U.S. restaurant and foodservice sales of \$1.55 trillion in 2026.^5^ In July, the association updated its expected annual sales growth to 4.3%, or 0.8% after adjusting for inflation. The update also reported uneven customer traffic and high operating costs.^6^
+
+These conditions suggest that restaurants need to give customers a clear reason to visit. For RKR, we think its student-run experience, seasonal menus, and campus-grown ingredients could help communicate its value.^7^ We have not obtained comparable annual revenue figures for RKR and the selected competitors.
 
 #### Existence of Dominant Players and Competitors
 
+Our analysis focuses on restaurants that could appeal to customers looking for a similar dining occasion. We have not established that any of these restaurants dominates the local market.
+
+Pomona Valley Mining Company and Coco Palm were selected as nearby comparisons because both promote scenic dining.^1,2^ The Derby in Arcadia provides a regional comparison for upscale dining and special occasions.^3^ VITA Italian Bar & Grill offers another Pomona option and emphasizes Italian food, local ingredients, and its dining atmosphere.^4^
+
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| Restaurant                                | Main offering                                                                               | Digital marketing features                                                                                             | What this means for RKR                                                                                        |
++:==========================================+:============================================================================================+:=======================================================================================================================+:===============================================================================================================+
+| **RKR — Pomona**                          | Student-run restaurant with seasonal food, campus-grown ingredients, and hillside views.^7^ | Website includes menus, visitor information, OpenTable reservations, and an Instagram link.^7^                         | Student involvement and campus ingredients give RKR different topics to feature in its content.                |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **Pomona Valley Mining Company — Pomona** | Hilltop dining, Sunday brunch, and private events.^1^                                       | Website promotes holiday meals and events, provides menu information, and links to OpenTable reservations.^1^          | Competes for scenic dining and celebrations. Its website connects promotions to a clear reservation option.    |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **Coco Palm — Pomona**                    | Cuban dining with city views and space for special occasions.^2^                            | Website provides menus, reservations, online ordering, and event information.^2^                                       | Offers another option for local customers looking for a meal with a view or a celebration venue.               |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **The Derby — Arcadia**                   | Upscale steakhouse with a long history and a focus on its dining atmosphere.^3^             | Website shares the restaurant’s history, food and interior photos, reservation links, and group-dining information.^3^ | Shows how a restaurant can use its story and atmosphere to give customers a reason to visit.                   |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **VITA Italian Bar & Grill — Pomona**     | Italian dining with local ingredients, an outdoor terrace, and Sunday brunch.^4^            | Website features menus, reservation links, food photos, brunch promotions, and cooking classes.^4^                     | Provides another nearby dining option. Its food and event promotions give us ideas for content RKR could test. |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+
+*The table compares visible website features. It does not show which restaurant has better marketing results.*
+
+This comparison supports our analytics objectives by identifying content and customer actions to evaluate. For AO5, we could compare Instagram posts about food, students, and the dining atmosphere to see which receive more engagement. The newsletter and website objectives could examine whether menu information and reservation links encourage customers to take the next step. Reservation-link clicks should be measured separately from completed reservations.
+
 #### Market Share of Each Major Player
+
+We have not found reliable market-share figures for RKR or the selected competitors. Calculating revenue-based market share would require each restaurant’s sales and total sales for a clearly defined market during the same period.
+
+Because these figures are not available to our team, we cannot estimate each restaurant’s market share. Social media followers and online reviews may help compare online visibility, but they do not measure market share.
 
 ### Industry Outlook
 
@@ -273,29 +387,55 @@ This project is important because it can help Restaurant at Kellogg Ranch better
 
 ### Segments and Their Brief Justification
 
-*Develop a profile of customers for each segment in terms of demographics, psychographics, benefits sought, behavioral patterns, etc.*
+#### Segment A: Cal Poly Pomona Faculty and Staff
 
-#### Segment Name A
+This segment includes faculty, staff, and administrators who work on campus. They are likely working adults with steady schedules and limited time during the day. RKR's weekday lunch hours, from 11 a.m. to 2 p.m., fit their routine [@rkr_contact]. These guests may value convenience, a quality meal close to work, and a setting suited for department lunches or meetings with colleagues. Many also have a personal connection to the university and may want to support its students. We expect this group to visit most often at lunch and to return if the experience is consistent. The Collins Concierge already reaches part of this audience, which makes it the most direct segment to test through AO1.
 
-#### Segment Name B
+#### Segment B: Cal Poly Pomona Students
 
-#### Segment Name C
+This segment includes undergraduate and graduate students, including hospitality students and their peers. Most are younger diners who are active on social media. They may be more price-conscious than other segments, since lunch entrées range from \$15 to \$23 [@rkr_menu]. On the other hand, RKR accepts Bronco Bucks, which may make a visit easier to justify. Students may look for a social outing, a special meal, or a place to bring visiting family. We expect visits to be occasional and tied to events such as birthdays, family visits, or graduation. Instagram is likely the strongest way to reach this group, which connects to AO5.
 
-#### Segment Name D
+#### Segment C: Local Professionals and Business Groups
+
+This segment includes employees of Pomona-area companies and organizations who need a place for business meals. The RKR website already promotes the restaurant for business dinners and large parties [@therest]. These guests may value a professional atmosphere, reliable service, and easy reservations. RKR's farm-to-table menu and campus setting could also give business hosts a unique place to bring clients. We expect this group to book in advance and to dine in larger parties. However, RKR does not currently have a confirmed channel that targets this group. The executive chef's LinkedIn could help, but it is not an official RKR channel.
+
+#### Segment D: Alumni and the Local Community
+
+This segment includes Cal Poly Pomona alumni and residents of Pomona and nearby cities. Alumni may feel loyalty to the university, while local residents may be looking for something different from a typical night out. Both groups may value the scenic views, seasonal menu, and campus-grown ingredients [@rkr_sourcing]. We expect this segment to visit for celebrations such as birthdays, anniversaries, and family gatherings. Notably, this segment compares RKR most directly with Pomona Valley Mining Company and Coco Palm, which also promote scenic dining. RKR does not offer weekend service, which may limit visits from guests who celebrate on Saturdays or Sundays [@rkr_contact].
 
 #### **Summary Table of Segments**
 
-*In the table, each column should represent a segment, and each row should represent a customer characteristic (e.g., demographics, psychographics, benefits sought, behavioral patterns). The cell descriptions should indicate the profile of customers in each segment for each characteristic.*
+| Characteristic | Segment A: Faculty and Staff | Segment B: Students | Segment C: Local Professionals | Segment D: Alumni and Local Community |
+|---|---|---|---|---|
+| **Demographics** | Working adults employed on campus | Undergraduate and graduate students | Employees of Pomona-area companies | Alumni and residents of Pomona and nearby cities |
+| **Psychographics** | Busy, connected to the university, supportive of students | Social, active online, budget-aware | Professional, focused on impressions and reliability | Loyal to CPP or looking for a unique local experience |
+| **Benefits sought** | Convenience, quality lunch, meeting space | Social outing, special occasion meal, value | Professional setting, dependable service, easy booking | Scenic views, seasonal food, a memorable celebration |
+| **Behavioral patterns** | Frequent weekday lunch visits | Occasional, event-driven visits | Advance bookings for larger parties | Special-occasion visits, often on evenings |
+| **Likely channels** | The Collins Concierge, campus email | Instagram, Facebook | Website, Google, LinkedIn | Instagram, Facebook, Google, Yelp, alumni outreach |
 
 ### Segment Analysis
 
-*Evaluate the potential for each segment on such criteria as identifiability, actionability, substantiality, and accessibility.*
+Each segment was evaluated on four criteria. Identifiability is whether the group can be clearly defined and measured. Actionability is whether RKR can serve the group with its current menu, hours, and resources. Substantiality is whether the group is large enough or spends enough to support demand. Accessibility is whether RKR can reach the group through its existing channels.
+
+Faculty and staff rate highest overall. They are easy to identify, they are on campus during lunch hours, and the Concierge newsletter already reaches part of this group. Their total size is still unknown, so substantiality is rated medium until reservation data can confirm it.
+
+Students are easy to identify and reach through Instagram. On the other hand, menu prices may limit how often they visit, and their spending per visit is likely lower than other segments. As such, students rate lower on actionability and substantiality.
+
+Local professionals fit the business dining the website already promotes. However, RKR has no official channel aimed at this group, and its size in the Pomona area has not been measured. This makes accessibility the weakest point for this segment.
+
+Alumni and the local community are a large potential audience with clear reasons to visit. RKR can reach them through social media and review sites, but competition for scenic and special-occasion dining is strong. The lack of weekend service also limits how well RKR can serve them.
 
 #### **Summary Table of Segment Evaluation**
 
-*Based on the segment evaluation, identify the most attractive segment(s) to target and justify your choice.*
+| Criterion | Segment A: Faculty and Staff | Segment B: Students | Segment C: Local Professionals | Segment D: Alumni and Local Community |
+|---|---|---|---|---|
+| **Identifiability** | High | High | Medium | Medium |
+| **Actionability** | High | Medium | Medium | Medium |
+| **Substantiality** | Medium | Medium | Medium | High |
+| **Accessibility** | High | High | Low | Medium |
+| **Overall attractiveness** | High | Medium | Low to Medium | Medium to High |
 
-*In the table, each column should represent a segment, and each row should represent an evaluation criterion, plus overall attractiveness. The cell values should indicate how well each segment meets each criterion, using a consistent rating system (e.g., high, medium, low or a numerical scale).*
+Based on this evaluation, faculty and staff are the most attractive primary target. This segment fits RKR's weekday hours, is reachable through channels RKR already uses, and can be measured directly through AO1. Alumni and the local community are recommended as a secondary target because of their size and their interest in celebration dining. Reaching them will depend on stronger social media content, which AO3 and AO5 will help evaluate. These choices are based on our team's assessment and should be confirmed with OpenTable reservation data and AO2 survey responses.
 
 ## SWOT Analysis
 
@@ -311,7 +451,7 @@ This project is important because it can help Restaurant at Kellogg Ranch better
 
 ## Investigation of Currently Available Research Framework/Model {#sec-investigation-of-currently-available-research-frameworkmodel}
 
-### AO1. Newsletter Formatting and Click-Rate (Leeann Lewis-Waddell)
+### AO1. Newsletter Design and Reservation Growth (Leeann Lewis-Waddell)
 
 #### Existence of Well-established Models
 
