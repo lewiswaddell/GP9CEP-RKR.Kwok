@@ -295,6 +295,20 @@ AO1, AO3, and AO5 address different aspects of communication performance: newsle
 
 ### Analytics Infrastructure
 
+The Restaurant at Kellogg Ranch (RKR) uses several digital platforms to communicate with customers, promote its dining services, and manage reservations. These platforms also provide opportunities to collect information about marketing performance and customer engagement. The main tools identified in this project include Canva, Facebook and Instagram analytics, OpenTable, and website performance reports.
+
+One of RKR's communication channels is The Collins Concierge, a newsletter created using Canva. This newsletter helps share restaurant information and encourages readers to make reservations. Canva may provide information about how readers interact with the newsletter, including views and clicks on the "Reserve a Table" button. These metrics could help RKR understand whether changes to the newsletter's layout and content influence customer interest. However, additional tracking would be needed to determine whether those clicks result in actual reservations.
+
+Facebook and Instagram are also important channels for RKR's digital marketing activities. Through Meta Business Suite and Instagram Insights, the restaurant may be able to review metrics such as reach, impressions, likes, comments, shares, and other interactions. This information can help identify which posts attract more attention and how audiences respond to different types of content. However, access to these metrics depends on the restaurant's account settings and the data available to the project team.
+
+OpenTable is another important platform because customers can use it to make reservations online. Reservation data could help RKR understand booking activity and identify patterns across different periods. One limitation is that the team has not yet confirmed whether OpenTable data can show which marketing channels or campaigns led customers to make a reservation.
+
+Website analytics can also help RKR understand how people find and use its website. Information such as website visits, traffic sources, and page engagement could show which pages receive the most attention and where improvements may be needed. The project team will need to confirm which website reports are available and what information they contain.
+
+Although these platforms can provide useful information, it is not yet clear how RKR combines data from different sources to evaluate its marketing performance. For example, someone may see an Instagram post, visit the website, and later make a reservation through OpenTable. Without a way to connect those interactions, it is difficult to determine which marketing activities contribute to reservations.
+
+Improving how these data are collected and reviewed could help RKR make better marketing decisions. Using consistent key performance indicators (KPIs), reviewing results regularly, and tracking reservation-related interactions where possible would help the restaurant better understand its customers and evaluate its digital marketing efforts.
+
 ## 2.4 Competitive Analysis
 
 RKR competes with restaurants in Pomona and the surrounding area. Customers may compare food, prices, atmosphere, location, and available dining times when choosing a restaurant. Our proposed comparisons are Pomona Valley Mining Company, Coco Palm, The Derby, and VITA Italian Bar & Grill. We still need to confirm which restaurants RKR considers its closest competitors.
@@ -438,6 +452,20 @@ Based on this evaluation, faculty and staff are the most attractive primary targ
 ### Weaknesses
 
 ### Opportunities
+
+The Restaurant at Kellogg Ranch (RKR) has several opportunities to increase its visibility and attract more customers, both within Cal Poly Pomona and in the surrounding community. These opportunities are related to its potential customer segments, digital marketing channels, and partnerships with local and university organizations.
+
+One opportunity is reaching more people within the Cal Poly Pomona community. Faculty, staff, students, alumni, and campus visitors represent different groups that may be interested in dining at RKR. For example, faculty and staff may consider the restaurant for lunch meetings, while alumni and campus visitors may be interested in special dining occasions. Developing marketing messages for these different groups could help increase awareness of the restaurant and encourage reservations.
+
+Another opportunity is reaching customers outside the university. RKR is located near residential communities and businesses in Pomona and the surrounding area. Local residents and professionals may be interested in discovering new dining options for lunch, celebrations, or social gatherings. Increasing RKR's visibility through digital channels could help introduce the restaurant to people who are not familiar with its dining services.
+
+Social media also creates opportunities to connect with potential customers. Instagram and Facebook allow restaurants to share photos, videos, menu updates, and information about the dining experience. By testing different types of content and reviewing audience engagement, RKR could learn which messages are more effective in attracting attention and encouraging people to explore its reservation options.
+
+RKR may also benefit from greater collaboration with university departments, alumni groups, student organizations, and local businesses. These connections could help the restaurant reach new audiences and promote dining opportunities for meetings, celebrations, and group events. Any promotional activities would need to align with the restaurant's operating hours and reservation capacity.
+
+Finally, the availability of digital analytics and customer feedback presents an opportunity to improve marketing decisions. By reviewing newsletter engagement, social media performance, website activity, and guest survey responses, RKR could better understand customer interests and identify areas where its marketing efforts can be improved.
+
+Overall, these opportunities could help RKR expand its reach and strengthen customer engagement. However, their potential impact will depend on customer demand, the restaurant's operational capacity, and the results of the marketing analyses conducted during this project.
 
 ### Threats
 
