@@ -875,13 +875,39 @@ The operational definitions and response formats described above follow the Grou
 
 ##### Variables
 
-#### AO4. Title of AO4 Here (Name of Author Here)
+#### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
 ##### Method Used
 
+AO4 will use descriptive task-performance analysis and qualitative content analysis to examine how prospective guests find RKR's menu, identify operating hours, and reach the reservation interface. Qualtrics responses will be combined with researcher-recorded task observations using a nonidentifying study code, following the procedure finalized in Section 3.1.4. One record will represent one participant's attempt at one task. Eligibility, task labels, response coding, duplicate records, and missing values will be checked before analysis. Survey ratings alone will not be used to infer observed task success or elapsed time; performance results will be reported only when task records were collected.
+
+For each task, unassisted completion rate will be calculated as the number of correct completions without help divided by the number of valid attempts, multiplied by 100. A valid attempt will begin when the task instruction is given and the participant starts from the designated homepage. Incorrect answers, requests for assistance, abandonment, and time-limit stops will count as unsuccessful unassisted attempts. Technical interruptions that prevent a usable attempt will be excluded from that task's performance denominator and reported separately, with the reason. Missing or unattempted tasks will not be coded as failures. Each table will show the success count, valid-attempt count, and excluded or missing count.
+
+Completion percentages will be compared separately with AO4's proposed 80% project benchmark. The report will state the percentage-point difference from that target and present a 95% Wilson interval for each task proportion to show uncertainty. These intervals describe the observed sample under a binomial model; they do not make a convenience sample representative of all prospective guests. Meeting the target in the sample will be distinguished from establishing that the population meets it. Tasks will not be pooled as independent observations because each participant attempts multiple tasks.
+
+Elapsed time in seconds will be summarized using the median and interquartile range among successful, unassisted attempts with valid timing records. Assisted attempts and timeouts will be tabulated separately rather than assigned successful completion times. If no participant succeeds, the successful-time summary will be reported as unavailable. Five-point task-ease ratings will be summarized using category counts, percentages, medians, and interquartile ranges, including ratings following unsuccessful attempts. Navigation clarity and usefulness will be reported separately using the same ordinal summaries. Bar charts will show completion rates and rating distributions; a task summary table will display performance, time, and perceived ease together.
+
+Where subgroup counts permit useful interpretation, task outcomes will also be described by device category and prior website use, showing each group's denominator. These comparisons will be exploratory and descriptive, without causal claims. Open-ended comments and observation notes will be coded into barriers such as unclear labels, difficulty locating hours, menu confusion, and reservation-entry problems. New categories will be added when supported by the responses. Comments may receive multiple codes; theme counts will count each participant once per theme. A second team member will review the coding and resolve disagreements with the initial coder. An evidence table will connect recurring barriers to the affected task and a proposed improvement.
+
 ##### Justification for the Method
 
+These methods directly address AO4's effectiveness, efficiency, and perceived-ease outcomes. Hornbæk's usability review supports distinguishing observed performance from subjective evaluation [@hornbaek2006]. A participant can complete a task but still rate it difficult, so success and ease will remain separate. Medians limit the influence of unusually long successful attempts, while full rating distributions preserve the ordered nature of the survey responses. Navigation clarity and usefulness will not be combined into an unvalidated usability scale. This distinction is consistent with the broader concepts of ease and usefulness discussed in Chapter 2 [@davis1989].
+
+The objective is diagnostic and descriptive, so a predictive or causal model is not required to identify which tasks need improvement. The 80% threshold is a team-proposed planning target, not a published standard. Recommendations will consider the size of the observed shortfall, uncertainty, comments, and task context together. Reaching the reservation interface will indicate navigation success only; it will not establish a completed reservation, increased demand, or revenue growth.
+
 ##### Variables
+
+| Variable | Coding or definition | Role in AO4 |
+|---|---|---|
+| Study code and task | Nonidentifying participant code; menu, hours, or reservation task | Link repeated task records and identify the task |
+| Unassisted completion | 1 = correct completion without help; 0 = valid unsuccessful attempt | Binary performance outcome |
+| Elapsed time | Seconds from task start to stopping event; reason recorded separately | Efficiency outcome; successful attempts summarized separately |
+| Task ease | 1 = very difficult through 5 = very easy, after each attempt | Ordinal perception outcome |
+| Navigation clarity; website usefulness | Separate five-category agreement items | Separate ordinal evaluation outcomes |
+| Device; prior website use | Questionnaire or session-record categories | Descriptive grouping variables |
+| Attempt status; stopping reason | Success, incorrect answer, help, abandonment, timeout, technical interruption, or not attempted | Define denominators and exclusions |
+| Comments and observation notes | Verbatim feedback and documented barriers | Explain difficulties and support recommendations |
+
 
 #### AO5. Title of AO5 Here (Name of Author Here)
 
@@ -979,13 +1005,41 @@ The operational definitions and response formats described above follow the Grou
 
 ##### Variables
 
-#### AO4. Title of AO4 Here (Name of Author Here)
+#### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
 ##### Method Used
 
+AO4 will use descriptive website-performance analysis of the group's existing [RKR Website Report in Google Data Studio](https://datastudio.google.com/u/0/reporting/7ab41ba0-f490-42c5-a3c8-fdce7ea982ed/page/aDu6F), together with a focused review of the website materials relevant to the menu, operating-hours, and reservation tasks. The report contains Overview, Traffic and Acquisition, Content Performance, and Search Performance pages. The first three provide website-traffic and engagement measures; Search Performance provides Google Search measures. The underlying connectors, filters, calculated fields, and metric definitions will be confirmed with the report owner before analysis. Access to a dashboard will not be treated as access to individual visitor records or raw event data.
+
+The team will select and document a fixed reporting period before extracting results, rather than relying on a moving dashboard default. At initial review, the displayed period was September 17–October 16, 2026; this is an available baseline window, not a confirmed final study period. Exports will retain the reporting dates, extraction date, page/table name, dimensions, and filters. Where export is unavailable, values will be transcribed into a structured table and checked against dated screenshots by a second team member. All available rows will be obtained where possible; a visible top-ten table will not be described as the full dataset. Missing, suppressed, or unavailable values will remain distinct from zero.
+
+The Overview and Traffic and Acquisition pages will describe total users, new users, sessions, views, engagement rate, average engagement time per session, session channel group, source/medium, and landing page, where each measure is available. Daily users and sessions will be plotted over time to identify fluctuations requiring context, such as service dates or promotional activity. The team will check whether chart totals reconcile under the same dates and filters before calculating channel shares or making comparisons. Differences will be documented and referred to the report owner rather than resolved by combining incompatible totals. User counts across pages or channels will not be summed as unique people, because the same user may appear in multiple groups.
+
+Content Performance will be used to rank relevant page paths by views and describe total users, views per active user, and reported engagement rate. Homepage, menu, contact/visit, document, and error-page records will be reviewed separately. Raw paths will be retained; a separate mapping will group verified variants by purpose without erasing distinctions between working and obsolete URLs. In particular, records titled "File Not Found" at older menu or contact paths will be flagged for current-link verification. Historical dashboard labels alone will not establish that a URL remains broken at the date of review. A high view count can indicate information demand or repeated searching, while a low count can reflect low demand, direct entry elsewhere, or difficulty finding content; the survey and task observations will help interpret these alternatives.
+
+Search Performance will be analyzed separately using clicks, impressions, click-through rate (CTR), average position, query, and page path. Available queries will be coded by menu, hours/visit, reservation, brand-only, or other intent, with ambiguous queries identified and multiple intents allowed. Query groups may overlap, and their counts will not be added as mutually exclusive totals. CTR will equal clicks divided by impressions multiplied by 100 only within a compatible table and reporting scope. Aggregate CTR will use summed clicks and impressions rather than the simple mean of row percentages. Reported aggregate position will be retained rather than recreated by averaging page-level averages. Search clicks will not be added to website sessions, and query totals will not be assumed to match headline totals when reporting limits or privacy exclusions apply. Search measures describe discovery through Google, not task completion after arrival.
+
+A task-by-evidence table will connect dashboard patterns, verified current website content, and the primary-data findings. For example, visits to an obsolete menu path may justify investigating redirects or outdated inbound links, while participant difficulty finding the current menu may support clearer navigation. These are proposed interpretations to evaluate, not completed findings. Year-over-year comparisons will be used only when reporting windows, tracking definitions, and service calendars are sufficiently comparable, with contextual changes documented. No confirmed reservation-click, booking, device, or user-path sequence measure was identified in the reviewed pages. Those analyses will be added only if an appropriate export and definitions become available; page counts alone will not be used to construct a reservation funnel. Anonymous survey participants will not be matched to dashboard visitors.
+
 ##### Justification for the Method
 
+The dashboard supplies existing behavioral records that complement the primary study's controlled tasks and reported perceptions. Descriptive tables, trends, and content comparisons fit AO4's diagnostic purpose and can reveal where to investigate information access. The information-systems framework reviewed in Chapter 2 supports considering system and information quality alongside user evaluations [@delone2003]. The proposed analysis applies that perspective without claiming to test the complete model or establish a causal effect on reservations.
+
+Metric interpretation will follow the provider's documentation. [Google Analytics defines engagement rate](https://support.google.com/analytics/answer/12195621?hl=en) as the share of engaged sessions; it is not the percentage of visitors who successfully find the menu or hours. Average engagement time is not the task-completion time measured in the primary study. [Google Search performance measures](https://support.google.com/webmasters/answer/7576553?hl=en) concern search visibility and clicks. Consequently, the proposed 80% unassisted-completion benchmark will apply only to the primary tasks, not to dashboard engagement rate or search CTR. Aggregate observational data cannot identify each visitor's intent, demonstrate satisfaction, or establish completed bookings and revenue. Tracking limitations and website changes will be reported when interpreting the results.
+
 ##### Variables
+
+| Variable | Definition or coding | Role in AO4 |
+|---|---|---|
+| Reporting period, extraction date, filters, and report page | Recorded with each export or checked transcription | Ensure comparable and traceable summaries |
+| Total users; new users; sessions; views | Distinct dashboard metrics retained under their original definitions | Describe audience and traffic volume |
+| Engagement rate; average engagement time per session | Dashboard-defined engagement percentage and time measure | Describe engagement; not task success or task time |
+| Landing page; page path; page title | Original values plus verified content-purpose mapping | Identify entry points, relevant content, and possible obsolete URLs |
+| Views per active user | Reported measure retained with its stated denominator | Describe repeat content viewing without substituting total users |
+| Session channel group; source/medium | Original acquisition categories | Context for differences in entry traffic |
+| Search query; search page path | Search terms and associated page records; coded intent | Describe how dining information is discovered |
+| Search clicks, impressions, CTR, and average position | Search metrics retained within the same reporting scope | Evaluate visibility and search entry patterns |
+| Current destination status and task-linked evidence | Dated link/content verification and matching primary-data findings | Support specific recommendations and follow-up tests |
 
 #### AO5. Title of AO5 Here (Name of Author Here)
 
