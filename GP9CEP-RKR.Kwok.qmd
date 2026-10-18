@@ -324,7 +324,7 @@ Our analysis focuses on restaurants that could appeal to customers looking for a
 Pomona Valley Mining Company and Coco Palm were selected as nearby comparisons because both promote scenic dining.^1,2^ The Derby in Arcadia provides a regional comparison for upscale dining and special occasions.^3^ VITA Italian Bar & Grill offers another Pomona option and emphasizes Italian food, local ingredients, and its dining atmosphere.^4^
 
 | Restaurant | Main offering | Digital marketing features | What this means for RKR |
-|:---------------|:---------------|:--------------------|:------------------|
+|:---|:---|:---|:---|
 | **RKR — Pomona** | Student-run restaurant with seasonal food, campus-grown ingredients, and hillside views.^7^ | Website includes menus, visitor information, OpenTable reservations, and an Instagram link.^7^ | Student involvement and campus ingredients give RKR different topics to feature in its content. |
 | **Pomona Valley Mining Company — Pomona** | Hilltop dining, Sunday brunch, and private events.^1^ | Website promotes holiday meals and events, provides menu information, and links to OpenTable reservations.^1^ | Competes for scenic dining and celebrations. Its website connects promotions to a clear reservation option. |
 | **Coco Palm — Pomona** | Cuban dining with city views and space for special occasions.^2^ | Website provides menus, reservations, online ordering, and event information.^2^ | Offers another option for local customers looking for a meal with a view or a celebration venue. |
@@ -400,7 +400,7 @@ This segment includes Cal Poly Pomona alumni and residents of Pomona and nearby 
 #### **Summary Table of Segments**
 
 | Characteristic | Segment A: Faculty and Staff | Segment B: Students | Segment C: Local Professionals | Segment D: Alumni and Local Community |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | **Demographics** | Working adults employed on campus | Undergraduate and graduate students | Employees of Pomona-area companies | Alumni and residents of Pomona and nearby cities |
 | **Psychographics** | Busy, connected to the university, supportive of students | Social, active online, budget-aware | Professional, focused on impressions and reliability | Loyal to CPP or looking for a unique local experience |
 | **Benefits sought** | Convenience, quality lunch, meeting space | Social outing, special occasion meal, value | Professional setting, dependable service, easy booking | Scenic views, seasonal food, a memorable celebration |
@@ -422,7 +422,7 @@ Alumni and the local community are a large potential audience with clear reasons
 #### **Summary Table of Segment Evaluation**
 
 | Criterion | Segment A: Faculty and Staff | Segment B: Students | Segment C: Local Professionals | Segment D: Alumni and Local Community |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | **Identifiability** | High | High | Medium | Medium |
 | **Actionability** | High | Medium | Medium | Medium |
 | **Substantiality** | Medium | Medium | Medium | High |
@@ -892,7 +892,7 @@ The objective is diagnostic and descriptive, so a predictive or causal model is 
 ##### Variables
 
 | Variable | Coding or definition | Role in AO4 |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Study code and task | Nonidentifying participant code; menu, hours, or reservation task | Link repeated task records and identify the task |
 | Unassisted completion | 1 = correct completion without help; 0 = valid unsuccessful attempt | Binary performance outcome |
 | Elapsed time | Seconds from task start to stopping event; reason recorded separately | Efficiency outcome; successful attempts summarized separately |
@@ -1033,7 +1033,7 @@ Metric interpretation will follow the provider's documentation. [Google Analytic
 ##### Variables
 
 | Variable | Definition or coding | Role in AO4 |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Reporting period, extraction date, filters, and report page | Recorded with each export or checked transcription | Ensure comparable and traceable summaries |
 | Total users; new users; sessions; views | Distinct dashboard metrics retained under their original definitions | Describe audience and traffic volume |
 | Engagement rate; average engagement time per session | Dashboard-defined engagement percentage and time measure | Describe engagement; not task success or task time |
@@ -1562,7 +1562,7 @@ You should identify the **top five best keywords for each seed keyword** and exp
 A suggested table format:
 
 |  |  |  |  |  |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | **Seed Keyword** | **Recommended Keyword** | **Search Intent** | **Reason for Selection** | **Target Page** |
 | sustainable skincare | natural face cream | Commercial | Relevant to target audience and product category | Product page |
 
@@ -2425,7 +2425,7 @@ The timeline may include:
 Suggested format:
 
 |  |  |  |  |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **Week** | **Activity** | **Responsible Area** | **Deliverable** |
 | Week 1 | Finalize campaign objectives and content calendar | Strategy | Campaign brief |
 | Week 2 | Create website landing page and social content | Website/Social | Landing page mockup, posts |
@@ -2574,7 +2574,7 @@ Set expected performance targets after implementation.
 Examples:
 
 |  |  |  |  |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **KPI** | **Baseline** | **Target** | **Rationale** |
 | Website sessions | 5,000/month | 6,000/month | SEO and paid ads expected to increase traffic |
 | Email CTR | 3% | 5% | Improved segmentation and stronger CTA |
