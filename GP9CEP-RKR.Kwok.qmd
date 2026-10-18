@@ -769,7 +769,7 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 - For more information about data collection methods, data sources, and instruments, refer to the [Data Collection for the Above AO](capstone_project.qmd#data-collection) section of the main capstone project page.
 :::
 
-## Data and Sampling
+## Survey Data
 
 ### Population
 
@@ -777,9 +777,129 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 
 ### Sampling Method
 
-## Data Wrangling (Import, Cleaning, Transformation)
+### Data Collection (Georgia Monjarrez)
 
-### Data Collection
+Primary data will be collected using a Qualtrics questionnaire. The survey introduction estimates a completion time of approximately 10 to 15 minutes and explains that participation is voluntary, participants may stop at any time, and responses will be anonymous and analyzed together. Respondents must agree to participate and confirm that they are at least 18 years old; a negative response to either question ends the survey. Participants will be recruited through [confirm recruitment and distribution channels], and data collection will take place from [start date] to [end date].
+
+The questionnaire asks about RKR awareness, previous dining experiences, Facebook, Instagram, The Collins Concierge newsletter, website usability, and dining preferences. Branching will limit experience-specific questions to applicable respondents. Respondents who report having dined at RKR will answer questions about visit frequency, visit recency, reservation experience, and their dining experience. People who do not use Instagram will skip the remaining Instagram questions. Newsletter design and previous reservation-button clicks will be assessed only among respondents who report seeing the RKR newsletter section; other newsletter questions follow the exposure-based routing specified in the instrument.
+
+The website component will combine participant ratings with researcher-recorded task performance. Participants will begin each of three tasks from the RKR homepage and attempt, without assistance, to find a specified menu, locate specified operating hours, and reach the page or interface where a reservation could be started. Participants will not need to make an actual reservation. Before testing, the researchers will specify [menu and service period], [day or service for the hours task], and [consistent time limit per task], and verify the correct destinations and hours. For each task, researchers will record unassisted completion, elapsed time in seconds, and assistance, abandonment, or technical problems. The task administration and recording procedure will be [confirm how sessions will be conducted and task records linked to questionnaire responses].
+
+Participants will rate task ease immediately after each attempt, including unsuccessful attempts. After the tasks, they will evaluate navigation clarity and website usefulness and may describe difficulties in an open-ended response. The final questionnaire will be included in the survey instrument appendix.
+
+### Sample Characteristics (Georgia Monjarrez)
+
+The eligible sample will consist of consenting respondents aged 18 years or older. The questionnaire does not collect exact age, gender, race or ethnicity, education, income, or occupation. Accordingly, the sample profile will describe adult eligibility and the behavioral and usage characteristics actually collected. No demographic distribution beyond adult eligibility will be inferred.
+
+#### Relevant Behavioral Variables
+
+Behavioral characteristics will include prior awareness of RKR, previous dining experience, and the channels through which respondents have encountered the restaurant. Among previous diners, the profile will include visit frequency, most recent visit, and reservation experience. Lifestyle characteristics will include general restaurant dining frequency, enjoyment of trying new restaurants, perceived influence of online content, frequency of researching restaurants online, and the factors considered most important when choosing where to dine.
+
+#### Product and Marketing Channel Usage Variables
+
+Usage characteristics will include reported exposure to RKR content on Facebook and Instagram, Instagram nonuse, exposure to the RKR section in The Collins Concierge, newsletter nonreadership, and prior website use. The device used during website tasks will also be reported. These characteristics will distinguish prior customers from other respondents and identify the relevant audiences for channel-specific analyses.
+
+After data collection, frequencies and percentages will summarize categorical responses, including ordered visit and dining-frequency categories. Multiple-response items will be summarized as the percentage of eligible respondents selecting each option; percentages may total more than 100 percent. Each summary will identify its valid-response denominator. Questions skipped through branching will be treated as not applicable rather than as negative answers. The total sample size and eligible counts for the dining, channel-specific, and website-task analyses will be reported once available.
+
+### Measures (Georgia Monjarrez)
+
+Constructs will be operationalized using the questionnaire items and the website task records. Five-category agreement, satisfaction, likelihood, frequency, and task-ease responses will be treated as ordinal at the individual-item level. Where coded numerically, ordered responses will run from 1 to 5, with larger values representing more agreement, satisfaction, likelihood, frequency, or ease. Nominal categories will not be interpreted as numerical rankings. Open-ended responses will retain their qualitative meaning and may be organized into themes.
+
+#### Independent Variables Where Applicable
+
+Food quality, service quality, and atmosphere or physical environment are potential predictors in analyses of customer satisfaction or future intentions. Each is measured with four agreement items, anchored from strongly disagree to strongly agree. Food-quality items address quality, taste, freshness, and visual appeal. Service items address friendliness, attentiveness, professionalism, and promptness. Atmosphere items address pleasantness, cleanliness, comfort, and visual appeal. The items will first be examined separately; a construct mean may be used if their conceptual coherence and internal consistency support combining them. Any composite scoring and missing-item rule will be specified before analysis.
+
+Marketing channel measures include nominal exposure categories and content or format preferences. Facebook content and message preferences are single-choice nominal items. Instagram content preferences allow up to two choices, while format preference is single choice. Newsletter design is measured with four agreement items addressing visual appeal, appetizing visuals, reservation-button visibility, and clarity of the button's destination. These address distinct design features and will initially be analyzed separately. Newsletter format preference is nominal, as is reported previous reservation-button clicking. Preferences and exposure may serve as predictors where supported by the corresponding analytics objective.
+
+#### Dependent Variables Where Applicable
+
+Customer outcomes include overall satisfaction, intention to return, and willingness to recommend RKR, each measured with one five-category ordinal item. Facebook outcomes include stated likelihood of interacting with an interesting post and perceived likelihood that a post would influence a reservation decision. Instagram outcomes include stated likelihood of interacting with an interesting post and clicking a reservation link. The newsletter outcome is perceived likelihood of influencing a reservation decision. These channel outcomes use five ordered likelihood categories. They measure reported intentions or perceptions rather than verified future engagement or completed reservations.
+
+For AO4, website performance will be measured separately for each task. Unassisted completion will be recorded as a binary nominal outcome, and elapsed time will be recorded in seconds on a ratio scale. Task completion rate will equal successful unassisted attempts divided by valid attempts for that task, multiplied by 100. Technical interruptions will be flagged and reported separately; unsuccessful attempts will remain in the completion denominator when they are valid attempts. Completion-time summaries will identify whether they describe successful attempts or all attempts, and time-limit stops will be distinguished from successful completion times.
+
+Perceived task ease will be measured after each of the three attempts using a single five-category item ranging from very difficult to very easy. Navigation clarity and website usefulness will each be measured by one agreement item after the tasks. These are separate ordinal measures and will not automatically be combined into an overall usability score. Open-ended website feedback will identify reported barriers to finding information or reaching the reservation interface. Reaching that interface is a navigation outcome, not a completed booking.
+
+#### Control and Descriptive Variables Where Applicable
+
+Prior website use and device category may be used to compare task outcomes or account for differences in familiarity and browsing conditions when relevant to AO4. Prior dining experience, visit frequency, visit recency, reservation experience, marketing channel exposure, and dining lifestyle items will describe respondents and may serve as covariates when justified by an objective and the available sample. Their roles will be determined by each analysis rather than assumed to apply to every model. Adult eligibility is a screening condition, not a variable with meaningful variation among eligible respondents.
+
+Discovery channels and important dining factors are multiple-response nominal items. Each option will be represented separately when tabulated or modeled. Visit frequency, visit recency, and restaurant dining frequency use ordered categories; the original categories will be retained rather than treated as exact counts or dates. Open-ended dining and newsletter feedback will be reviewed alongside website feedback within their respective topic areas.
+
+#### Sources of Measures
+
+The operational definitions and response formats described above follow the Group 9 RKR Survey questionnaire. Sources for adopted or adapted measures will be documented as follows: [insert the original references for any borrowed or adapted items and identify which items were developed by the team].
+
+### Analytics Methods to Employ
+
+*(1-2 pages per AO)*
+
+::: callout-note
+- *In this section, provide specific data science methods, variables/features to be used, and justifications for the methods and choice of the variables/features.*
+
+- *Provide a sufficient amount of writing (one or two paragraphs) under each AO. The word sufficiency is relativistic, depending on the objective.*
+
+- *Your description should be able to inform readers of what the method is, why you want to use it, and what variables/features you plan to use, such that readers do not have questions.*
+:::
+
+::: callout-tip
+#### Assessment Rubric for SLO 3: Build a model appropriate for addressing the project objectives
+
+- This section will in part be used to evaluate your performance on SLO 3, which is to build a model appropriate for addressing the project objectives. The specific model you build will depend on the analytics objectives you have set for your project and the data you have collected. Make sure to choose a model that is appropriate for your analytics objectives and to justify your choice of the model based on the literature review and theoretical development presented in Chapter 2.
+
+- The following rubric will be used to evaluate the quality of your model. Make sure to review this rubric carefully and use it as a guide when writing your recommendations section.
+
+  ![](images/slo-3.png)
+:::
+
+#### AO1. Title of AO1 Here (Name of Author Here)
+
+##### Method Used
+
+##### Justification for the Method
+
+##### Variables
+
+#### AO2. Title of AO2 Here (Name of Author Here)
+
+##### Method Used
+
+##### Justification for the Method
+
+##### Variables
+
+#### AO3. Title of AO3 Here (Name of Author Here)
+
+##### Method Used
+
+##### Justification for the Method
+
+##### Variables
+
+#### AO4. Title of AO4 Here (Name of Author Here)
+
+##### Method Used
+
+##### Justification for the Method
+
+##### Variables
+
+#### AO5. Title of AO5 Here (Name of Author Here)
+
+##### Method Used
+
+##### Justification for the Method
+
+##### Variables
+
+## Secondary Data
+
+### Data Source
+
+### Population
+
+### Sampling Frame
+
+### Sampling Method
 
 ### Data Wrangling
 
@@ -797,61 +917,23 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 
 ### Programming
 
-## Sample Characteristics
+### Sample Characteristics
 
-#### Age
-
-#### Gender
-
-#### Race/ethnicity
-
-#### Education
-
-#### Income
-
-#### Occupation
+#### Relevant Demographic Variables
 
 #### Relevant Behavioral Variables
 
-#### Product Usage Variables.
+#### Product Usage Variables
 
-## Measures
+### Measures
 
-::: callout-note
-*Define the constructs in your analysis and describe how each construct will be operationalized (one item vs. multi-item). Explain what type of scale will be used (nominal, ordinal, interval, ratio), source, etc. Provide this information for each construct categorized under the following headings (IV, DV, Control). Each construct name will be another subheading. See journal articles for an idea.*
-:::
+#### Independent Variables (if applicable)
 
-### Independent Variables. (if applicable)
+#### Dependent Variables (if applicable)
 
-#### Variable Name 1
+#### Control Variables (if applicable)
 
-#### Variable Name 2
-
-#### Variable Name 3
-
-#### Variable Name 4
-
-### Dependent Variables (if applicable)
-
-#### Variable Name 5
-
-#### Variable Name 6
-
-#### Variable Name 7
-
-#### Variable Name 8
-
-### Control Variables (if applicable)
-
-#### Variable Name 9
-
-#### Variable Name 10
-
-#### Variable Name 11
-
-#### Variable Name 12
-
-## Analytics Methods to Employ
+### Analytics Methods to Employ
 
 *(1-2 pages per AO)*
 
@@ -864,7 +946,7 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 :::
 
 ::: callout-tip
-### Assessment Rubric for SLO 3: Build a model appropriate for addressing the project objectives
+#### Assessment Rubric for SLO 3: Build a model appropriate for addressing the project objectives
 
 - This section will in part be used to evaluate your performance on SLO 3, which is to build a model appropriate for addressing the project objectives. The specific model you build will depend on the analytics objectives you have set for your project and the data you have collected. Make sure to choose a model that is appropriate for your analytics objectives and to justify your choice of the model based on the literature review and theoretical development presented in Chapter 2.
 
@@ -873,45 +955,45 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
   ![](images/slo-3.png)
 :::
 
-### AO1. Title of AO1 Here (Name of Author Here)
+#### AO1. Title of AO1 Here (Name of Author Here)
 
-#### Method Used
+##### Method Used
 
-#### Justification for the Method
+##### Justification for the Method
 
-#### Variables
+##### Variables
 
-### AO2. Title of AO2 Here (Name of Author Here)
+#### AO2. Title of AO2 Here (Name of Author Here)
 
-#### Method Used
+##### Method Used
 
-#### Justification for the Method
+##### Justification for the Method
 
-#### Variables
+##### Variables
 
-### AO3. Title of AO3 Here (Name of Author Here)
+#### AO3. Title of AO3 Here (Name of Author Here)
 
-#### Method Used
+##### Method Used
 
-#### Justification for the Method
+##### Justification for the Method
 
-#### Variables
+##### Variables
 
-### AO4. Title of AO4 Here (Name of Author Here)
+#### AO4. Title of AO4 Here (Name of Author Here)
 
-#### Method Used
+##### Method Used
 
-#### Justification for the Method
+##### Justification for the Method
 
-#### Variables
+##### Variables
 
-### AO5. Title of AO5 Here (Name of Author Here)
+#### AO5. Title of AO5 Here (Name of Author Here)
 
-#### Method Used
+##### Method Used
 
-#### Justification for the Method
+##### Justification for the Method
 
-#### Variables
+##### Variables
 
 ------------------------------------------------------------------------
 
@@ -2703,3 +2785,4 @@ If your project doesn't have a client and is intended to benefit the public or i
 ## Other Technical Details
 
 *(Include technical details not appropriate for inclusion in the main text. Do not include important tables and charts that you will explain in the main text; those figures and charts should be located in the same area of the main text where you discuss them for good reading experience for the readers)*
+
