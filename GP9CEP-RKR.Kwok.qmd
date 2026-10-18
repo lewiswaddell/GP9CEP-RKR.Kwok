@@ -853,19 +853,60 @@ The operational definitions and response formats described above follow the Grou
 
 ##### Variables
 
-#### AO2. Title of AO2 Here (Name of Author Here)
+
+#### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
 
 ##### Method Used
 
+AO2 will use descriptive statistical analysis and qualitative thematic coding to evaluate guests' perceptions of their dining experiences at The Restaurant at Kellogg Ranch (RKR). Primary data will be obtained from the Group 9 Qualtrics survey. The analysis will include eligible adult respondents who report having previously dined at RKR and provide valid responses to the relevant experience questions.
+
+The quantitative analysis will focus on three dimensions: food quality, service quality, and atmosphere/physical environment. Each dimension will be assessed using four five-point agreement items. Food quality includes overall quality, taste, freshness, and visual appeal. Service quality includes friendliness, attentiveness, professionalism, and promptness. Atmosphere/physical environment includes pleasantness, cleanliness, comfort, and visual appeal. Overall satisfaction will be examined separately using a single five-category item.
+
+First, the survey dataset will be screened for eligibility, applicable survey branching, missing responses, and duplicate records where identifiable without compromising respondent anonymity. Respondents who have not visited RKR will be excluded from the guest-experience analysis, but their responses may remain relevant to other group objectives. Questions skipped because of survey branching will be classified as not applicable rather than as negative responses.
+
+For each experience item, response frequencies, percentages, and valid-response counts will be reported. Median ratings and response distributions will preserve the ordinal nature of the five-point scales. Mean ratings and standard deviations may also be reported as supplementary descriptive summaries to facilitate comparisons across items. Any comparisons will use consistent response coding, with higher scores indicating more favorable evaluations.
+
+Each of the twelve experience attributes will initially be evaluated separately. Dimension-level averages may be calculated if the four items within each dimension demonstrate appropriate conceptual coherence and sufficient internal consistency. Composite scoring rules, including the treatment of missing items, will be established before calculating these scores. If combining items is not justified, results will be reported at the individual-item level.
+
+The analysis will identify the highest-rated and lowest-rated attributes of the RKR dining experience. Summary tables and bar charts will display response distributions and descriptive comparisons. Overall satisfaction, intention to return, and willingness to recommend will be summarized separately using valid counts and percentages. These intention measures will not be interpreted as evidence of actual repeat visits or recommendations.
+
+Open-ended responses concerning the best aspects of the dining experience and opportunities for improvement will be analyzed through descriptive thematic coding. Responses will be reviewed and assigned one or more codes reflecting their content. Related codes will be grouped into recurring themes, including food quality, service, atmosphere, and any additional themes emerging from the data. Positive comments and improvement suggestions will be summarized separately. Theme frequencies will count each respondent once per theme, even when multiple comments address the same theme.
+
+If sufficient complete and usable responses are available, exploratory associations between experience ratings and overall satisfaction may be examined using Spearman rank correlations. These analyses will be secondary to the descriptive objectives and will not be interpreted as causal relationships.
+
 ##### Justification for the Method
 
+Descriptive statistical methods are appropriate for AO2 because the objective is to identify the dining experience attributes that guests evaluate most favorably and those that may require improvement. The study does not primarily seek to predict satisfaction or establish causal relationships.
+
+The selection of food quality, service quality, and atmosphere/physical environment is supported by the restaurant quality framework examined by Ryu, Lee, and Kim [@ryu2012]. This framework considers multiple dimensions of the restaurant experience when examining guest evaluations and behavioral intentions. Namkung and Jang also emphasize the relevance of food quality to restaurant customer satisfaction [@namkung2007]. Research by Han and Ryu [@han2009] and Heung and Gu [@heung2012] further supports considering the restaurant's physical environment.
+
+These studies provide a theoretical foundation for evaluating the experience dimensions separately. However, results from other restaurant settings cannot establish which characteristics RKR guests value most. Collecting and summarizing primary survey responses will provide information specific to RKR's student-operated restaurant environment.
+
+The use of thematic coding complements the closed-ended survey questions by identifying recurring guest experiences and suggestions that may not be fully captured by predefined rating categories. Combining descriptive quantitative summaries with qualitative feedback will provide a practical basis for identifying strengths and improvement opportunities.
+
+Because participation is voluntary and the final recruitment method has not yet been confirmed, the findings may be affected by selection and nonresponse bias. The analysis will describe the respondents who participated rather than claim that the results necessarily represent all RKR guests. Differences between reported experiences, overall satisfaction, and future intentions will be interpreted as descriptive or exploratory relationships, not causal effects.
+
 ##### Variables
+
+| Variable | Measurement or coding | Role in AO2 |
+|---|---|---|
+| Previous RKR dining experience | Screening response indicating whether the respondent has visited RKR | Determine eligibility for guest-experience analysis |
+| Food quality | Four five-point agreement items covering quality, taste, freshness, and visual appeal | Primary experience dimension |
+| Service quality | Four five-point agreement items covering friendliness, attentiveness, professionalism, and promptness | Primary experience dimension |
+| Atmosphere/physical environment | Four five-point agreement items covering pleasantness, cleanliness, comfort, and visual appeal | Primary experience dimension |
+| Overall satisfaction | One five-category satisfaction item | Overall guest-experience indicator |
+| Intention to return | One five-category likelihood item | Secondary behavioral intention indicator |
+| Willingness to recommend | One five-category likelihood item | Secondary behavioral intention indicator |
+| Visit frequency and recency | Ordered response categories for previous RKR diners | Descriptive characteristics and potential exploratory grouping variables |
+| Reservation experience | Questionnaire categories describing previous reservation behavior or experience | Descriptive contextual variable |
+| Positive dining experience comments | Open-ended responses coded into recurring themes | Qualitative identification of strengths |
+| Improvement suggestions | Open-ended responses coded into recurring themes | Qualitative identification of improvement opportunities |
+
+The analysis will retain the original survey response categories and report valid-response denominators. Missing and not-applicable responses will be distinguished. Descriptive findings will be used to develop recommendations for strengthening the RKR guest experience.
 
 #### AO3. Title of AO3 Here (Name of Author Here)
 
 ##### Method Used
-
-##### Justification for the Method
 
 ##### Variables
 
@@ -944,23 +985,104 @@ We still need to confirm the date range and what information RKR can share. Some
 
 #### Visualize
 
+
 ### Programming
+
+The secondary data analysis will follow a structured and reproducible workflow to organize, process, and analyze the available digital marketing and reservation-related data from The Restaurant at Kellogg Ranch (RKR).
+
+The datasets will be obtained from the available sources identified in Section 3.2.1, including Canva website insights for The Collins Concierge, Facebook analytics from Meta Business Suite, Instagram Insights, and available OpenTable reservation records. Access to these datasets and their reporting periods will be confirmed with RKR staff before analysis.
+
+The programming workflow will begin with importing the available data exports into a structured analytical environment. Each dataset will be examined to identify variable names, data types, reporting dates, missing values, duplicate records, and inconsistencies. Original data files will be preserved to allow subsequent verification of the processing procedures.
+
+Next, the data will be organized according to the requirements of each analytics objective. Newsletter performance data will be grouped by design version and reporting period. Facebook records will be classified according to content and messaging characteristics, while Instagram records will be categorized by post format, such as single-image posts, carousels, and Reels. Available reservation records will be organized according to the reporting periods and variables provided by OpenTable.
+
+The analytical procedures will include calculating descriptive statistics and marketing performance indicators. These may include total engagement, engagement rates, reservation-button click rates, and reservation-related activity, depending on the available variables.
+
+Data from different platforms will be compared only when their reporting periods, units of analysis, and metric definitions are compatible. Social media engagement, reservation-link clicks, and completed reservations will be treated as distinct outcomes. Marketing activity will not be attributed to specific reservations unless reliable tracking information supports that connection.
+
+Summary tables and visualizations will be produced to communicate the results. Bar charts may be used to compare content categories and formats, while line charts may be used to illustrate changes in marketing performance over time.
+
+The software and programming tools selected for data preparation, analysis, and visualization will be documented once confirmed by the team. All relevant transformations, calculations, and exclusions will be recorded to support transparency and reproducibility.
+
+This workflow will allow the team to conduct consistent comparisons across available secondary datasets while recognizing differences in platform reporting methods and data availability.
+
+
 
 ### Sample Characteristics
 
+The secondary datasets will consist of available observations from The Restaurant at Kellogg Ranch's (RKR) digital marketing platforms and reservation system. These sources include Canva insights for The Collins Concierge, Facebook analytics from Meta Business Suite, Instagram Insights, and available OpenTable reservation records.
+
+The unit of analysis will vary depending on the data source and analytics objective. For example, newsletter records may represent individual newsletter versions or reporting periods, while Facebook and Instagram observations may represent individual posts. OpenTable records may represent individual reservations or aggregated reservation activity, depending on the information provided by RKR.
+
+The number of observations, reporting periods, and inclusion criteria will be documented separately for each dataset once access is confirmed. Because these records originate from different reporting systems, their characteristics will be described individually rather than treated as one combined sample.
+
 #### Relevant Demographic Variables
+
+Demographic characteristics will be reported only when available in the secondary datasets. Social media platforms may provide aggregated audience information, such as age ranges, gender distributions, or geographic locations, depending on account permissions and reporting availability.
+
+Individual-level demographic information will not be assumed to be available from newsletter performance reports or reservation records. If demographic variables are unavailable, this limitation will be documented rather than attempting to infer customer characteristics from engagement metrics.
 
 #### Relevant Behavioral Variables
 
+Behavioral characteristics will include measurable interactions with RKR's digital marketing channels.
+
+For The Collins Concierge, relevant behaviors may include newsletter views, Reserve a Table button clicks, and available reservation-related actions.
+
+For Facebook, relevant behavioral variables may include reactions, comments, shares, link clicks, and other engagement metrics available through Meta Business Suite.
+
+For Instagram, behavioral characteristics may include likes, comments, shares, saves, reach, and engagement rates across different post formats, including single-image posts, carousels, and Reels.
+
+Where OpenTable data are available, reservation-related activity may be summarized by reporting period. Digital engagement and reservation activity will be analyzed as separate outcomes unless reliable tracking data support a connection between them.
+
 #### Product Usage Variables
+
+Product and service usage characteristics will focus on how audiences interact with RKR's digital content and reservation-related services.
+
+Relevant measures may include engagement with restaurant promotions, interactions with reservation links, and completed reservations where those records are available.
+
+Newsletter versions and social media post formats will also be classified to describe which promotional materials audiences interacted with during the study period.
+
+The analysis will distinguish content exposure, digital engagement, reservation-link clicks, and completed reservations because these activities represent different stages of the customer journey.
+
+Summary tables will report the number of available records and relevant characteristics for each data source. Missing values, incomplete reporting periods, and platform-specific limitations will be documented to support accurate interpretation of the findings.
+
 
 ### Measures
 
+Secondary-data measures will be defined according to the analytics objectives established in Chapter 1. Each measure will retain its original platform definition, and calculated metrics will be documented to ensure consistent interpretation across reporting periods.
+
+Because the project includes descriptive comparisons and exploratory associations, independent, dependent, and control variables will be identified only where applicable to each analytics objective.
+
 #### Independent Variables (if applicable)
+
+Independent or grouping variables may include newsletter design version, Facebook content and messaging category, Instagram post format, website acquisition channel, and reporting period.
+
+For AO1, newsletter design version will distinguish the button-placement and media-format conditions. For AO3, Facebook content and messaging categories will be used to compare engagement across posts. For AO5, Instagram posts will be classified as single-image posts, carousels, or Reels.
+
+For AO4, website acquisition channels, landing pages, and page categories may be used to organize descriptive comparisons. These grouping variables will not automatically be interpreted as causal predictors.
 
 #### Dependent Variables (if applicable)
 
+Dependent or outcome variables will reflect the performance measures associated with each analytics objective.
+
+For AO1, the primary outcome will be the Reserve a Table click rate, calculated using compatible click and view counts. Attributed OpenTable reservations will be examined as a secondary outcome when reliable tracking data are available.
+
+For AO3, Facebook outcomes may include reactions, comments, shares, and link clicks. These engagement measures may be compared with available reservation activity when reporting periods and data definitions are compatible.
+
+For AO5, Instagram engagement rate will be calculated as the sum of likes, comments, shares, and saves divided by reach, where those metrics are available. Engagement rates will be compared across post formats.
+
+For AO4, website performance indicators may include users, sessions, page views, engagement rate, and acquisition information. Google Search performance may be evaluated using clicks, impressions, click-through rate, and average position.
+
 #### Control Variables (if applicable)
+
+Reporting period, content publication date, campaign timing, and relevant calendar conditions may be considered when interpreting marketing performance.
+
+Where supported by the available data, the analysis may account descriptively for university events, holidays, restaurant service periods, and differences in audience reach.
+
+Control variables will be used only when their relevance and measurement can be established. The team will avoid interpreting observed associations between digital engagement and reservation activity as evidence of causation.
+
+For each measure, the final analysis will document its source, operational definition, reporting period, unit of analysis, and calculation method. Missing or unavailable measures will be identified rather than estimated without supporting evidence.
+
 
 ### Analytics Methods to Employ
 
@@ -992,13 +1114,21 @@ We still need to confirm the date range and what information RKR can share. Some
 
 ##### Variables
 
-#### AO2. Title of AO2 Here (Name of Author Here)
+
+#### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
 
 ##### Method Used
 
+AO2 will rely on primary data collected through the Group 9 Qualtrics survey. No separate secondary-data analysis is currently planned for this objective. The primary analytical methods are described in Section 3.1.7.
+
 ##### Justification for the Method
 
+The objective is to evaluate guests' perceptions of food quality, service quality, and atmosphere/physical environment. These perceptions require direct guest feedback and cannot be reliably inferred from the secondary digital marketing and reservation records currently identified for the project.
+
 ##### Variables
+
+Not applicable. The variables used to address AO2 are defined in Section 3.1.7.
+
 
 #### AO3. Title of AO3 Here (Name of Author Here)
 
