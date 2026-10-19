@@ -17,7 +17,6 @@ format:
     #fontsize: 18px
     code-tools: true
     code-overflow: wrap
-  
 bibliography: references.bib
 csl: styles/american-marketing-association.csl
 ---
@@ -386,19 +385,13 @@ Our analysis focuses on restaurants that could appeal to customers looking for a
 
 Pomona Valley Mining Company and Coco Palm were selected as nearby comparisons because both promote scenic dining.^1,2^ The Derby in Arcadia provides a regional comparison for upscale dining and special occasions.^3^ VITA Italian Bar & Grill offers another Pomona option and emphasizes Italian food, local ingredients, and its dining atmosphere.^4^
 
-+-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Restaurant                                | Main offering                                                                               | Digital marketing features                                                                                             | What this means for RKR                                                                                        |
-+:==========================================+:============================================================================================+:=======================================================================================================================+:===============================================================================================================+
-| **RKR — Pomona**                          | Student-run restaurant with seasonal food, campus-grown ingredients, and hillside views.^7^ | Website includes menus, visitor information, OpenTable reservations, and an Instagram link.^7^                         | Student involvement and campus ingredients give RKR different topics to feature in its content.                |
-+-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Pomona Valley Mining Company — Pomona** | Hilltop dining, Sunday brunch, and private events.^1^                                       | Website promotes holiday meals and events, provides menu information, and links to OpenTable reservations.^1^          | Competes for scenic dining and celebrations. Its website connects promotions to a clear reservation option.    |
-+-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **Coco Palm — Pomona**                    | Cuban dining with city views and space for special occasions.^2^                            | Website provides menus, reservations, online ordering, and event information.^2^                                       | Offers another option for local customers looking for a meal with a view or a celebration venue.               |
-+-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **The Derby — Arcadia**                   | Upscale steakhouse with a long history and a focus on its dining atmosphere.^3^             | Website shares the restaurant’s history, food and interior photos, reservation links, and group-dining information.^3^ | Shows how a restaurant can use its story and atmosphere to give customers a reason to visit.                   |
-+-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| **VITA Italian Bar & Grill — Pomona**     | Italian dining with local ingredients, an outdoor terrace, and Sunday brunch.^4^            | Website features menus, reservation links, food photos, brunch promotions, and cooking classes.^4^                     | Provides another nearby dining option. Its food and event promotions give us ideas for content RKR could test. |
-+-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| Restaurant | Main offering | Digital marketing features | What this means for RKR |
+|:---------------|:---------------|:--------------------|:------------------|
+| **RKR — Pomona** | Student-run restaurant with seasonal food, campus-grown ingredients, and hillside views.^7^ | Website includes menus, visitor information, OpenTable reservations, and an Instagram link.^7^ | Student involvement and campus ingredients give RKR different topics to feature in its content. |
+| **Pomona Valley Mining Company — Pomona** | Hilltop dining, Sunday brunch, and private events.^1^ | Website promotes holiday meals and events, provides menu information, and links to OpenTable reservations.^1^ | Competes for scenic dining and celebrations. Its website connects promotions to a clear reservation option. |
+| **Coco Palm — Pomona** | Cuban dining with city views and space for special occasions.^2^ | Website provides menus, reservations, online ordering, and event information.^2^ | Offers another option for local customers looking for a meal with a view or a celebration venue. |
+| **The Derby — Arcadia** | Upscale steakhouse with a long history and a focus on its dining atmosphere.^3^ | Website shares the restaurant’s history, food and interior photos, reservation links, and group-dining information.^3^ | Shows how a restaurant can use its story and atmosphere to give customers a reason to visit. |
+| **VITA Italian Bar & Grill — Pomona** | Italian dining with local ingredients, an outdoor terrace, and Sunday brunch.^4^ | Website features menus, reservation links, food photos, brunch promotions, and cooking classes.^4^ | Provides another nearby dining option. Its food and event promotions give us ideas for content RKR could test. |
 
 *The table compares visible website features. It does not show which restaurant has better marketing results.*
 
@@ -414,37 +407,108 @@ Because these figures are not available to our team, we cannot estimate each res
 
 #### Industry Life Cycle
 
+We consider the restaurant industry to be in the maturity stage because it is well established and restaurants compete for customers who have many options. This is our interpretation rather than an official industry classification. The National Restaurant Association projected only 0.8% sales growth after inflation for 2026 in its July update.^6^
+
+For RKR, this means giving customers a clear reason to visit. Its student-run experience and campus-grown ingredients could help it stand out from other restaurants.
+
 #### Future Sales/Profit Growth Outlook
+
+The National Restaurant Association’s July update projected sales growth of 4.3% in 2026, or 0.8% after inflation. It also reported uneven customer traffic and high operating costs.^6^ These figures describe the national industry and do not tell us how much RKR will grow.
+
+Higher sales also do not always mean higher profits because food, labor, and other costs can increase. For RKR, our project can help identify which marketing content gets attention and encourages reservation-related actions. We would need its financial information and seating capacity to estimate future sales or profit growth.
 
 ### Key Competitors and Their Digital Marketing Strategies
 
+This section compares information available on the competitors’ websites. It shows how they present their restaurants, but it does not tell us which restaurant has the most effective marketing.
+
 #### Target Market
+
+Based on their websites, the selected competitors appear to appeal to people looking for dining experiences, celebrations, and group meals. Pomona Valley Mining Company promotes scenic dining, brunch, and events. Coco Palm promotes Cuban food and group or romantic dining. The Derby emphasizes upscale dining and special occasions, while VITA promotes Italian food, brunch, and cooking classes.^1,2,3,4^
+
+These are our interpretations of their likely audiences. We would need customer information to confirm who visits each restaurant and how much those audiences overlap with RKR.
 
 #### Positioning
 
+Each restaurant emphasizes something different. Pomona Valley Mining Company focuses on its views and event spaces. Coco Palm highlights Cuban food and its dining experience. The Derby uses its history and connection to horse racing, while VITA emphasizes Italian food and local ingredients.^1,2,3,4^
+
+RKR could emphasize its student involvement and campus-grown ingredients. These give it a story beyond the food and views, although we still need to test which messages interest customers.
+
 #### Website and Landing Page
+
+The competitors use their websites to share information and give customers a way to take the next step. Pomona Valley Mining Company includes dining promotions and reservation links. Coco Palm provides dining information and online ordering. The Derby includes reservations and group-dining information, while VITA features menus, reservations, and cooking classes.^1,2,3,4^
+
+We have not confirmed whether they use separate landing pages for specific advertising campaigns. For RKR, AO4 will examine whether visitors can easily find the menu, hours, and reservation option.
 
 #### Keyword research and SEO
 
+Coco Palm has website pages mentioning nearby areas and Cuban dining. The Derby’s homepage title includes its location and restaurant category.^2,3^ This wording could help customers find relevant information, but it does not tell us how well the websites perform in search results.
+
+We still need information about search rankings, traffic, and keyword research. For RKR, possible topics to research include Pomona dining, student-run restaurants, and searches for the restaurant’s name.
+
 #### Email Marketing Strategy
+
+Pomona Valley Mining Company and VITA have email signup forms on their websites.^1,4^ This shows that visitors can subscribe, but we have not reviewed their emails or how often they send them.
+
+For RKR, the newsletter objective will examine whether moving the “Reserve a Table” button affects reservation-link clicks. Reviewing competitor emails could also provide examples of how restaurants present promotions and reservation options.
 
 #### Social Media Posting
 
+VITA lists Instagram and Facebook accounts on its website.^4^ We still need to review recent posts from all four competitors before comparing their posting frequency, content, and engagement.
+
+For AO5, we could review posts from the same time period and group them by food, atmosphere, events, and other topics. This could give us ideas for content RKR could test. However, we would need account Insights to compare engagement rates based on reach.
+
 #### Paid Search Advertising
+
+We have not confirmed whether the selected competitors use paid search advertising. Showing up in search results does not necessarily mean a restaurant paid for that placement.
+
+We would need examples of sponsored search ads before comparing their messages and destination pages. Advertising budgets and results are not available to our team.
 
 #### Social Media Advertising
 
+We have not confirmed paid social media campaigns for the selected competitors. A post promoting a meal or event could be a regular post rather than a paid advertisement.
+
+A review of advertising-library records could help us find examples. We could then compare the messages, images, and links used in those ads.
+
 #### Display Advertising
+
+We have not confirmed whether the competitors pay for display ads on other websites. Promotions shown on their own websites do not establish that they use display advertising.
+
+We would need examples of outside ad placements before making this comparison.
 
 #### Conversion Rate Optimization (CRO)
 
+The competitors provide several ways for visitors to take action. Pomona Valley Mining Company has reservation links and an event inquiry form. The Derby has a reservation page, while VITA links to reservations and cooking-class registration.^1,3,4^
+
+These features give customers a next step, but we do not know whether the restaurants have tested them. For RKR, we can examine how easy the reservation option is to find. Reservation-link clicks should still be measured separately from completed reservations.
+
 #### Mobile Application
+
+We have not confirmed a dedicated mobile app for any of the selected competitors. Using a third-party reservation or ordering app is different from having an app owned by the restaurant.
+
+For RKR, we could first examine whether its website and reservation links are easy to use on a phone.
 
 #### Affiliate Marketing
 
+We have not found enough information to confirm affiliate marketing programs for the selected competitors. Being listed on a restaurant directory or reservation platform does not automatically mean there is an affiliate agreement.
+
+We would need evidence of referral payments or an official affiliate program before including this as a confirmed strategy.
+
 #### Influencer Campaigns
 
+We have not confirmed formal influencer campaigns for the selected competitors. Someone posting about a restaurant does not necessarily mean the restaurant paid them or provided a free meal.
+
+We could look for sponsorship disclosures, collaboration labels, or announcements from the restaurants to identify confirmed partnerships.
+
 #### Summary Table of Comparison
+
+| Restaurant | Main focus | Visible digital features | What RKR could learn |
+|:---|:---|:---|:---|
+| **Pomona Valley Mining Company** | Scenic dining and events | Promotions, reservations, event inquiry form, and email signup.^1^ | Connect dining promotions to a clear reservation option. |
+| **Coco Palm** | Cuban food and dining experiences | Dining information, location-focused pages, and online ordering.^2^ | Make food and location information easy to find. |
+| **The Derby** | History and upscale dining | Restaurant history, reservations, and group-dining information.^3^ | Explain what makes the restaurant’s story interesting. |
+| **VITA Italian Bar & Grill** | Italian food and local ingredients | Menus, brunch and class promotions, reservations, email signup, and social account information.^4^ | Give customers specific meals, events, and updates to respond to. |
+
+*The table compares visible website features. It does not show which restaurant has better marketing results.*
 
 ## Customer Analysis (Leeann Lewis-Waddell)
 
