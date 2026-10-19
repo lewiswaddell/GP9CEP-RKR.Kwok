@@ -1000,21 +1000,37 @@ Our sampling frame will be the records we can access from Canva, Meta Business S
 
 We still need to confirm the date range and what information RKR can share. Some older records or metrics may not be available. We will explain any gaps that could affect the analysis.
 
-### Sampling Method
+### Sampling Method (Luis Ahumada)
 
-### Data Wrangling
+Our group will be using a non-probably convenience sampling method approach because our project relies on the existing data from RKR’s marketing platforms and reservation system (OpenTable) instead of using randomly selected observations. The secondary data that we will use includes Canva website insights for the Collins Concierge, Facebook and Instagram analytics using Sprout Social (pulls performance data from Meta Business Suite), and available OpenTable reservation records
+
+Each Analytics objective will use data that is related to the specific area of the project. All available data within the study period that meets the requirements of the analysis will be included. Any data that is unavailable, incomplete, or is missing metrics will be documented as a limitation.  
+
+### Data Wrangling (Luis Ahumada)
 
 #### Import
 
+The available reports or exports from Canva website insights, Sprouts Social (Instagram and Facebook insights), and OpenTable will be imported into RStudio or Positron. Each dataset will be reviewed separately because the platforms may use different structures, reporting periods, and metric definitions.
+
 #### Tidying
+
+Each data set used for our specific Analytical Objectives will be cleaned and standardized before analysis. We will format dates and reporting periods consistently, and we will remove any unnecessary fields. Missing values and duplicated records will also be reviewed, and variables will be checked for consistent naming and formats. If it is needed, records will be prepared for later classification or comparison, an example would be the social media posts that we are analyzing on Facebook and Instagram. These records may be organized by publication date, content type, or messaging characteristics.
 
 #### Joining the Data
 
-### Understanding the Data
+Datasets will only be joined or aligned when an AO requires information from more than one of the sources that were provided. If possible, we will match records using corresponding dates or reporting periods.
+
+### Understanding the Data (Luis Ahumada)
+
+Before the final analysis is complete, we will review each secondary data set to better understand the information that is available, reporting structure, and the quality of the data. This will help identify any missing fields, inconsistent reporting periods, and any values that may need to be reviewed before the analysis is carried out**.**
 
 #### Transform
 
+Some of the variables will be reorganized or summarized for the data sets to be analyzed more consistently. This might include having to group records into common reporting periods, calculating rates from platform totals, ad creating categories for content, message type, or post format.
+
 #### Visualize
+
+Our team will create data visualizations using RStudio or Positron after the secondary data sets are prepared for analysis. The type of visuals that will be used depends on the variables and comparisons required for each of our analytical objectives. But some possible visualizations may include bar charts for comparing categories or formats and line charts analyzing changes across reporting periods. There may be additional visualizations used if they fit the final analysis better than the ones talked about.  
 
 ### Programming
 
@@ -1154,13 +1170,34 @@ The objective is to evaluate guests' perceptions of food quality, service qualit
 
 Not applicable. The variables used to address AO2 are defined in Section 3.1.7.
 
-#### AO3. Title of AO3 Here (Name of Author Here)
+#### AO3. Facebook Content and Messaging Strategies and Reservation Performance (Luis Ahumada)
 
 ##### Method Used
 
+AO3 will use descriptive analysis, comparative content analysis, trend analysis and exploratory correlation analysis where the available data supports it.
+
+The first thing that will be done is Facebook posts will be grouped by content strategy and messaging strategy. This is where descriptive statistics will be used to summarize total engagements, engagement rate, and post link clicks where they are available. Comparative analysis is going to be used to examine differences in performance across the content and messaging categories.
+
+Facebook performance will also be compared with OpenTable reservation activity using matching reporting periods. If both data sets provide enough date-level information, weekly reporting will be used. Trend analysis will be used to compare Facebook performance and reservation activity over time. Exploratory correlation analysis may also be used if there are enough matched observations to analyze the direction and strength of the relationship between Facebook performance and reservations.
+
 ##### Justification for the Method
 
+The reason these methods work for A03 is because the objective focuses on identifying associations between Facebook content, messaging, engagement, and OpenTable reservation activity.
+
+Using descriptive analysis will create a baseline of Facebook posts related to RKR during the study period while comparative content analysis will show whether certain content or messaging strategies perform better than others. By using trend analysis, we will be able to see whether stronger RKR Facebook performance happens during similar periods as higher reservation activity.
+
 ##### Variables
+
+| Variable | Definition or coding | Role in AO4 |
+|------------------------|------------------------|------------------------|
+| Content Strategy | Main subject of each RKR-related Facebook post. | Compare performances across content types. |
+| Facebook Messaging strategy | How each RKR-related Facebook post is presented to the audience | Compare performance across messaging approaches. |
+| Facebook engagement rate | Platform reported engagement rate for the RKR related Facebook content being analyzed | Compare performance across different messaging approaches. |
+| Total Facebook engagements | Total recorded interactions with an RKR related Facebook post. | Measure amount of audience interaction |
+| Post link clicks | Number of clicks on links included in an RKR related Facebook post, when available | Measure user action beyond basic engagement |
+| OpenTable Reservation Activity | Number of reservations recorded during the matching reported period | Compare reservation activity with Facebook performance. |
+| Reporting Period | Consistent time period used to align Facebook and OpenTable data (weekly if supported) | Allow two data sets to be compared consistently |
+| Relevant calendar conditions (if available) | Campus events, Holidays, restaurant service periods, or other timing factors | Provide context for unusual changes changes in engagement or reservations. |
 
 #### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
