@@ -877,13 +877,17 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 
 ### Data Collection (Georgia Monjarrez)
 
-Primary data will be collected using a Qualtrics questionnaire. The survey introduction estimates a completion time of approximately 10 to 15 minutes and explains that participation is voluntary, participants may stop at any time, and responses will be anonymous and analyzed together. Respondents must agree to participate and confirm that they are at least 18 years old; a negative response to either question ends the survey. Participants will be recruited through \[confirm recruitment and distribution channels\], and data collection will take place from \[start date\] to \[end date\].
+Primary data will be collected using a Qualtrics questionnaire. The survey introduction estimates a completion time of approximately 10 to 15 minutes and explains that participation is voluntary, participants may stop at any time, and responses will be anonymous and analyzed together. Respondents must agree to participate and confirm that they are at least 18 years old; a negative response to either question ends the survey. The research team has not yet finalized the survey recruitment and distribution channels or the data collection dates. These details will be confirmed before recruitment begins.
 
 The questionnaire asks about RKR awareness, previous dining experiences, Facebook, Instagram, The Collins Concierge newsletter, website usability, and dining preferences. Branching will limit experience-specific questions to applicable respondents. Respondents who report having dined at RKR will answer questions about visit frequency, visit recency, reservation experience, and their dining experience. People who do not use Instagram will skip the remaining Instagram questions. Newsletter design and previous reservation-button clicks will be assessed only among respondents who report seeing the RKR newsletter section; other newsletter questions follow the exposure-based routing specified in the instrument.
 
-The website component will combine participant ratings with researcher-recorded task performance. Participants will begin each of three tasks from the RKR homepage and attempt, without assistance, to find a specified menu, locate specified operating hours, and reach the page or interface where a reservation could be started. Participants will not need to make an actual reservation. Before testing, the researchers will specify \[menu and service period\], \[day or service for the hours task\], and \[consistent time limit per task\], and verify the correct destinations and hours. For each task, researchers will record unassisted completion, elapsed time in seconds, and assistance, abandonment, or technical problems. The task administration and recording procedure will be \[confirm how sessions will be conducted and task records linked to questionnaire responses\].
+The website component will combine participant ratings with researcher-recorded task performance. Participants will complete three tasks: locate the lunch menu, find the posted lunch operating hours, and reach the page or interface where they could begin making a reservation. Researchers will verify the correct destinations and posted information before testing. No actual reservation will be required.
 
-Participants will rate task ease immediately after each attempt, including unsuccessful attempts. After the tasks, they will evaluate navigation clarity and website usefulness and may describe difficulties in an open-ended response. The final questionnaire will be included in the survey instrument appendix.
+Sessions will be moderated in person or through screen sharing. Participants will use their own device and begin each task from the RKR homepage. A two-minute limit per task is proposed and will be checked in a pilot session before the main study. The final limit will be applied consistently, and participants will work without assistance.
+
+Researchers will record whether each task was completed correctly without assistance, elapsed time in seconds, and any navigation difficulties, requests for assistance, or technical problems. An attempt will end when the participant succeeds, gives up, or reaches the time limit. Technical interruptions will be flagged separately from valid unsuccessful attempts.
+
+Participants will rate task ease immediately after each attempt, including unsuccessful attempts. After the tasks, they will evaluate navigation clarity and website usefulness and may describe difficulties in an open-ended response. Each participant will receive a study code entered in both the questionnaire and the task recording sheet, allowing the responses to be matched without using names. The code will not be linked to participant names. The final questionnaire will be included in the survey instrument appendix.
 
 ### Sample Characteristics (Georgia Monjarrez)
 
@@ -925,7 +929,7 @@ Discovery channels and important dining factors are multiple-response nominal it
 
 #### Sources of Measures
 
-The operational definitions and response formats described above follow the Group 9 RKR Survey questionnaire. Sources for adopted or adapted measures will be documented as follows: \[insert the original references for any borrowed or adapted items and identify which items were developed by the team\].
+The Group 9 research team prepared the questionnaire to address the project's analytics objectives. Measures cover dining experiences, marketing channel exposure and preferences, and website usability. Response formats include categorical choices, five-point rating scales, and open-ended questions. Website task measures include unassisted completion, elapsed time, and perceived task ease. The team will confirm whether any question wording was adapted from published instruments and provide the original references where applicable.
 
 ### Analytics Methods to Employ
 
