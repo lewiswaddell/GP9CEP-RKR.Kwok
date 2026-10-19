@@ -1,0 +1,9 @@
+[submodule "CEP-GP9_Ch2_ProgressReports"]
+	path = CEP-GP9_Ch2_ProgressReports
+	url = https://github.com/lewiswaddell/CEP-GP9_Ch2_ProgressReports.git
+[submodule "RKR Project"]
+	path = RKR Project
+	url = https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git
+[submodule "Secondary_Data_Collection/GA4-1---GP-Analytics-Blueprint"]
+	path = Secondary_Data_Collection/GA4-1---GP-Analytics-Blueprint
+	url = https://github.com/lahumada63/GA4-1---GP-Analytics-Blueprint.git
