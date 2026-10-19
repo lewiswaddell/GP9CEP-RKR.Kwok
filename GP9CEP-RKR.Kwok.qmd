@@ -67,17 +67,17 @@ Using previous issues as a baseline, Fall will test moving the "Reserve a Table"
 
 AO1 will help achieve PO1 by identifying which design changes lead to more "Reserve a Table" clicks and reservations. The results will show whether button placement, media, or both have the greatest impact on the RKR section. These findings will give RKR the evidence needed to design a newsletter section that supports reservation growth.
 
-### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
+### AO2. Customer Experience Ratings and Overall Satisfaction (Carmen Jimenez)
 
 - **PO2:** Identify what RKR guests value most and where improvements are needed to strengthen their overall dining experience.
 
-- **AO2:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
+- **AO2:** Compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment using anonymous post-visit survey responses to identify the strongest and weakest areas of the dining experience.
 
   - **Data Source:** Anonymous post-visit survey responses from RKR guests collected during Fall 2026, with Spring 2027 data added if available.
 
 #### How to address AO2
 
-The survey will measure food quality, service quality, atmosphere and physical environment, overall satisfaction, intention to return, and willingness to recommend using five-point rating items. The analysis will report response counts, percentages, and average ratings. Open-ended comments will be organized into recurring themes related to guest strengths and improvement opportunities.
+The survey will measure food quality, service quality, atmosphere and physical environment, overall satisfaction, intention to return, and likelihood to recommend using five-point rating items. The analysis will report response counts, percentages, and average ratings. Open-ended comments will be organized into recurring themes related to guest strengths and improvement opportunities.
 
 #### How AO2 will help achieve PO2
 
@@ -341,7 +341,7 @@ There is currently no loyalty program, so RKR’s current loyalty building effor
 
 Our group has not currently identified a formal loyalty or rewards program for RKR, so the customer survey, reservation data, and repeat visit information can provide  a better understanding of loyalty once those pieces of data are available.
 
-### Analytics Infrastructure
+### Analytics Infrastructure (Carmen Jimenez)
 
 The Restaurant at Kellogg Ranch (RKR) uses several digital platforms to communicate with customers, promote its dining services, and manage reservations. These platforms also provide opportunities to collect information about marketing performance and customer engagement. The main tools identified in this project include Canva, Facebook and Instagram analytics, OpenTable, and website performance reports.
 
@@ -515,7 +515,7 @@ RKR’s weekday hours may also limit who can visit. People who work during lunch
 
 The current newsletter section mainly uses text, and the reservation button is below the restaurant information. Readers who quickly scan the newsletter might overlook it. AO1 will test whether changing the button placement and adding visuals helps increase clicks. We will need the results before saying whether these changes work.
 
-### Opportunities
+### Opportunities (Carmen Jimenez)
 
 The Restaurant at Kellogg Ranch (RKR) has several opportunities to increase its visibility and attract more customers, both within Cal Poly Pomona and in the surrounding community. These opportunities are related to its potential customer segments, digital marketing channels, and partnerships with local and university organizations.
 
@@ -593,9 +593,9 @@ Since the gathered information was largely sufficient but missing data specific 
 
 The original AO set out to A/B test two RKR section formats in The Collins Concierge from October 2026 to June 2027, comparing "Reserve a Table" click rates and attributed OpenTable reservations between versions. It still holds, but the research has narrowed it, particularly as it relates to what is being tested and when. It addresses RKR's need to build sustainable demand by improving a section that is currently easy to scroll past, with no imagery and a button placed at the bottom, below the hours. On the other hand, testing media and button placement at the same time would make it impossible to know which change caused an increase, so the AO will be split into two phases. Beginning with a baseline of CTR from previous issues, Fall will test only the relocation of the button to the upper left, and Spring will A/B test video versus image, alternating weekly with the button in the same position. Canva will be used to track page views and clicks, which is necessary for separating a design problem from a readership problem, and each version will use its own link to OpenTable to tie reservations back to the format. A two-proportion test will compare click rates between versions, since it is a simple and appropriate way to determine whether a difference is real or due to chance. These tools are appropriate because they are already available to RKR and the Concierge team, they require no individual reader data, and they follow the same steps a reader takes from viewing the newsletter to clicking to booking [@hartemo2016].
 
-### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
+### AO2. Customer Experience Ratings and Overall Satisfaction (Carmen Jimenez)
 
-**Analytics Objective:** Using anonymous post-visit survey responses, compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment to identify the strongest and weakest experience areas.
+**Analytics Objective:** Compare RKR guests’ ratings of food quality, service quality, and atmosphere/physical environment using anonymous post-visit survey responses to identify the strongest and weakest areas of the dining experience.
 
 #### Existence of Well-established Models
 
@@ -859,7 +859,7 @@ The survey helps explain the click and reservation results from the secondary da
 
 The analysis will retain the original survey response categories and report valid-response denominators. Missing, skipped, and not-applicable responses will be distinguished, since some newsletter questions are shown only to respondents who have seen RKR's section. Findings will be used to inform the newsletter design tests and recommendations for strengthening RKR's section of The Collins Concierge.
 
-#### AO2. Customer Experience Factors Associated With Overall Satisfaction (Carmen Jimenez)
+#### AO2. Customer Experience Ratings and Overall Satisfaction (Carmen Jimenez)
 
 ##### Method Used
 
@@ -869,7 +869,7 @@ The quantitative analysis will focus on three dimensions: food quality, service 
 
 First, the survey dataset will be screened for eligibility, applicable survey branching, missing responses, and duplicate records where identifiable without compromising respondent anonymity. Respondents who have not visited RKR will be excluded from the guest-experience analysis, but their responses may remain relevant to other group objectives. Questions skipped because of survey branching will be classified as not applicable rather than as negative responses.
 
-For each experience item, response frequencies, percentages, and valid-response counts will be reported. Median ratings and response distributions will preserve the ordinal nature of the five-point scales. Mean ratings and standard deviations may also be reported as supplementary descriptive summaries to facilitate comparisons across items. Any comparisons will use consistent response coding, with higher scores indicating more favorable evaluations.
+For each experience item, response frequencies, percentages, valid-response counts, and mean ratings will be reported. Median ratings and response distributions will also be presented to preserve the ordinal nature of the five-point scales. Standard deviations may be included as supplementary descriptive measures. All comparisons will use consistent response coding, with higher scores indicating more favorable evaluations.
 
 Each of the twelve experience attributes will initially be evaluated separately. Dimension-level averages may be calculated if the four items within each dimension demonstrate appropriate conceptual coherence and sufficient internal consistency. Composite scoring rules, including the treatment of missing items, will be established before calculating these scores. If combining items is not justified, results will be reported at the individual-item level.
 
@@ -1041,11 +1041,11 @@ Some of the variables will be reorganized or summarized for the data sets to be 
 
 Our team will create data visualizations using RStudio or Positron after the secondary data sets are prepared for analysis. The type of visuals that will be used depends on the variables and comparisons required for each of our analytical objectives. But some possible visualizations may include bar charts for comparing categories or formats and line charts analyzing changes across reporting periods. There may be additional visualizations used if they fit the final analysis better than the ones talked about.  
 
-### Programming
+### Programming (Carmen Jimenez)
 
 The secondary data analysis will follow a structured and reproducible workflow to organize, process, and analyze the available digital marketing and reservation-related data from The Restaurant at Kellogg Ranch (RKR).
 
-The datasets will be obtained from the available sources identified in Section 3.2.1, including Canva website insights for The Collins Concierge, Facebook analytics from Meta Business Suite, Instagram Insights, and available OpenTable reservation records. Access to these datasets and their reporting periods will be confirmed with RKR staff before analysis.
+The datasets will be obtained from the available sources identified in Section 3.2.1, including Canva website insights for The Collins Concierge, Facebook analytics from Meta Business Suite or Sprout Social, Instagram Insights, and available OpenTable reservation records. Website performance data from the RKR Website Report in Google Data Studio (Looker Studio), as described in Section 3.2.10 under AO4, will also be included where accessible. Data access, reporting periods, and export availability will be confirmed with the relevant data owners before analysis.
 
 The programming workflow will begin with importing the available data exports into a structured analytical environment. Each dataset will be examined to identify variable names, data types, reporting dates, missing values, duplicate records, and inconsistencies. Original data files will be preserved to allow subsequent verification of the processing procedures.
 
@@ -1061,11 +1061,13 @@ The software and programming tools selected for data preparation, analysis, and 
 
 This workflow will allow the team to conduct consistent comparisons across available secondary datasets while recognizing differences in platform reporting methods and data availability.
 
-### Sample Characteristics
+### Sample Characteristics (Carmen Jimenez)
 
 The secondary datasets will consist of available observations from The Restaurant at Kellogg Ranch's (RKR) digital marketing platforms and reservation system. These sources include Canva insights for The Collins Concierge, Facebook analytics from Meta Business Suite, Instagram Insights, and available OpenTable reservation records.
 
 The unit of analysis will vary depending on the data source and analytics objective. For example, newsletter records may represent individual newsletter versions or reporting periods, while Facebook and Instagram observations may represent individual posts. OpenTable records may represent individual reservations or aggregated reservation activity, depending on the information provided by RKR.
+
+Website analytics records, where available, may represent aggregated traffic, acquisition channels, landing pages, or page-level performance during defined reporting periods. These records will be described separately from newsletter, social media, and reservation datasets because their units of analysis and measurement definitions differ.
 
 The number of observations, reporting periods, and inclusion criteria will be documented separately for each dataset once access is confirmed. Because these records originate from different reporting systems, their characteristics will be described individually rather than treated as one combined sample.
 
@@ -1099,11 +1101,11 @@ The analysis will distinguish content exposure, digital engagement, reservation-
 
 Summary tables will report the number of available records and relevant characteristics for each data source. Missing values, incomplete reporting periods, and platform-specific limitations will be documented to support accurate interpretation of the findings.
 
-### Measures
+### Measures (Carmen Jimenez)
 
-Secondary-data measures will be defined according to the analytics objectives established in Chapter 1. Each measure will retain its original platform definition, and calculated metrics will be documented to ensure consistent interpretation across reporting periods.
+Secondary-data measures will be defined according to the analytics objectives established in Chapter 1 and the available data sources identified in Chapter 2. Each measure will retain its original platform definition, and calculated metrics will be documented to ensure consistent interpretation across reporting periods.
 
-Because the project includes descriptive comparisons and exploratory associations, independent, dependent, and control variables will be identified only where applicable to each analytics objective.
+Because the project includes descriptive comparisons and exploratory associations, variables will be classified as grouping, outcome, or contextual variables according to the requirements of each analytics objective. Independent, dependent, and control variables will be identified where appropriate, without assuming causal relationships.
 
 #### Independent Variables (if applicable)
 
