@@ -295,15 +295,33 @@ We also need to find out whether RKR pays for Facebook or Instagram ads or boost
 
 We have not confirmed whether RKR uses display ads, such as banner ads on other websites. We will ask the client whether these ads are being used and what results are available.
 
-### Other digital marketing channels & tactics
+### Other Digital Marketing Channels & Tactics (Georgia Monjarrez)
+
+Beyond the website, newsletter, and social media channels discussed in Section 2.3.2, this section considers RKR's use of conversion rate optimization, mobile applications, affiliate marketing, and influencer campaigns. The project team has not yet confirmed formal programs in these areas. The discussion therefore distinguishes proposed project activities from established restaurant practices.
 
 #### Conversion Rate Optimization (CRO)
 
+For this project, conversion rate optimization focuses on helping interested customers complete a desired action. Relevant actions include clicking the newsletter's “Reserve a Table” button and accessing the reservation process through RKR's website, which provides an OpenTable reservation option [@therest]. Completed reservations represent a separate outcome that requires additional tracking.
+
+As described in the team's analytics objectives, AO1 will test whether changes to newsletter visuals and reservation-button placement increase clicks. AO4 will evaluate how easily website users find the menu, locate operating hours, and reach the reservation process. These planned analyses could identify barriers between customer interest and action. However, the team has not confirmed whether RKR currently conducts regular conversion testing or maintains an ongoing CRO program.
+
 #### Mobile Application
+
+The team has not identified a dedicated RKR mobile application in the materials reviewed for this report. The restaurant's website and OpenTable reservation access provide existing digital pathways for customers to obtain information and plan a visit [@therest]. These pathways should be distinguished from a restaurant-owned application.
+
+For this project, evaluating the website experience on mobile devices could help determine whether customers can easily access essential dining information and reservation options. Any assessment should document the devices used and the navigation issues observed before drawing conclusions about mobile usability.
 
 #### Affiliate Marketing
 
+The team has not confirmed an affiliate marketing program through which RKR compensates partners for generating referrals or reservations. University communications and potential partnerships with campus organizations or local businesses should not automatically be classified as affiliate marketing.
+
+To establish whether this tactic is currently used, the team would need information about formal referral agreements, partner compensation, and methods for tracking resulting customer actions. Until such arrangements are confirmed, affiliate marketing remains an unverified practice.
+
 #### Influencer Campaigns
+
+The team has not confirmed a formal RKR influencer campaign involving paid or otherwise compensated promotional partnerships. As noted in the Marketing Team and Expertise section, the executive chef's personal professional accounts have been identified as potential sources of visibility, but they are not official RKR channels available to the project team. Their existence alone does not establish an influencer marketing program.
+
+If RKR has worked with content creators, further information would be needed about campaign arrangements, content, audience reach, and measurable outcomes. Organic guest posts and independent restaurant coverage should also be distinguished from coordinated influencer campaigns.
 
 ### Allocation of Resources to Customer-Influence Efforts (Luis Ahumada)
 
@@ -511,7 +529,23 @@ Customers have several restaurant options to choose from within the local and su
 
 Another threat is that customers outside of Cal Poly Pomona are not limited to campus dining options, so they may not know that the RKR exists. Another threat is that other restaurants offer weekend services, have longer hours, or are more familiar with the dining experience. This is important to consider because it puts the RKR at a disadvantage to begin with. The restaurant industry is also currently dealing with uneven customer traffic and high operating costs, which leads to customers being more selective about how much they eat out and where they choose to spend their money.
 
-### **Summary: SWOT quadrants**
+### Summary: SWOT Quadrants (Georgia Monjarrez)
+
+The following SWOT matrix summarizes RKR's internal strengths and weaknesses and the external opportunities and threats affecting its ability to attract and retain guests. The strengths reflect restaurant characteristics described earlier in this report, while the remaining quadrants consolidate the preceding SWOT discussions. Items relating to coordination, tracking, and newsletter design remain team assessments requiring client confirmation or project testing.
+
+| **Strengths — Internal** | **Weaknesses — Internal** |
+|:---|:---|
+| **Distinctive dining experience:** Student-operated restaurant connected to Cal Poly Pomona's hospitality education program [@therest]. | **Distributed marketing responsibilities:** As discussed in Section 2.2.1, multiple people manage different channels, potentially making coordination and consistent messaging more difficult; client confirmation is still needed. |
+| **Seasonal, locally sourced food:** Campus-grown ingredients provide distinctive menu offerings and stories for marketing content [@therest]. | **Limited reservation attribution:** The team has not confirmed consistent tracking that connects marketing interactions to completed reservations. |
+| **Scenic setting:** Campus views and a distinctive atmosphere support business meals, celebrations, and group dining [@therest]. | **Restricted dining availability:** Posted weekday service limits access for guests seeking weekend dining [@therest]. |
+| **Existing communication channels:** The website, Collins Concierge newsletter, social media, and OpenTable access support customer communication and visit planning, as described in Section 2.3.2. | **Potential newsletter design limitations:** The text-heavy format and reservation-button placement may reduce visibility, although AO1 testing is needed to establish their effect. |
+| **Opportunities — External** | **Threats — External** |
+| **University audiences:** Faculty, staff, students, alumni, and campus visitors offer potential demand for meals, meetings, and celebrations, based on the team's customer analysis. | **Local competition:** Pomona Valley Mining Company and Coco Palm offer scenic dining and event settings that may appeal to similar dining occasions [@pomona_mining; @coco_palm]. |
+| **Surrounding community:** Local residents and professionals represent potential customers beyond the campus population, as identified in Section 2.5. | **Competitors' broader availability:** Weekend offerings at comparison restaurants provide alternatives when RKR is not serving regular meals [@pomona_mining; @vita; @therest]. |
+| **Organizational partnerships:** University departments, alumni groups, student organizations, and local businesses could introduce RKR to additional guests; these are proposed opportunities rather than confirmed partnerships. | **Familiar alternatives:** The team identifies established restaurant alternatives as a potential challenge when reaching prospective customers outside the university; comparative awareness has not yet been measured. |
+| **Digital audience access:** Social media and university communication networks provide opportunities to reach and engage prospective diners, building on the channels identified in Section 2.3.2. | **Industry pressures:** Uneven customer traffic and high operating costs create a challenging restaurant environment [@nra2026update]. |
+
+Overall, RKR's student-operated dining experience, campus-grown ingredients, and scenic location provide distinctive features that can support its marketing efforts [@therest]. The team's analysis identifies opportunities to reach more university and community audiences through existing channels and organizational partnerships. However, limited dining availability, potential coordination challenges, and gaps in reservation tracking may constrain these efforts. The project's analyses will help evaluate how RKR can communicate its strengths, improve customer access to information, and assess marketing performance within a competitive dining market.
 
 ## Investigation of Currently Available Research Framework/Model {#sec-investigation-of-currently-available-research-frameworkmodel}
 
