@@ -360,17 +360,55 @@ Improving how these data are collected and reviewed could help RKR make better m
 
 ## 2.4 Competitive Analysis
 
+RKR competes with restaurants in Pomona and the surrounding area. Customers may compare food, prices, atmosphere, location, and available dining times when choosing a restaurant. Our proposed comparisons are Pomona Valley Mining Company, Coco Palm, The Derby, and VITA Italian Bar & Grill. We still need to confirm which restaurants RKR considers its closest competitors.
+
 ### Industry Size
+
+The figures below describe the broader U.S. restaurant and foodservice industry. They provide background for the project but do not measure the size of RKR’s local market.
 
 #### Number of Companies
 
+We have not yet confirmed the number of restaurant companies in RKR’s local market. Before finding this number, our team needs to define the area and types of restaurants included in the comparison. A count of restaurant locations would also be different from a count of companies, since one company may operate several locations.
+
 #### Number of Employees
+
+The National Restaurant Association’s initial 2026 forecast projected total U.S. restaurant and foodservice employment of 15.8 million people.^5^ This shows the size of the national industry, but we have not yet obtained an employment estimate for RKR’s local market.
 
 #### Annual Revenue and Key Financial Information
 
+The National Restaurant Association’s initial forecast projected U.S. restaurant and foodservice sales of \$1.55 trillion in 2026.^5^ In July, the association updated its expected annual sales growth to 4.3%, or 0.8% after adjusting for inflation. The update also reported uneven customer traffic and high operating costs.^6^
+
+These conditions suggest that restaurants need to give customers a clear reason to visit. For RKR, we think its student-run experience, seasonal menus, and campus-grown ingredients could help communicate its value.^7^ We have not obtained comparable annual revenue figures for RKR and the selected competitors.
+
 #### Existence of Dominant Players and Competitors
 
+Our analysis focuses on restaurants that could appeal to customers looking for a similar dining occasion. We have not established that any of these restaurants dominates the local market.
+
+Pomona Valley Mining Company and Coco Palm were selected as nearby comparisons because both promote scenic dining.^1,2^ The Derby in Arcadia provides a regional comparison for upscale dining and special occasions.^3^ VITA Italian Bar & Grill offers another Pomona option and emphasizes Italian food, local ingredients, and its dining atmosphere.^4^
+
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| Restaurant                                | Main offering                                                                               | Digital marketing features                                                                                             | What this means for RKR                                                                                        |
++:==========================================+:============================================================================================+:=======================================================================================================================+:===============================================================================================================+
+| **RKR — Pomona**                          | Student-run restaurant with seasonal food, campus-grown ingredients, and hillside views.^7^ | Website includes menus, visitor information, OpenTable reservations, and an Instagram link.^7^                         | Student involvement and campus ingredients give RKR different topics to feature in its content.                |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **Pomona Valley Mining Company — Pomona** | Hilltop dining, Sunday brunch, and private events.^1^                                       | Website promotes holiday meals and events, provides menu information, and links to OpenTable reservations.^1^          | Competes for scenic dining and celebrations. Its website connects promotions to a clear reservation option.    |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **Coco Palm — Pomona**                    | Cuban dining with city views and space for special occasions.^2^                            | Website provides menus, reservations, online ordering, and event information.^2^                                       | Offers another option for local customers looking for a meal with a view or a celebration venue.               |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **The Derby — Arcadia**                   | Upscale steakhouse with a long history and a focus on its dining atmosphere.^3^             | Website shares the restaurant’s history, food and interior photos, reservation links, and group-dining information.^3^ | Shows how a restaurant can use its story and atmosphere to give customers a reason to visit.                   |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **VITA Italian Bar & Grill — Pomona**     | Italian dining with local ingredients, an outdoor terrace, and Sunday brunch.^4^            | Website features menus, reservation links, food photos, brunch promotions, and cooking classes.^4^                     | Provides another nearby dining option. Its food and event promotions give us ideas for content RKR could test. |
++-------------------------------------------+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+
+*The table compares visible website features. It does not show which restaurant has better marketing results.*
+
+This comparison supports our analytics objectives by identifying content and customer actions to evaluate. For AO5, we could compare Instagram posts about food, students, and the dining atmosphere to see which receive more engagement. The newsletter and website objectives could examine whether menu information and reservation links encourage customers to take the next step. Reservation-link clicks should be measured separately from completed reservations.
+
 #### Market Share of Each Major Player
+
+We have not found reliable market-share figures for RKR or the selected competitors. Calculating revenue-based market share would require each restaurant’s sales and total sales for a clearly defined market during the same period.
+
+Because these figures are not available to our team, we cannot estimate each restaurant’s market share. Social media followers and online reviews may help compare online visibility, but they do not measure market share.
 
 ### Industry Outlook
 
