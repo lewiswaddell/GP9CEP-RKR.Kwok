@@ -89,15 +89,15 @@ The results will identify which parts of the RKR experience guests evaluate most
 
 - **AO3:** Analyze associations between facebook content and messaging strategies, engagement metrics, and OpenTable reservation activity.
 
-- **Data Source:** RKR Facebook posts and Meta Business Suite Analytics including engagement metrics and link clicks; available OpenTable reservation data; and trackable reservation links or QR codes if available.
+- **Data Source:** RKR-related Facebook performance data from Sprout Social, including post-level engagement metrics and clicks, along with client-provided OpenTable reservation and guest activity data provided by the RKR team.
 
 #### How to address AO3
 
-The plan is to categorize RKR Facebook posts by content and messaging type and compare their performance using available engagenent metrics through Meta. The following step would be to analyze how these results are associated with OpenTable reservation activity. The content categories and analytical methods will depend on the anount and quality of data available.
+The 14 RKR-related Facebook posts available during the study period will be grouped by content and messaging strategy. Their performance will then be compared using metrics such as total engagements, engagement rate, reactions, comments, shares, and clicks. Facebook performance will also be summarized by month and compared with OpenTable activity from April through October 2026 to look for patterns between Facebook activity and restaurant activity.
 
 #### How AO3 will help achieve PO3
 
-AO3 will help achieve PO3 by identifying which Facebook content and messaging strategies are associated with stronger engagement and OpenTable reservation activity. These findings will provide the evidence needed to develop a Facebook marketing strategy that focuses on the most effective content and messaging approaches to support the reservation growth at RKR.
+AO3 will help achieve PO3 by showing which types of Facebook content and messaging perform better and how Facebook performance compares with OpenTable activity over time. This will help provide evidence for what RKR should focus on when developing its Facebook strategy. The analysis will focus on patterns and associations and will not assume that Facebook activity directly caused changes in reservations.
 
 ### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
@@ -386,7 +386,7 @@ Our analysis focuses on restaurants that could appeal to customers looking for a
 Pomona Valley Mining Company and Coco Palm were selected as nearby comparisons because both promote scenic dining.^1,2^ The Derby in Arcadia provides a regional comparison for upscale dining and special occasions.^3^ VITA Italian Bar & Grill offers another Pomona option and emphasizes Italian food, local ingredients, and its dining atmosphere.^4^
 
 | Restaurant | Main offering | Digital marketing features | What this means for RKR |
-|:---------------|:---------------|:--------------------|:------------------|
+|:----------------|:----------------|:-------------------|:-----------------|
 | **RKR — Pomona** | Student-run restaurant with seasonal food, campus-grown ingredients, and hillside views.^7^ | Website includes menus, visitor information, OpenTable reservations, and an Instagram link.^7^ | Student involvement and campus ingredients give RKR different topics to feature in its content. |
 | **Pomona Valley Mining Company — Pomona** | Hilltop dining, Sunday brunch, and private events.^1^ | Website promotes holiday meals and events, provides menu information, and links to OpenTable reservations.^1^ | Competes for scenic dining and celebrations. Its website connects promotions to a clear reservation option. |
 | **Coco Palm — Pomona** | Cuban dining with city views and space for special occasions.^2^ | Website provides menus, reservations, online ordering, and event information.^2^ | Offers another option for local customers looking for a meal with a view or a celebration venue. |
@@ -502,7 +502,7 @@ We could look for sponsorship disclosures, collaboration labels, or announcement
 #### Summary Table of Comparison
 
 | Restaurant | Main focus | Visible digital features | What RKR could learn |
-|:---|:---|:---|:---|
+|:-----------------|:-----------------|:-----------------|:-----------------|
 | **Pomona Valley Mining Company** | Scenic dining and events | Promotions, reservations, event inquiry form, and email signup.^1^ | Connect dining promotions to a clear reservation option. |
 | **Coco Palm** | Cuban food and dining experiences | Dining information, location-focused pages, and online ordering.^2^ | Make food and location information easy to find. |
 | **The Derby** | History and upscale dining | Restaurant history, reservations, and group-dining information.^3^ | Explain what makes the restaurant’s story interesting. |
@@ -988,20 +988,24 @@ Descriptive analysis will be used to summarize the answers to the questions on t
 
 If there are enough responses, simple cross-tabulations can be used to compare content/messaging preferences with stated likelihood of interacting with a RKR related Facebook post or being influenced toward a reservation.
 
+These survey results will be used as supplemental information for AO3. The main analysis will use actual Facebook performance data from Sprout Social and OpenTable activity.
+
 ##### Justification for the Method
 
 These methods work because the survey measures preferences and intentions rather than actual Facebook behavior. The analysis will provide supporting information about what people being surveyed prefer to see on Facebook in terms of RKR related content and how likely they say they are likely to engage with the content.
+
+Because of this, the survey will be used as supporting information, while the main AO3 analysis will focus on actual Facebook engagement metrics and OpenTable activity.
 
 ##### Variables
 
 Variable
 
-|   | Coding or definition | Role in AO4 |
+|   | Coding or definition | Role in AO3 |
 |------------------------|------------------------|------------------------|
 | Facebook content preference | single choice nominal survey item | Identify preferred RKR related Facebook content types |
 | Facebook Messaging preference | single choice nominal survey item | Identify preferred messaging approaches |
 | Likelihood of interacting with an interesting RKR related Facebook post | Five category ordinal item | Measure stated engagement intention |
-| Likelihood that a Facebook post would influence reservation decision | Five category ordinal item | Ordinal perception outcome |
+| Likelihood that a Facebook post would influence reservation decision | Five category ordinal item | Measure stated reservation influence |
 
 #### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
@@ -1082,7 +1086,7 @@ We still need to confirm the date range and what information RKR can share. Some
 
 ### Sampling Method (Luis Ahumada)
 
-Our group will be using a non-probably convenience sampling method approach because our project relies on the existing data from RKR’s marketing platforms and reservation system (OpenTable) instead of using randomly selected observations. The secondary data that we will use includes Canva website insights for the Collins Concierge, Facebook and Instagram analytics using Sprout Social (pulls performance data from Meta Business Suite), and available OpenTable reservation records
+Our group will be using a non-probability convenience sampling method approach because our project relies on the existing data from RKR’s marketing platforms and reservation system (OpenTable) instead of using randomly selected observations. The secondary data that we will use includes Canva website insights for the Collins Concierge, Facebook and Instagram analytics using Sprout Social (pulls performance data from Meta Business Suite), and available OpenTable reservation records
 
 Each Analytics objective will use data that is related to the specific area of the project. All available data within the study period that meets the requirements of the analysis will be included. Any data that is unavailable, incomplete, or is missing metrics will be documented as a limitation.  
 
@@ -1258,28 +1262,32 @@ Not applicable. The variables used to address AO2 are defined in Section 3.1.7.
 
 AO3 will use descriptive analysis, comparative content analysis, trend analysis and exploratory correlation analysis where the available data supports it.
 
-The first thing that will be done is Facebook posts will be grouped by content strategy and messaging strategy. This is where descriptive statistics will be used to summarize total engagements, engagement rate, and post link clicks where they are available. Comparative analysis is going to be used to examine differences in performance across the content and messaging categories.
+The first thing that will be done is the 14 Facebook posts related to RKR will be grouped by content strategy and messaging strategy. This is where descriptive statistics will be used to summarize total engagements, engagement rate, reactions, comments, shares, post link clicks, and total post clicks. Comparative analysis will then be used to look at differences in performance across the content and messaging categories.
 
-Facebook performance will also be compared with OpenTable reservation activity using matching reporting periods. If both data sets provide enough date-level information, weekly reporting will be used. Trend analysis will be used to compare Facebook performance and reservation activity over time. Exploratory correlation analysis may also be used if there are enough matched observations to analyze the direction and strength of the relationship between Facebook performance and reservations.
+Facebook performance will also be summarized by month and compared with OpenTable activity using the shared April through October 2026 reporting period. Trend analysis will be used to look at how Facebook activity and OpenTable activity change over time. Months with no available RKR-related Facebook posts will still be included so they can provide context when looking at restaurant activity.
+
+Exploratory correlation analysis may also be used to look at the direction and strength of the relationship between selected Facebook and OpenTable measures. Because the number of monthly observations is limited, any correlation results will be treated as exploratory and will not be used to claim that Facebook activity caused changes in reservations.
 
 ##### Justification for the Method
 
 The reason these methods work for A03 is because the objective focuses on identifying associations between Facebook content, messaging, engagement, and OpenTable reservation activity.
 
-Using descriptive analysis will create a baseline of Facebook posts related to RKR during the study period while comparative content analysis will show whether certain content or messaging strategies perform better than others. Previous restaurant social media research has compared Facebook post characteristics, message style and format for customer engagement, which supports this approach [@manningham2024]. Research has also shown that differnet types of engagement can have different types of relationships with restaurant behavior, supporting looking at more than one engagement metric [@halloran2021]. By using trend analysis, we will be able to see whether stronger RKR Facebook performance happens during similar periods as higher reservation activity. Social media engagement and business outcomes have also been compared in prior research, supporting examining Facebook performance alongside OpenTable activity [@yost2021].
+Using descriptive analysis will create a baseline of Facebook posts related to RKR during the study period, while comparative content analysis will show whether certain content or messaging strategies perform better than others. Previous restaurant social media research has compared Facebook post characteristics, message style and format for customer engagement, which supports this approach [@manningham2024]. Research has also shown that differnet types of engagement can have different types of relationships with restaurant behavior, supporting looking at more than one engagement metric [@halloran2021].
+
+Trend analysis will make it possible to compare Facebook performance with OpenTable activity across the same monthly reporting periods. Previous research has also compared social media engagement with business outcomes, which supports looking at Facebook performance alongside OpenTable activity [@yost2021]. The goal of this analysis is to identify patterns and associations that can help guide RKR's Facebook strategy rather than establish a direct causal relationship.
 
 ##### Variables
 
-| Variable | Definition or coding | Role in AO4 |
+| Variable | Definition or coding | Role in AO3 |
 |------------------------|------------------------|------------------------|
 | Content Strategy | Main subject of each RKR-related Facebook post. | Compare performances across content types. |
 | Facebook Messaging strategy | How each RKR-related Facebook post is presented to the audience | Compare performance across messaging approaches. |
-| Facebook engagement rate | Platform reported engagement rate for the RKR related Facebook content being analyzed | Compare performance across different messaging approaches. |
+| Facebook engagement rate | Engagement rate for each RKR-related Facebook post | Compare performance across posts and categories |
 | Total Facebook engagements | Total recorded interactions with an RKR related Facebook post. | Measure amount of audience interaction |
 | Post link clicks | Number of clicks on links included in an RKR related Facebook post, when available | Measure user action beyond basic engagement |
-| OpenTable Reservation Activity | Number of reservations recorded during the matching reported period | Compare reservation activity with Facebook performance. |
-| Reporting Period | Consistent time period used to align Facebook and OpenTable data (weekly if supported) | Allow two data sets to be compared consistently |
-| Relevant calendar conditions (if available) | Campus events, Holidays, restaurant service periods, or other timing factors | Provide context for unusual changes changes in engagement or reservations. |
+| OpenTable Reservation Activity | Monthly reservation-based activity recorded through OpenTable | Compare reservation activity with Facebook performance. |
+| Reporting Period | Monthly reporting period used to align Facebook and OpenTable activity | Compare historical performance and track the Facebook plan over time |
+| Facebook Posts per Month | Number of RKR-related Facebook posts published during each month | Measure Facebook activity and provide a baseline for the planned posting schedule |
 
 #### AO4. Website Content, Navigation, and Usability (Georgia Monjarrez)
 
