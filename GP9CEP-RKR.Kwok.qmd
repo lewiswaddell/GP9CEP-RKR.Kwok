@@ -386,7 +386,7 @@ Our analysis focuses on restaurants that could appeal to customers looking for a
 Pomona Valley Mining Company and Coco Palm were selected as nearby comparisons because both promote scenic dining.^1,2^ The Derby in Arcadia provides a regional comparison for upscale dining and special occasions.^3^ VITA Italian Bar & Grill offers another Pomona option and emphasizes Italian food, local ingredients, and its dining atmosphere.^4^
 
 | Restaurant | Main offering | Digital marketing features | What this means for RKR |
-|:----------------|:----------------|:-------------------|:-----------------|
+|:-----------------|:-----------------|:-------------------|:-----------------|
 | **RKR — Pomona** | Student-run restaurant with seasonal food, campus-grown ingredients, and hillside views.^7^ | Website includes menus, visitor information, OpenTable reservations, and an Instagram link.^7^ | Student involvement and campus ingredients give RKR different topics to feature in its content. |
 | **Pomona Valley Mining Company — Pomona** | Hilltop dining, Sunday brunch, and private events.^1^ | Website promotes holiday meals and events, provides menu information, and links to OpenTable reservations.^1^ | Competes for scenic dining and celebrations. Its website connects promotions to a clear reservation option. |
 | **Coco Palm — Pomona** | Cuban dining with city views and space for special occasions.^2^ | Website provides menus, reservations, online ordering, and event information.^2^ | Offers another option for local customers looking for a meal with a view or a celebration venue. |
@@ -3115,15 +3115,25 @@ If your project doesn't have a client and is intended to benefit the public or i
 
 # APPENDIX
 
-## Data
-
-*(If you used data for your analysis, include the data here or link to the shared cloud folder. You may also provide a link to a Google Doc with the data.)*
-
-### Link to Data
-
 - [GitHub Repo](https://github.com/lewiswaddell/GP9CEP-RKR.Kwok.git)
 
 - [Github Pages](https://lewiswaddell.github.io/GP9CEP-RKR.Kwok/)
+
+- [Paid Ad Spend Budget Proposal](https://livecsupomona-my.sharepoint.com/:b:/g/personal/lewiswaddell_cpp_edu/IQDODwApXg1bSKvRO_AWO0ZPAR5GhiuBT3LAPZjwn_Gyh3I?e=8tqNPA)
+
+- [Service Menu Customer Survey 2026](https://livecsupomona-my.sharepoint.com/:i:/g/personal/lewiswaddell_cpp_edu/IQBKzOb9HFdsS4ad6j6Xw9qfAcedJT7no03BPH77Hmi1lc0?e=wU0ta1)
+
+## Data
+
+### Link to Data
+
+- [Collins Concierge Issue #37 (revised format #1)](https://cppcollins.my.canva.site/the-collins-concierge-37)
+
+- [Collins Concierge Weekly Engagement Analytics (12 issues)](https://livecsupomona.sharepoint.com/sites/brand1/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fbrand1%2FShared%20Documents%2FCollins%20%26%20StratComm%20Shared%2FThe%20Collins%20Concierge%2FConcierge%20Analytics&p=true&ct=1795062566363&or=OWA%2DNT%2DMail&cid=56db80fc%2D7a29%2Db0ed%2Dd1dd%2Dd9755f26c3a7&ga=1)
+
+- [OpenTable Reservation Data](https://claude.ai/artifact/JR3irPtV8GNiutgF7pHP92#reviews)
+
+- [RKR Social Media Performance Data (6 months)](https://livecsupomona-my.sharepoint.com/:f:/g/personal/lewiswaddell_cpp_edu/IgAmMEA52W17QIrIfZaHxl6VAf9iTSbk8gMlkRdILr0RkV4?e=c1BWXG)
 
 ### Data Dictionary
 
